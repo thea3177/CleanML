@@ -114,6 +114,13 @@ University = {
     "drop_variables": ["university name", "academic-emphasis"]
 }
 
+BabyProduct = {
+    "data_dir": "BabyProduct",
+    "error_types": ["missing_values"],
+    "label": "class",
+    "ml_task": "classification"
+}
+
 KDD_major = {
     "data_dir": "KDD_major",
     "error_types": ["mislabel"],
@@ -261,7 +268,7 @@ Credit_minor = {
 # domain of dataset 
 datasets = [KDD, Credit, Airbnb, USCensus, EEG, Titanic, 
             Marketing, Sensor, Movie, Restaurant, Citation, 
-            Company, University, KDD_uniform, KDD_minor, KDD_major,
+            Company, University, BabyProduct, KDD_uniform, KDD_minor, KDD_major,
             USCensus_uniform, USCensus_major, USCensus_minor,
             EEG_uniform, EEG_minor, EEG_major, Titanic_uniform, Titanic_minor, Titanic_major,
             Marketing_uniform, Marketing_major, Marketing_minor, Credit_uniform, Credit_major, Credit_minor]
