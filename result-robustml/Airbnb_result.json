@@ -1,0 +1,322 @@
+{
+    "Airbnb/v8093/missing_values/dirty/nacl/3659": {
+        "best_params": {
+            "C": 0.022381196598918844
+        },
+        "nacl_missing_test_f1": 0.6165931332665768,
+        "nacl_missing_test_acc": 0.6815555555555556,
+        "nacl_test_f1": 0.7458827808380506,
+        "nacl_test_acc": 0.6824444444444444,
+        "nacl_train_acc": 0.7034285714285714,
+        "nb_test_f1": 0.6531712679298758,
+        "nb_test_acc": 0.6406666666666667,
+        "nb_train_acc": 0.6541904761904762,
+        "lr_test_f1": 0.7458827808380506,
+        "lr_test_acc": 0.6824444444444444,
+        "lr_train_acc": 0.7034285714285714
+    },
+    "Airbnb/v235/missing_values/dirty/nacl/3659": {
+        "best_params": {
+            "C": 0.009878597119522799
+        },
+        "nacl_missing_test_f1": 0.6068529365037616,
+        "nacl_missing_test_acc": 0.6742222222222222,
+        "nacl_test_f1": 0.7389889183607911,
+        "nacl_test_acc": 0.6753333333333333,
+        "nacl_train_acc": 0.6976190476190476,
+        "nb_test_f1": 0.6407288384703752,
+        "nb_test_acc": 0.6364444444444445,
+        "nb_train_acc": 0.644095238095238,
+        "lr_test_f1": 0.7389889183607911,
+        "lr_test_acc": 0.6753333333333333,
+        "lr_train_acc": 0.6976190476190476
+    },
+    "Airbnb/v5396/missing_values/dirty/nacl/3659": {
+        "best_params": {
+            "C": 46.07666668621421
+        },
+        "nacl_missing_test_f1": 0.6412415038805972,
+        "nacl_missing_test_acc": 0.6991111111111111,
+        "nacl_test_f1": 0.7549459880952443,
+        "nacl_test_acc": 0.6997777777777778,
+        "nacl_train_acc": 0.6931428571428572,
+        "nb_test_f1": 0.6513780016995806,
+        "nb_test_acc": 0.6433333333333333,
+        "nb_train_acc": 0.642,
+        "lr_test_f1": 0.7549459880952443,
+        "lr_test_acc": 0.6997777777777778,
+        "lr_train_acc": 0.6931428571428572
+    },
+    "Airbnb/v5192/missing_values/dirty/nacl/3659": {
+        "best_params": {
+            "C": 0.0029327085198583313
+        },
+        "nacl_missing_test_f1": 0.6365027056407742,
+        "nacl_missing_test_acc": 0.7022222222222222,
+        "nacl_test_f1": 0.7662054721877404,
+        "nacl_test_acc": 0.7008888888888889,
+        "nacl_train_acc": 0.702952380952381,
+        "nb_test_f1": 0.6550078720467597,
+        "nb_test_acc": 0.6477777777777778,
+        "nb_train_acc": 0.6514285714285715,
+        "lr_test_f1": 0.7662054721877404,
+        "lr_test_acc": 0.7008888888888889,
+        "lr_train_acc": 0.702952380952381
+    },
+    "Airbnb/v2962/missing_values/dirty/nacl/3659": {
+        "best_params": {
+            "C": 0.0057110639597241185
+        },
+        "nacl_missing_test_f1": 0.614821266900017,
+        "nacl_missing_test_acc": 0.6888888888888889,
+        "nacl_test_f1": 0.7621629629629632,
+        "nacl_test_acc": 0.6897777777777778,
+        "nacl_train_acc": 0.6982857142857143,
+        "nb_test_f1": 0.6583541142717877,
+        "nb_test_acc": 0.6444444444444445,
+        "nb_train_acc": 0.6521904761904762,
+        "lr_test_f1": 0.7621629629629632,
+        "lr_test_acc": 0.6897777777777778,
+        "lr_train_acc": 0.6982857142857143
+    },
+    "Airbnb/v7751/missing_values/dirty/nacl/3659": {
+        "best_params": {
+            "C": 0.009274038636133474
+        },
+        "nacl_missing_test_f1": 0.6265981530206882,
+        "nacl_missing_test_acc": 0.6902222222222222,
+        "nacl_test_f1": 0.7526386967039972,
+        "nacl_test_acc": 0.6913333333333334,
+        "nacl_train_acc": 0.6951428571428572,
+        "nb_test_f1": 0.6444964683966653,
+        "nb_test_acc": 0.6353333333333333,
+        "nb_train_acc": 0.6421904761904762,
+        "lr_test_f1": 0.7526386967039972,
+        "lr_test_acc": 0.6913333333333334,
+        "lr_train_acc": 0.6951428571428572
+    },
+    "Airbnb/v4764/missing_values/dirty/nacl/3659": {
+        "best_params": {
+            "C": 0.007100241679657011
+        },
+        "nacl_missing_test_f1": 0.6266263422260968,
+        "nacl_missing_test_acc": 0.6922222222222222,
+        "nacl_test_f1": 0.7574948994546918,
+        "nacl_test_acc": 0.6926666666666667,
+        "nacl_train_acc": 0.6966666666666667,
+        "nb_test_f1": 0.6513041142037738,
+        "nb_test_acc": 0.6402222222222222,
+        "nb_train_acc": 0.6447619047619048,
+        "lr_test_f1": 0.7574948994546918,
+        "lr_test_acc": 0.6926666666666667,
+        "lr_train_acc": 0.6966666666666667
+    },
+    "Airbnb/v2895/missing_values/dirty/nacl/3659": {
+        "best_params": {
+            "C": 0.008489419399589906
+        },
+        "nacl_missing_test_f1": 0.6152490337904447,
+        "nacl_missing_test_acc": 0.6837777777777778,
+        "nacl_test_f1": 0.7505751335325161,
+        "nacl_test_acc": 0.6833333333333333,
+        "nacl_train_acc": 0.6997142857142857,
+        "nb_test_f1": 0.6566044765701616,
+        "nb_test_acc": 0.6486666666666666,
+        "nb_train_acc": 0.6476190476190476,
+        "lr_test_f1": 0.7505751335325161,
+        "lr_test_acc": 0.6833333333333333,
+        "lr_train_acc": 0.6997142857142857
+    },
+    "Airbnb/v8444/missing_values/dirty/nacl/3659": {
+        "best_params": {
+            "C": 0.009274038636133474
+        },
+        "nacl_missing_test_f1": 0.6187572665568799,
+        "nacl_missing_test_acc": 0.6851111111111111,
+        "nacl_test_f1": 0.7500655624836177,
+        "nacl_test_acc": 0.6857777777777778,
+        "nacl_train_acc": 0.692952380952381,
+        "nb_test_f1": 0.652487891843708,
+        "nb_test_acc": 0.6426666666666667,
+        "nb_train_acc": 0.6436190476190476,
+        "lr_test_f1": 0.7500655624836177,
+        "lr_test_acc": 0.6857777777777778,
+        "lr_train_acc": 0.692952380952381
+    },
+    "Airbnb/v6542/missing_values/dirty/nacl/3659": {
+        "best_params": {
+            "C": 0.0057110639597241185
+        },
+        "nacl_missing_test_f1": 0.6197968029500946,
+        "nacl_missing_test_acc": 0.682,
+        "nacl_test_f1": 0.7413911642518352,
+        "nacl_test_acc": 0.68,
+        "nacl_train_acc": 0.6993333333333334,
+        "nb_test_f1": 0.6599403425712318,
+        "nb_test_acc": 0.6471111111111111,
+        "nb_train_acc": 0.6545714285714286,
+        "lr_test_f1": 0.7413911642518352,
+        "lr_test_acc": 0.68,
+        "lr_train_acc": 0.6993333333333334
+    },
+    "Airbnb/v9394/missing_values/dirty/nacl/3659": {
+        "best_params": {
+            "C": 0.007100241679657011
+        },
+        "nacl_missing_test_f1": 0.6158466999654447,
+        "nacl_missing_test_acc": 0.6804444444444444,
+        "nacl_test_f1": 0.7440668599639496,
+        "nacl_test_acc": 0.6786666666666666,
+        "nacl_train_acc": 0.7039047619047619,
+        "nb_test_f1": 0.6509597960350828,
+        "nb_test_acc": 0.6393333333333333,
+        "nb_train_acc": 0.6614285714285715,
+        "lr_test_f1": 0.7440668599639496,
+        "lr_test_acc": 0.6786666666666666,
+        "lr_train_acc": 0.7039047619047619
+    },
+    "Airbnb/v4225/missing_values/dirty/nacl/3659": {
+        "best_params": {
+            "C": 1.6451390120054517
+        },
+        "nacl_missing_test_f1": 0.645163217554707,
+        "nacl_missing_test_acc": 0.6968888888888889,
+        "nacl_test_f1": 0.7471955896317196,
+        "nacl_test_acc": 0.6966666666666667,
+        "nacl_train_acc": 0.7037142857142857,
+        "nb_test_f1": 0.6522599652885731,
+        "nb_test_acc": 0.6464444444444445,
+        "nb_train_acc": 0.6525714285714286,
+        "lr_test_f1": 0.7471955896317196,
+        "lr_test_acc": 0.6966666666666667,
+        "lr_train_acc": 0.7037142857142857
+    },
+    "Airbnb/v5374/missing_values/dirty/nacl/3659": {
+        "best_params": {
+            "C": 2.6695337126101424
+        },
+        "nacl_missing_test_f1": 0.6154151320332367,
+        "nacl_missing_test_acc": 0.6777777777777778,
+        "nacl_test_f1": 0.7358565628135626,
+        "nacl_test_acc": 0.6764444444444444,
+        "nacl_train_acc": 0.708,
+        "nb_test_f1": 0.6457366755555557,
+        "nb_test_acc": 0.6382222222222222,
+        "nb_train_acc": 0.6518095238095238,
+        "lr_test_f1": 0.7358565628135626,
+        "lr_test_acc": 0.6764444444444444,
+        "lr_train_acc": 0.708
+    },
+    "Airbnb/v3562/missing_values/dirty/nacl/3659": {
+        "best_params": {
+            "C": 0.0057110639597241185
+        },
+        "nacl_missing_test_f1": 0.6246959895477792,
+        "nacl_missing_test_acc": 0.6891111111111111,
+        "nacl_test_f1": 0.7518272894507657,
+        "nacl_test_acc": 0.6886666666666666,
+        "nacl_train_acc": 0.702,
+        "nb_test_f1": 0.6555352646284407,
+        "nb_test_acc": 0.6451111111111111,
+        "nb_train_acc": 0.6527619047619048,
+        "lr_test_f1": 0.7518272894507657,
+        "lr_test_acc": 0.6886666666666666,
+        "lr_train_acc": 0.702
+    },
+    "Airbnb/v5056/missing_values/dirty/nacl/3659": {
+        "best_params": {
+            "C": 0.023770374318851737
+        },
+        "nacl_missing_test_f1": 0.6436261405202125,
+        "nacl_missing_test_acc": 0.7022222222222222,
+        "nacl_test_f1": 0.7580697213193744,
+        "nacl_test_acc": 0.7015555555555556,
+        "nacl_train_acc": 0.6961904761904761,
+        "nb_test_f1": 0.6542312446831033,
+        "nb_test_acc": 0.6455555555555555,
+        "nb_train_acc": 0.6502857142857142,
+        "lr_test_f1": 0.7580697213193744,
+        "lr_test_acc": 0.7015555555555556,
+        "lr_train_acc": 0.6961904761904761
+    },
+    "Airbnb/v3462/missing_values/dirty/nacl/3659": {
+        "best_params": {
+            "C": 0.0057110639597241185
+        },
+        "nacl_missing_test_f1": 0.624758131015829,
+        "nacl_missing_test_acc": 0.6937777777777778,
+        "nacl_test_f1": 0.7612603454372079,
+        "nacl_test_acc": 0.6942222222222222,
+        "nacl_train_acc": 0.694952380952381,
+        "nb_test_f1": 0.6598985656960459,
+        "nb_test_acc": 0.65,
+        "nb_train_acc": 0.6419047619047619,
+        "lr_test_f1": 0.7612603454372079,
+        "lr_test_acc": 0.6942222222222222,
+        "lr_train_acc": 0.694952380952381
+    },
+    "Airbnb/v7813/missing_values/dirty/nacl/3659": {
+        "best_params": {
+            "C": 0.0029327085198583313
+        },
+        "nacl_missing_test_f1": 0.6183043554138569,
+        "nacl_missing_test_acc": 0.6924444444444444,
+        "nacl_test_f1": 0.7643314969861081,
+        "nacl_test_acc": 0.6911111111111111,
+        "nacl_train_acc": 0.6933333333333334,
+        "nb_test_f1": 0.6556260353015896,
+        "nb_test_acc": 0.6473333333333333,
+        "nb_train_acc": 0.6473333333333333,
+        "lr_test_f1": 0.7643314969861081,
+        "lr_test_acc": 0.6911111111111111,
+        "lr_train_acc": 0.6933333333333334
+    },
+    "Airbnb/v144/missing_values/dirty/nacl/3659": {
+        "best_params": {
+            "C": 0.004321886239791225
+        },
+        "nacl_missing_test_f1": 0.6340053931446706,
+        "nacl_missing_test_acc": 0.6906666666666667,
+        "nacl_test_f1": 0.7451626668801821,
+        "nacl_test_acc": 0.6902222222222222,
+        "nacl_train_acc": 0.6979047619047619,
+        "nb_test_f1": 0.6487309494288465,
+        "nb_test_acc": 0.6417777777777778,
+        "nb_train_acc": 0.6510476190476191,
+        "lr_test_f1": 0.7451626668801821,
+        "lr_test_acc": 0.6902222222222222,
+        "lr_train_acc": 0.6979047619047619
+    },
+    "Airbnb/v2516/missing_values/dirty/nacl/3659": {
+        "best_params": {
+            "C": 0.007100241679657011
+        },
+        "nacl_missing_test_f1": 0.6284298186450136,
+        "nacl_missing_test_acc": 0.69,
+        "nacl_test_f1": 0.7489106545206244,
+        "nacl_test_acc": 0.6891111111111111,
+        "nacl_train_acc": 0.6979047619047619,
+        "nb_test_f1": 0.6565776700342324,
+        "nb_test_acc": 0.6435555555555555,
+        "nb_train_acc": 0.6523809523809524,
+        "lr_test_f1": 0.7489106545206244,
+        "lr_test_acc": 0.6891111111111111,
+        "lr_train_acc": 0.6979047619047619
+    },
+    "Airbnb/v905/missing_values/dirty/nacl/3659": {
+        "best_params": {
+            "C": 1.349495306594667
+        },
+        "nacl_missing_test_f1": 0.6351633713384431,
+        "nacl_missing_test_acc": 0.6966666666666667,
+        "nacl_test_f1": 0.7540196337071416,
+        "nacl_test_acc": 0.6951111111111111,
+        "nacl_train_acc": 0.6961904761904761,
+        "nb_test_f1": 0.6625196843045242,
+        "nb_test_acc": 0.6495555555555556,
+        "nb_train_acc": 0.65,
+        "lr_test_f1": 0.7540196337071416,
+        "lr_test_acc": 0.6951111111111111,
+        "lr_train_acc": 0.6961904761904761
+    }
+}

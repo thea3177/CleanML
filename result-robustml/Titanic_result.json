@@ -1,0 +1,322 @@
+{
+    "Titanic/v235/missing_values/dirty/nacl/3659": {
+        "best_params": {
+            "C": 98.87275216499842
+        },
+        "nacl_missing_test_f1": 0.6505024212664853,
+        "nacl_missing_test_acc": 0.6816479400749064,
+        "nacl_test_f1": 0.7078392761019616,
+        "nacl_test_acc": 0.6928838951310862,
+        "nacl_train_acc": 0.9855769230769231,
+        "nb_test_f1": 0.800256444216025,
+        "nb_test_acc": 0.7940074906367042,
+        "nb_train_acc": 0.8685897435897436,
+        "lr_test_f1": 0.7078392761019616,
+        "lr_test_acc": 0.6928838951310862,
+        "lr_train_acc": 0.9855769230769231
+    },
+    "Titanic/v2516/missing_values/dirty/nacl/3659": {
+        "best_params": {
+            "C": 641.8478533913964
+        },
+        "nacl_missing_test_f1": 0.7395441290572377,
+        "nacl_missing_test_acc": 0.7602996254681648,
+        "nacl_test_f1": 0.767499664966814,
+        "nacl_test_acc": 0.7602996254681648,
+        "nacl_train_acc": 0.9759615384615384,
+        "nb_test_f1": 0.7867273612703766,
+        "nb_test_acc": 0.7865168539325843,
+        "nb_train_acc": 0.8557692307692307,
+        "lr_test_f1": 0.767499664966814,
+        "lr_test_acc": 0.7602996254681648,
+        "lr_train_acc": 0.9759615384615384
+    },
+    "Titanic/v7813/missing_values/dirty/nacl/3659": {
+        "best_params": {
+            "C": 6.042556462387703
+        },
+        "nacl_missing_test_f1": 0.631343032747527,
+        "nacl_missing_test_acc": 0.6779026217228464,
+        "nacl_test_f1": 0.7318437246072408,
+        "nacl_test_acc": 0.7116104868913857,
+        "nacl_train_acc": 0.9727564102564102,
+        "nb_test_f1": 0.793295146342376,
+        "nb_test_acc": 0.7865168539325843,
+        "nb_train_acc": 0.8717948717948718,
+        "lr_test_f1": 0.7318437246072408,
+        "lr_test_acc": 0.7116104868913857,
+        "lr_train_acc": 0.9727564102564102
+    },
+    "Titanic/v3462/missing_values/dirty/nacl/3659": {
+        "best_params": {
+            "C": 0.34178858996738
+        },
+        "nacl_missing_test_f1": 0.713653980385287,
+        "nacl_missing_test_acc": 0.7453183520599251,
+        "nacl_test_f1": 0.7777889830275391,
+        "nacl_test_acc": 0.7640449438202247,
+        "nacl_train_acc": 0.9807692307692307,
+        "nb_test_f1": 0.8045415894913575,
+        "nb_test_acc": 0.797752808988764,
+        "nb_train_acc": 0.8589743589743589,
+        "lr_test_f1": 0.7777889830275391,
+        "lr_test_acc": 0.7640449438202247,
+        "lr_train_acc": 0.9807692307692307
+    },
+    "Titanic/v5374/missing_values/dirty/nacl/3659": {
+        "best_params": {
+            "C": 0.4743938591108751
+        },
+        "nacl_missing_test_f1": 0.6448687882214909,
+        "nacl_missing_test_acc": 0.6891385767790262,
+        "nacl_test_f1": 0.7145219863332175,
+        "nacl_test_acc": 0.6853932584269663,
+        "nacl_train_acc": 0.9823717948717948,
+        "nb_test_f1": 0.7387397109545272,
+        "nb_test_acc": 0.7228464419475655,
+        "nb_train_acc": 0.8669871794871795,
+        "lr_test_f1": 0.7145219863332175,
+        "lr_test_acc": 0.6853932584269663,
+        "lr_train_acc": 0.9823717948717948
+    },
+    "Titanic/v4225/missing_values/dirty/nacl/3659": {
+        "best_params": {
+            "C": 2.020658557149858
+        },
+        "nacl_missing_test_f1": 0.6940400140119763,
+        "nacl_missing_test_acc": 0.7340823970037453,
+        "nacl_test_f1": 0.7635342185903983,
+        "nacl_test_acc": 0.7453183520599251,
+        "nacl_train_acc": 0.9759615384615384,
+        "nb_test_f1": 0.7822244666077515,
+        "nb_test_acc": 0.7752808988764045,
+        "nb_train_acc": 0.8766025641025641,
+        "lr_test_f1": 0.7635342185903983,
+        "lr_test_acc": 0.7453183520599251,
+        "lr_train_acc": 0.9759615384615384
+    },
+    "Titanic/v5056/missing_values/dirty/nacl/3659": {
+        "best_params": {
+            "C": 5.784526038030144
+        },
+        "nacl_missing_test_f1": 0.6793695035137418,
+        "nacl_missing_test_acc": 0.7116104868913857,
+        "nacl_test_f1": 0.7513354208878246,
+        "nacl_test_acc": 0.7378277153558053,
+        "nacl_train_acc": 0.969551282051282,
+        "nb_test_f1": 0.8132352424118863,
+        "nb_test_acc": 0.8089887640449438,
+        "nb_train_acc": 0.8653846153846154,
+        "lr_test_f1": 0.7513354208878246,
+        "lr_test_acc": 0.7378277153558053,
+        "lr_train_acc": 0.969551282051282
+    },
+    "Titanic/v3562/missing_values/dirty/nacl/3659": {
+        "best_params": {
+            "C": 2.6695337126101424
+        },
+        "nacl_missing_test_f1": 0.7346709470304976,
+        "nacl_missing_test_acc": 0.7528089887640449,
+        "nacl_test_f1": 0.7470941909424214,
+        "nacl_test_acc": 0.7415730337078652,
+        "nacl_train_acc": 0.969551282051282,
+        "nb_test_f1": 0.7890294760804984,
+        "nb_test_acc": 0.7865168539325843,
+        "nb_train_acc": 0.8541666666666666,
+        "lr_test_f1": 0.7470941909424214,
+        "lr_test_acc": 0.7415730337078652,
+        "lr_train_acc": 0.969551282051282
+    },
+    "Titanic/v9394/missing_values/dirty/nacl/3659": {
+        "best_params": {
+            "C": 2.6695337126101424
+        },
+        "nacl_missing_test_f1": 0.6729778075912571,
+        "nacl_missing_test_acc": 0.7153558052434457,
+        "nacl_test_f1": 0.7607884390830298,
+        "nacl_test_acc": 0.7415730337078652,
+        "nacl_train_acc": 0.9791666666666666,
+        "nb_test_f1": 0.8077723286863031,
+        "nb_test_acc": 0.8014981273408239,
+        "nb_train_acc": 0.8397435897435898,
+        "lr_test_f1": 0.7607884390830298,
+        "lr_test_acc": 0.7415730337078652,
+        "lr_train_acc": 0.9791666666666666
+    },
+    "Titanic/v8444/missing_values/dirty/nacl/3659": {
+        "best_params": {
+            "C": 4.876489973920761
+        },
+        "nacl_missing_test_f1": 0.7126817628889375,
+        "nacl_missing_test_acc": 0.7415730337078652,
+        "nacl_test_f1": 0.7868589321895639,
+        "nacl_test_acc": 0.7752808988764045,
+        "nacl_train_acc": 0.9855769230769231,
+        "nb_test_f1": 0.7839554005768652,
+        "nb_test_acc": 0.7752808988764045,
+        "nb_train_acc": 0.8605769230769231,
+        "lr_test_f1": 0.7868589321895639,
+        "lr_test_acc": 0.7752808988764045,
+        "lr_train_acc": 0.9855769230769231
+    },
+    "Titanic/v6542/missing_values/dirty/nacl/3659": {
+        "best_params": {
+            "C": 3.968453909811378
+        },
+        "nacl_missing_test_f1": 0.718361035788763,
+        "nacl_missing_test_acc": 0.7490636704119851,
+        "nacl_test_f1": 0.7930379906080136,
+        "nacl_test_acc": 0.7790262172284644,
+        "nacl_train_acc": 0.9855769230769231,
+        "nb_test_f1": 0.8034213272436913,
+        "nb_test_acc": 0.7940074906367042,
+        "nb_train_acc": 0.8605769230769231,
+        "lr_test_f1": 0.7930379906080136,
+        "lr_test_acc": 0.7790262172284644,
+        "lr_train_acc": 0.9855769230769231
+    },
+    "Titanic/v7751/missing_values/dirty/nacl/3659": {
+        "best_params": {
+            "C": 3.643306102321997
+        },
+        "nacl_missing_test_f1": 0.7219739333743171,
+        "nacl_missing_test_acc": 0.7453183520599251,
+        "nacl_test_f1": 0.7794611463069369,
+        "nacl_test_acc": 0.7715355805243446,
+        "nacl_train_acc": 0.9791666666666666,
+        "nb_test_f1": 0.7999438601345761,
+        "nb_test_acc": 0.797752808988764,
+        "nb_train_acc": 0.8717948717948718,
+        "lr_test_f1": 0.7794611463069369,
+        "lr_test_acc": 0.7715355805243446,
+        "lr_train_acc": 0.9791666666666666
+    },
+    "Titanic/v2895/missing_values/dirty/nacl/3659": {
+        "best_params": {
+            "C": 1.6451390120054517
+        },
+        "nacl_missing_test_f1": 0.6482759423196642,
+        "nacl_missing_test_acc": 0.6928838951310862,
+        "nacl_test_f1": 0.7258041818195284,
+        "nacl_test_acc": 0.700374531835206,
+        "nacl_train_acc": 0.9871794871794872,
+        "nb_test_f1": 0.7791406159859392,
+        "nb_test_acc": 0.7715355805243446,
+        "nb_train_acc": 0.8685897435897436,
+        "lr_test_f1": 0.7258041818195284,
+        "lr_test_acc": 0.700374531835206,
+        "lr_train_acc": 0.9871794871794872
+    },
+    "Titanic/v4764/missing_values/dirty/nacl/3659": {
+        "best_params": {
+            "C": 98.87275216499842
+        },
+        "nacl_missing_test_f1": 0.6438937564399506,
+        "nacl_missing_test_acc": 0.6891385767790262,
+        "nacl_test_f1": 0.7277751999903692,
+        "nacl_test_acc": 0.704119850187266,
+        "nacl_train_acc": 0.9839743589743589,
+        "nb_test_f1": 0.7925709590035434,
+        "nb_test_acc": 0.7827715355805244,
+        "nb_train_acc": 0.8589743589743589,
+        "lr_test_f1": 0.7277751999903692,
+        "lr_test_acc": 0.704119850187266,
+        "lr_train_acc": 0.9839743589743589
+    },
+    "Titanic/v5192/missing_values/dirty/nacl/3659": {
+        "best_params": {
+            "C": 2.8435559823000953
+        },
+        "nacl_missing_test_f1": 0.7121471471956403,
+        "nacl_missing_test_acc": 0.7453183520599251,
+        "nacl_test_f1": 0.7513354208878246,
+        "nacl_test_acc": 0.7378277153558053,
+        "nacl_train_acc": 0.9727564102564102,
+        "nb_test_f1": 0.8205593505525965,
+        "nb_test_acc": 0.8164794007490637,
+        "nb_train_acc": 0.8669871794871795,
+        "lr_test_f1": 0.7513354208878246,
+        "lr_test_acc": 0.7378277153558053,
+        "lr_train_acc": 0.9727564102564102
+    },
+    "Titanic/v5396/missing_values/dirty/nacl/3659": {
+        "best_params": {
+            "C": 0.9551622624598617
+        },
+        "nacl_missing_test_f1": 0.6663272471910112,
+        "nacl_missing_test_acc": 0.7078651685393258,
+        "nacl_test_f1": 0.7433366033520626,
+        "nacl_test_acc": 0.7265917602996255,
+        "nacl_train_acc": 0.9743589743589743,
+        "nb_test_f1": 0.7840142940252245,
+        "nb_test_acc": 0.7752808988764045,
+        "nb_train_acc": 0.8653846153846154,
+        "lr_test_f1": 0.7433366033520626,
+        "lr_test_acc": 0.7265917602996255,
+        "lr_train_acc": 0.9743589743589743
+    },
+    "Titanic/v8093/missing_values/dirty/nacl/3659": {
+        "best_params": {
+            "C": 1.270628697767706
+        },
+        "nacl_missing_test_f1": 0.6656367041198502,
+        "nacl_missing_test_acc": 0.7078651685393258,
+        "nacl_test_f1": 0.7513928288387044,
+        "nacl_test_acc": 0.7303370786516854,
+        "nacl_train_acc": 0.9839743589743589,
+        "nb_test_f1": 0.7965613061537372,
+        "nb_test_acc": 0.7902621722846442,
+        "nb_train_acc": 0.8766025641025641,
+        "lr_test_f1": 0.7513928288387044,
+        "lr_test_acc": 0.7303370786516854,
+        "lr_train_acc": 0.9839743589743589
+    },
+    "Titanic/v144/missing_values/dirty/nacl/3659": {
+        "best_params": {
+            "C": 2.2803779234489016e-05
+        },
+        "nacl_missing_test_f1": 0.4628342478878147,
+        "nacl_missing_test_acc": 0.6104868913857678,
+        "nacl_test_f1": 0.758139534883721,
+        "nacl_test_acc": 0.6104868913857678,
+        "nacl_train_acc": 0.6185897435897436,
+        "nb_test_f1": 0.8112675925279735,
+        "nb_test_acc": 0.8052434456928839,
+        "nb_train_acc": 0.8701923076923077,
+        "lr_test_f1": 0.758139534883721,
+        "lr_test_acc": 0.6104868913857678,
+        "lr_train_acc": 0.6185897435897436
+    },
+    "Titanic/v905/missing_values/dirty/nacl/3659": {
+        "best_params": {
+            "C": 2.020658557149858
+        },
+        "nacl_missing_test_f1": 0.7130357513290255,
+        "nacl_missing_test_acc": 0.7453183520599251,
+        "nacl_test_f1": 0.8156377561755671,
+        "nacl_test_acc": 0.8052434456928839,
+        "nacl_train_acc": 0.9839743589743589,
+        "nb_test_f1": 0.8363486310376343,
+        "nb_test_acc": 0.8314606741573034,
+        "nb_train_acc": 0.8637820512820513,
+        "lr_test_f1": 0.8156377561755671,
+        "lr_test_acc": 0.8052434456928839,
+        "lr_train_acc": 0.9839743589743589
+    },
+    "Titanic/v2962/missing_values/dirty/nacl/3659": {
+        "best_params": {
+            "C": 2.6695337126101424
+        },
+        "nacl_missing_test_f1": 0.696081820800922,
+        "nacl_missing_test_acc": 0.7303370786516854,
+        "nacl_test_f1": 0.7682259579469406,
+        "nacl_test_acc": 0.7565543071161048,
+        "nacl_train_acc": 0.9807692307692307,
+        "nb_test_f1": 0.7973319867020158,
+        "nb_test_acc": 0.7902621722846442,
+        "nb_train_acc": 0.8605769230769231,
+        "lr_test_f1": 0.7682259579469406,
+        "lr_test_acc": 0.7565543071161048,
+        "lr_train_acc": 0.9807692307692307
+    }
+}

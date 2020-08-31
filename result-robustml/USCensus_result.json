@@ -1,0 +1,322 @@
+{
+    "USCensus/v9394/missing_values/dirty/nacl/3659": {
+        "best_params": {
+            "C": 1.7971880102761828
+        },
+        "nacl_missing_test_f1": 0.8430716362799788,
+        "nacl_missing_test_acc": 0.8477777777777777,
+        "nacl_test_f1": 0.8524839192755768,
+        "nacl_test_acc": 0.8477777777777777,
+        "nacl_train_acc": 0.8550476190476191,
+        "nb_test_f1": 0.7782574790265708,
+        "nb_test_acc": 0.7886666666666666,
+        "nb_train_acc": 0.7874285714285715,
+        "lr_test_f1": 0.8524839192755768,
+        "lr_test_acc": 0.8477777777777777,
+        "lr_train_acc": 0.8550476190476191
+    },
+    "USCensus/v8444/missing_values/dirty/nacl/3659": {
+        "best_params": {
+            "C": 1286.4014641512479
+        },
+        "nacl_missing_test_f1": 0.8411307058358066,
+        "nacl_missing_test_acc": 0.8471111111111111,
+        "nacl_test_f1": 0.8532717886370916,
+        "nacl_test_acc": 0.8473333333333334,
+        "nacl_train_acc": 0.8467619047619047,
+        "nb_test_f1": 0.7660630573748298,
+        "nb_test_acc": 0.778,
+        "nb_train_acc": 0.7847619047619048,
+        "lr_test_f1": 0.8532717886370916,
+        "lr_test_acc": 0.8473333333333334,
+        "lr_train_acc": 0.8467619047619047
+    },
+    "USCensus/v6542/missing_values/dirty/nacl/3659": {
+        "best_params": {
+            "C": 0.4743938591108751
+        },
+        "nacl_missing_test_f1": 0.8344655815126683,
+        "nacl_missing_test_acc": 0.8402222222222222,
+        "nacl_test_f1": 0.8459304797883856,
+        "nacl_test_acc": 0.84,
+        "nacl_train_acc": 0.8588571428571429,
+        "nb_test_f1": 0.7781033267247726,
+        "nb_test_acc": 0.7886666666666666,
+        "nb_train_acc": 0.7888571428571428,
+        "lr_test_f1": 0.8459304797883856,
+        "lr_test_acc": 0.84,
+        "lr_train_acc": 0.8588571428571429
+    },
+    "USCensus/v235/missing_values/dirty/nacl/3659": {
+        "best_params": {
+            "C": 0.7974290448059396
+        },
+        "nacl_missing_test_f1": 0.8403902648396212,
+        "nacl_missing_test_acc": 0.8464444444444444,
+        "nacl_test_f1": 0.853794791572887,
+        "nacl_test_acc": 0.8475555555555555,
+        "nacl_train_acc": 0.8506666666666667,
+        "nb_test_f1": 0.7799960161842515,
+        "nb_test_acc": 0.7904444444444444,
+        "nb_train_acc": 0.783047619047619,
+        "lr_test_f1": 0.853794791572887,
+        "lr_test_acc": 0.8475555555555555,
+        "lr_train_acc": 0.8506666666666667
+    },
+    "USCensus/v7751/missing_values/dirty/nacl/3659": {
+        "best_params": {
+            "C": 0.4342583192279275
+        },
+        "nacl_missing_test_f1": 0.8503620666999225,
+        "nacl_missing_test_acc": 0.8566666666666667,
+        "nacl_test_f1": 0.8632278576418283,
+        "nacl_test_acc": 0.8566666666666667,
+        "nacl_train_acc": 0.8528571428571429,
+        "nb_test_f1": 0.7783421476225969,
+        "nb_test_acc": 0.7893333333333333,
+        "nb_train_acc": 0.7880952380952381,
+        "lr_test_f1": 0.8632278576418283,
+        "lr_test_acc": 0.8566666666666667,
+        "lr_train_acc": 0.8528571428571429
+    },
+    "USCensus/v4764/missing_values/dirty/nacl/3659": {
+        "best_params": {
+            "C": 0.6474396759398192
+        },
+        "nacl_missing_test_f1": 0.8416331084377036,
+        "nacl_missing_test_acc": 0.8471111111111111,
+        "nacl_test_f1": 0.8529509733126983,
+        "nacl_test_acc": 0.8473333333333334,
+        "nacl_train_acc": 0.8555238095238096,
+        "nb_test_f1": 0.777680743513184,
+        "nb_test_acc": 0.7873333333333333,
+        "nb_train_acc": 0.7835238095238095,
+        "lr_test_f1": 0.8529509733126983,
+        "lr_test_acc": 0.8473333333333334,
+        "lr_train_acc": 0.8555238095238096
+    },
+    "USCensus/v2895/missing_values/dirty/nacl/3659": {
+        "best_params": {
+            "C": 0.4743938591108751
+        },
+        "nacl_missing_test_f1": 0.8465344787519316,
+        "nacl_missing_test_acc": 0.8528888888888889,
+        "nacl_test_f1": 0.8591324539730738,
+        "nacl_test_acc": 0.8526666666666667,
+        "nacl_train_acc": 0.8480952380952381,
+        "nb_test_f1": 0.7819277481761662,
+        "nb_test_acc": 0.7935555555555556,
+        "nb_train_acc": 0.7807619047619048,
+        "lr_test_f1": 0.8591324539730738,
+        "lr_test_acc": 0.8526666666666667,
+        "lr_train_acc": 0.8480952380952381
+    },
+    "USCensus/v5396/missing_values/dirty/nacl/3659": {
+        "best_params": {
+            "C": 4.043181162332948
+        },
+        "nacl_missing_test_f1": 0.8415059664030385,
+        "nacl_missing_test_acc": 0.8473333333333334,
+        "nacl_test_f1": 0.8526851824810413,
+        "nacl_test_acc": 0.8466666666666667,
+        "nacl_train_acc": 0.8555238095238096,
+        "nb_test_f1": 0.7729931499454618,
+        "nb_test_acc": 0.7846666666666666,
+        "nb_train_acc": 0.786,
+        "lr_test_f1": 0.8526851824810413,
+        "lr_test_acc": 0.8466666666666667,
+        "lr_train_acc": 0.8555238095238096
+    },
+    "USCensus/v5192/missing_values/dirty/nacl/3659": {
+        "best_params": {
+            "C": 0.38434323355513716
+        },
+        "nacl_missing_test_f1": 0.8451222941222857,
+        "nacl_missing_test_acc": 0.8517777777777777,
+        "nacl_test_f1": 0.8591837399499707,
+        "nacl_test_acc": 0.8522222222222222,
+        "nacl_train_acc": 0.8574285714285714,
+        "nb_test_f1": 0.7723160478719349,
+        "nb_test_acc": 0.7835555555555556,
+        "nb_train_acc": 0.7881904761904762,
+        "lr_test_f1": 0.8591837399499707,
+        "lr_test_acc": 0.8522222222222222,
+        "lr_train_acc": 0.8574285714285714
+    },
+    "USCensus/v8093/missing_values/dirty/nacl/3659": {
+        "best_params": {
+            "C": 0.21047750333952078
+        },
+        "nacl_missing_test_f1": 0.8517751247775391,
+        "nacl_missing_test_acc": 0.8566666666666667,
+        "nacl_test_f1": 0.8615482003137475,
+        "nacl_test_acc": 0.8564444444444445,
+        "nacl_train_acc": 0.8549523809523809,
+        "nb_test_f1": 0.769186589464894,
+        "nb_test_acc": 0.7806666666666666,
+        "nb_train_acc": 0.7897142857142857,
+        "lr_test_f1": 0.8615482003137475,
+        "lr_test_acc": 0.8564444444444445,
+        "lr_train_acc": 0.8549523809523809
+    },
+    "USCensus/v2962/missing_values/dirty/nacl/3659": {
+        "best_params": {
+            "C": 1.2440557422562917
+        },
+        "nacl_missing_test_f1": 0.8486471161095851,
+        "nacl_missing_test_acc": 0.8526666666666667,
+        "nacl_test_f1": 0.8563142388144097,
+        "nacl_test_acc": 0.8522222222222222,
+        "nacl_train_acc": 0.8553333333333333,
+        "nb_test_f1": 0.7694370392380198,
+        "nb_test_acc": 0.7822222222222223,
+        "nb_train_acc": 0.7826666666666666,
+        "lr_test_f1": 0.8563142388144097,
+        "lr_test_acc": 0.8522222222222222,
+        "lr_train_acc": 0.8553333333333333
+    },
+    "USCensus/v144/missing_values/dirty/nacl/3659": {
+        "best_params": {
+            "C": 0.8375253152027753
+        },
+        "nacl_missing_test_f1": 0.8483174680555543,
+        "nacl_missing_test_acc": 0.8528888888888889,
+        "nacl_test_f1": 0.8574009696513794,
+        "nacl_test_acc": 0.8526666666666667,
+        "nacl_train_acc": 0.8556190476190476,
+        "nb_test_f1": 0.7730082557678292,
+        "nb_test_acc": 0.7855555555555556,
+        "nb_train_acc": 0.7851428571428571,
+        "lr_test_f1": 0.8574009696513794,
+        "lr_test_acc": 0.8526666666666667,
+        "lr_train_acc": 0.8556190476190476
+    },
+    "USCensus/v905/missing_values/dirty/nacl/3659": {
+        "best_params": {
+            "C": 396.56394391206925
+        },
+        "nacl_missing_test_f1": 0.8494578716122829,
+        "nacl_missing_test_acc": 0.8533333333333334,
+        "nacl_test_f1": 0.8573964465023428,
+        "nacl_test_acc": 0.8535555555555555,
+        "nacl_train_acc": 0.8529523809523809,
+        "nb_test_f1": 0.7717062003179649,
+        "nb_test_acc": 0.784,
+        "nb_train_acc": 0.7791428571428571,
+        "lr_test_f1": 0.8573964465023428,
+        "lr_test_acc": 0.8535555555555555,
+        "lr_train_acc": 0.8529523809523809
+    },
+    "USCensus/v2516/missing_values/dirty/nacl/3659": {
+        "best_params": {
+            "C": 1286.4014641512479
+        },
+        "nacl_missing_test_f1": 0.8455355157246095,
+        "nacl_missing_test_acc": 0.8497777777777777,
+        "nacl_test_f1": 0.8538383457874712,
+        "nacl_test_acc": 0.8497777777777777,
+        "nacl_train_acc": 0.8544761904761905,
+        "nb_test_f1": 0.7776180865256338,
+        "nb_test_acc": 0.7893333333333333,
+        "nb_train_acc": 0.785047619047619,
+        "lr_test_f1": 0.8538383457874712,
+        "lr_test_acc": 0.8497777777777777,
+        "lr_train_acc": 0.8544761904761905
+    },
+    "USCensus/v7813/missing_values/dirty/nacl/3659": {
+        "best_params": {
+            "C": 0.1080830422554296
+        },
+        "nacl_missing_test_f1": 0.8430089502140614,
+        "nacl_missing_test_acc": 0.85,
+        "nacl_test_f1": 0.8573727824110368,
+        "nacl_test_acc": 0.8502222222222222,
+        "nacl_train_acc": 0.856,
+        "nb_test_f1": 0.7734646038864672,
+        "nb_test_acc": 0.7846666666666666,
+        "nb_train_acc": 0.7858095238095238,
+        "lr_test_f1": 0.8573727824110368,
+        "lr_test_acc": 0.8502222222222222,
+        "lr_train_acc": 0.856
+    },
+    "USCensus/v3462/missing_values/dirty/nacl/3659": {
+        "best_params": {
+            "C": 0.1080830422554296
+        },
+        "nacl_missing_test_f1": 0.8396181314413447,
+        "nacl_missing_test_acc": 0.8453333333333334,
+        "nacl_test_f1": 0.8516762440631997,
+        "nacl_test_acc": 0.8457777777777777,
+        "nacl_train_acc": 0.8529523809523809,
+        "nb_test_f1": 0.7690338313792208,
+        "nb_test_acc": 0.7815555555555556,
+        "nb_train_acc": 0.7817142857142857,
+        "lr_test_f1": 0.8516762440631997,
+        "lr_test_acc": 0.8457777777777777,
+        "lr_train_acc": 0.8529523809523809
+    },
+    "USCensus/v4225/missing_values/dirty/nacl/3659": {
+        "best_params": {
+            "C": 2.6695337126101424
+        },
+        "nacl_missing_test_f1": 0.8472259834923934,
+        "nacl_missing_test_acc": 0.8528888888888889,
+        "nacl_test_f1": 0.8598366766254091,
+        "nacl_test_acc": 0.854,
+        "nacl_train_acc": 0.8534285714285714,
+        "nb_test_f1": 0.778867970023277,
+        "nb_test_acc": 0.7895555555555556,
+        "nb_train_acc": 0.786952380952381,
+        "lr_test_f1": 0.8598366766254091,
+        "lr_test_acc": 0.854,
+        "lr_train_acc": 0.8534285714285714
+    },
+    "USCensus/v5374/missing_values/dirty/nacl/3659": {
+        "best_params": {
+            "C": 1286.4014641512479
+        },
+        "nacl_missing_test_f1": 0.8493607491481172,
+        "nacl_missing_test_acc": 0.8564444444444445,
+        "nacl_test_f1": 0.8622409343980176,
+        "nacl_test_acc": 0.8553333333333333,
+        "nacl_train_acc": 0.8501904761904762,
+        "nb_test_f1": 0.7809948017680072,
+        "nb_test_acc": 0.7917777777777778,
+        "nb_train_acc": 0.7750476190476191,
+        "lr_test_f1": 0.8622409343980176,
+        "lr_test_acc": 0.8553333333333333,
+        "lr_train_acc": 0.8501904761904762
+    },
+    "USCensus/v5056/missing_values/dirty/nacl/3659": {
+        "best_params": {
+            "C": 1286.4014641512479
+        },
+        "nacl_missing_test_f1": 0.8377440024745696,
+        "nacl_missing_test_acc": 0.844,
+        "nacl_test_f1": 0.8508615049562119,
+        "nacl_test_acc": 0.8446666666666667,
+        "nacl_train_acc": 0.85,
+        "nb_test_f1": 0.7741800607291753,
+        "nb_test_acc": 0.7857777777777778,
+        "nb_train_acc": 0.7805714285714286,
+        "lr_test_f1": 0.8508615049562119,
+        "lr_test_acc": 0.8446666666666667,
+        "lr_train_acc": 0.85
+    },
+    "USCensus/v3562/missing_values/dirty/nacl/3659": {
+        "best_params": {
+            "C": 0.7185624359789785
+        },
+        "nacl_missing_test_f1": 0.8430178904608019,
+        "nacl_missing_test_acc": 0.8482222222222222,
+        "nacl_test_f1": 0.8547882556546577,
+        "nacl_test_acc": 0.8493333333333334,
+        "nacl_train_acc": 0.8508571428571429,
+        "nb_test_f1": 0.7665868183895871,
+        "nb_test_acc": 0.7786666666666666,
+        "nb_train_acc": 0.7841904761904762,
+        "lr_test_f1": 0.8547882556546577,
+        "lr_test_acc": 0.8493333333333334,
+        "lr_train_acc": 0.8508571428571429
+    }
+}

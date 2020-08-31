@@ -1,4 +1,9 @@
 import pandas as pd
+import six
+import sys
+sys.modules['sklearn.externals.six'] = six
+import mlrose
+from preprocess import preprocess
 from preprocess import preprocess_data
 
 dataset = "Titanic"
