@@ -1,0 +1,282 @@
+{
+    "Restaurant/v2962/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7155379000673383,
+        "dirty_test_acc": 0.7348695169350361,
+        "clean_test_f1": 0.7151395041818878,
+        "clean_test_acc": 0.7342316513761468,
+        "AutoER_test_f1": 0.7511979399910435,
+        "AutoER_test_acc": 0.7731629392971247
+    },
+    "Restaurant/v4764/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7023486698680335,
+        "dirty_test_acc": 0.7287617990005553,
+        "clean_test_f1": 0.7024565830946425,
+        "clean_test_acc": 0.7287617990005553
+    },
+    "Restaurant/v8093/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6872289673560494,
+        "dirty_test_acc": 0.71682398667407,
+        "clean_test_f1": 0.6906981887002046,
+        "clean_test_acc": 0.7194805194805195,
+        "AutoER_test_f1": 0.6730041837645855,
+        "AutoER_test_acc": 0.7113095238095238
+    },
+    "Restaurant/v2895/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7027482191609595,
+        "dirty_test_acc": 0.7254303164908384,
+        "clean_test_f1": 0.7024970366336158,
+        "clean_test_acc": 0.725152692948362
+    },
+    "Restaurant/v5396/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6807599581443429,
+        "dirty_test_acc": 0.7087729039422543,
+        "clean_test_f1": 0.6822428146803388,
+        "clean_test_acc": 0.7097146151628712,
+        "AutoER_test_f1": 0.7145175289633571,
+        "AutoER_test_acc": 0.7382352941176471
+    },
+    "Restaurant/v7751/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.683202300764554,
+        "dirty_test_acc": 0.7143253747917824,
+        "clean_test_f1": 0.6834490503273176,
+        "clean_test_acc": 0.7146029983342588
+    },
+    "Restaurant/v5192/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7024153254899901,
+        "dirty_test_acc": 0.7293170460855081,
+        "clean_test_f1": 0.7038019451812556,
+        "clean_test_acc": 0.730195177956372,
+        "AutoER_test_f1": 0.7109057110399668,
+        "AutoER_test_acc": 0.7357910906298003
+    },
+    "Restaurant/v2962/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7026967902639618,
+        "dirty_test_acc": 0.7268184342032205,
+        "clean_test_f1": 0.7031519864183688,
+        "clean_test_acc": 0.7270960577456969
+    },
+    "Restaurant/v4764/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6956546229983102,
+        "dirty_test_acc": 0.7201554691837868,
+        "clean_test_f1": 0.6972100815068566,
+        "clean_test_acc": 0.7207698937087044,
+        "AutoER_test_f1": 0.7313997113997114,
+        "AutoER_test_acc": 0.7591776798825257
+    },
+    "Restaurant/v144/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6907918582247573,
+        "dirty_test_acc": 0.7201554691837868,
+        "clean_test_f1": 0.6902953500290294,
+        "clean_test_acc": 0.719600222098834
+    },
+    "Restaurant/v2895/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7056125456319624,
+        "dirty_test_acc": 0.725152692948362,
+        "clean_test_f1": 0.7051694263955844,
+        "clean_test_acc": 0.7247287264420331,
+        "AutoER_test_f1": 0.7414618505865314,
+        "AutoER_test_acc": 0.7658227848101266
+    },
+    "Restaurant/v5396/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6902905105051648,
+        "dirty_test_acc": 0.7157134925041644,
+        "clean_test_f1": 0.6902905105051648,
+        "clean_test_acc": 0.7157134925041644
+    },
+    "Restaurant/v7751/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6799581653526645,
+        "dirty_test_acc": 0.7090505274847307,
+        "clean_test_f1": 0.682415519399249,
+        "clean_test_acc": 0.7103448275862069,
+        "AutoER_test_f1": 0.6871749694506806,
+        "AutoER_test_acc": 0.7209302325581395
+    },
+    "Restaurant/v5192/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7049547957310855,
+        "dirty_test_acc": 0.7323709050527485,
+        "clean_test_f1": 0.7056766612407787,
+        "clean_test_acc": 0.7329261521377013
+    },
+    "Restaurant/v6542/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6991078625756533,
+        "dirty_test_acc": 0.7273736812881733,
+        "clean_test_f1": 0.6986458019423469,
+        "clean_test_acc": 0.7263581488933601,
+        "AutoER_test_f1": 0.722816091954023,
+        "AutoER_test_acc": 0.7561683599419449
+    },
+    "Restaurant/v8093/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.696271566328392,
+        "dirty_test_acc": 0.7245974458634092,
+        "clean_test_f1": 0.6966344492118923,
+        "clean_test_acc": 0.7248750694058856
+    },
+    "Restaurant/v144/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.703163091695384,
+        "dirty_test_acc": 0.7226540810660744,
+        "clean_test_f1": 0.7051651305683564,
+        "clean_test_acc": 0.7240390131956397,
+        "AutoER_test_f1": 0.7432553877601367,
+        "AutoER_test_acc": 0.7644376899696048
+    },
+    "Restaurant/v905/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7030982146766667,
+        "dirty_test_acc": 0.7287617990005553,
+        "clean_test_f1": 0.7034550705860124,
+        "clean_test_acc": 0.7290394225430317
+    },
+    "Restaurant/v8444/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6962258889382766,
+        "dirty_test_acc": 0.7229317046085508,
+        "clean_test_f1": 0.6960730495910589,
+        "clean_test_acc": 0.7222222222222222,
+        "AutoER_test_f1": 0.7282721488007832,
+        "AutoER_test_acc": 0.757754800590842
+    },
+    "Restaurant/v9394/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6918876716513168,
+        "dirty_test_acc": 0.7165463631315936,
+        "clean_test_f1": 0.692241968557758,
+        "clean_test_acc": 0.71682398667407
+    },
+    "Restaurant/v905/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7038140671552925,
+        "dirty_test_acc": 0.7320932815102721,
+        "clean_test_f1": 0.7033765619787795,
+        "clean_test_acc": 0.7310126582278481,
+        "AutoER_test_f1": 0.7306796208083761,
+        "AutoER_test_acc": 0.7587209302325582
+    },
+    "Restaurant/v6542/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6924266597261999,
+        "dirty_test_acc": 0.722376457523598,
+        "clean_test_f1": 0.6927931769722815,
+        "clean_test_acc": 0.7226540810660744
+    },
+    "Restaurant/v9394/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7026203318596487,
+        "dirty_test_acc": 0.7243198223209328,
+        "clean_test_f1": 0.7030616921570045,
+        "clean_test_acc": 0.7242869490060502,
+        "AutoER_test_f1": 0.7381465517241379,
+        "AutoER_test_acc": 0.76
+    },
+    "Restaurant/v8444/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6950968272202003,
+        "dirty_test_acc": 0.7207107162687396,
+        "clean_test_f1": 0.6950968272202003,
+        "clean_test_acc": 0.7207107162687396
+    },
+    "Restaurant/v3562/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6928165642563351,
+        "dirty_test_acc": 0.7232093281510272,
+        "clean_test_f1": 0.6925494722955146,
+        "clean_test_acc": 0.7219343696027634,
+        "AutoER_test_f1": 0.7242862057103543,
+        "AutoER_test_acc": 0.7554585152838428
+    },
+    "Restaurant/v3462/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6966261427637508,
+        "dirty_test_acc": 0.7165463631315936,
+        "clean_test_f1": 0.696810420382193,
+        "clean_test_acc": 0.7165463631315936
+    },
+    "Restaurant/v5056/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6889727958627994,
+        "dirty_test_acc": 0.7146029983342588,
+        "clean_test_f1": 0.6893696581196582,
+        "clean_test_acc": 0.7145313843508169,
+        "AutoER_test_f1": 0.7070683017819581,
+        "AutoER_test_acc": 0.7377049180327869
+    },
+    "Restaurant/v5056/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6873468237370106,
+        "dirty_test_acc": 0.71682398667407,
+        "clean_test_f1": 0.6873468237370106,
+        "clean_test_acc": 0.71682398667407
+    },
+    "Restaurant/v235/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.70830008673322,
+        "dirty_test_acc": 0.7357023875624653,
+        "clean_test_f1": 0.7084663800538551,
+        "clean_test_acc": 0.7356752087532393,
+        "AutoER_test_f1": 0.7617115027829313,
+        "AutoER_test_acc": 0.781021897810219
+    },
+    "Restaurant/v3562/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6924998010461356,
+        "dirty_test_acc": 0.7215435868961688,
+        "clean_test_f1": 0.6928642327298868,
+        "clean_test_acc": 0.7218212104386452
+    },
+    "Restaurant/v4225/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6941503888799472,
+        "dirty_test_acc": 0.720988339811216,
+        "clean_test_f1": 0.6962160761307479,
+        "clean_test_acc": 0.7220630372492837,
+        "AutoER_test_f1": 0.7179093567251462,
+        "AutoER_test_acc": 0.750367107195301
+    },
+    "Restaurant/v4225/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7035550715029041,
+        "dirty_test_acc": 0.726540810660744,
+        "clean_test_f1": 0.7039056338969458,
+        "clean_test_acc": 0.7268184342032205
+    },
+    "Restaurant/v5374/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6978128490667448,
+        "dirty_test_acc": 0.7193225985563576,
+        "clean_test_f1": 0.697749157306065,
+        "clean_test_acc": 0.7189655172413794,
+        "AutoER_test_f1": 0.7224080267558528,
+        "AutoER_test_acc": 0.7438271604938271
+    },
+    "Restaurant/v5374/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7021376839061397,
+        "dirty_test_acc": 0.726540810660744,
+        "clean_test_f1": 0.702742480487041,
+        "clean_test_acc": 0.7270960577456969
+    },
+    "Restaurant/v3462/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6829277938593078,
+        "dirty_test_acc": 0.712659633536924,
+        "clean_test_f1": 0.6844643365426817,
+        "clean_test_acc": 0.7140800460696803,
+        "AutoER_test_f1": 0.7310838047952934,
+        "AutoER_test_acc": 0.7561349693251533
+    },
+    "Restaurant/v235/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7140664690939882,
+        "dirty_test_acc": 0.7418101054969461,
+        "clean_test_f1": 0.7133416468648184,
+        "clean_test_acc": 0.7412548584119933
+    },
+    "Restaurant/v7813/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7036260360444679,
+        "dirty_test_acc": 0.7254303164908384,
+        "clean_test_f1": 0.7038727085291723,
+        "clean_test_acc": 0.7248283752860412,
+        "AutoER_test_f1": 0.7316935817805383,
+        "AutoER_test_acc": 0.7540500736377025
+    },
+    "Restaurant/v2516/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6939867807726507,
+        "dirty_test_acc": 0.71682398667407,
+        "clean_test_f1": 0.6939867807726507,
+        "clean_test_acc": 0.71682398667407
+    },
+    "Restaurant/v2516/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6952811084784614,
+        "dirty_test_acc": 0.7173792337590228,
+        "clean_test_f1": 0.6975975387391053,
+        "clean_test_acc": 0.7187230371009491,
+        "AutoER_test_f1": 0.7198243982715691,
+        "AutoER_test_acc": 0.7459618208516887
+    },
+    "Restaurant/v7813/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7138482431508053,
+        "dirty_test_acc": 0.7362576346474181,
+        "clean_test_f1": 0.7138482431508053,
+        "clean_test_acc": 0.7362576346474181
+    }
+}

@@ -1,0 +1,282 @@
+{
+    "Movie/v7751/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6656210370928113,
+        "dirty_test_acc": 0.7240886347390993,
+        "clean_test_f1": 0.6658953282270575,
+        "clean_test_acc": 0.7208720514653324
+    },
+    "Movie/v2516/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6314394230348059,
+        "dirty_test_acc": 0.7033595425303788,
+        "clean_test_f1": 0.6474191828624049,
+        "clean_test_acc": 0.7072909220872051
+    },
+    "Movie/v7813/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.658907837411548,
+        "dirty_test_acc": 0.7212294496068621,
+        "clean_test_f1": 0.6665292112872927,
+        "clean_test_acc": 0.7187276626161544
+    },
+    "Movie/v235/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6632013251819889,
+        "dirty_test_acc": 0.7258756254467477,
+        "clean_test_f1": 0.6659331082019642,
+        "clean_test_acc": 0.724446032880629
+    },
+    "Movie/v5056/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6626558520462391,
+        "dirty_test_acc": 0.7130092923516798,
+        "clean_test_f1": 0.6604224465895936,
+        "clean_test_acc": 0.7094353109363831
+    },
+    "Movie/v3562/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6451619232571195,
+        "dirty_test_acc": 0.7158684774839171,
+        "clean_test_f1": 0.6494575735571394,
+        "clean_test_acc": 0.7126518942101501
+    },
+    "Movie/v5374/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6497731587374659,
+        "dirty_test_acc": 0.7215868477483917,
+        "clean_test_f1": 0.6453217319277983,
+        "clean_test_acc": 0.7190850607576841
+    },
+    "Movie/v4225/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.662333102941338,
+        "dirty_test_acc": 0.7208720514653324,
+        "clean_test_f1": 0.6616026305320492,
+        "clean_test_acc": 0.7183702644746247
+    },
+    "Movie/v3462/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6436808683396146,
+        "dirty_test_acc": 0.7147962830593281,
+        "clean_test_f1": 0.6550328395039902,
+        "clean_test_acc": 0.7158684774839171
+    },
+    "Movie/v6542/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6267857572474874,
+        "dirty_test_acc": 0.7087205146533238,
+        "clean_test_f1": 0.6475736798242291,
+        "clean_test_acc": 0.7147962830593281
+    },
+    "Movie/v8444/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6363924317965601,
+        "dirty_test_acc": 0.7058613295210865,
+        "clean_test_f1": 0.649882087633296,
+        "clean_test_acc": 0.7072909220872051
+    },
+    "Movie/v9394/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6368389228321805,
+        "dirty_test_acc": 0.7172980700500358,
+        "clean_test_f1": 0.6494959435158731,
+        "clean_test_acc": 0.7151536812008578
+    },
+    "Movie/v2962/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6535097864664746,
+        "dirty_test_acc": 0.7158684774839171,
+        "clean_test_f1": 0.6692518325016483,
+        "clean_test_acc": 0.7215868477483917
+    },
+    "Movie/v5192/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6326224373042223,
+        "dirty_test_acc": 0.7122944960686205,
+        "clean_test_f1": 0.651433536600176,
+        "clean_test_acc": 0.7158684774839171
+    },
+    "Movie/v5396/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6706663116003502,
+        "dirty_test_acc": 0.727662616154396,
+        "clean_test_f1": 0.669516828210998,
+        "clean_test_acc": 0.7226590421729807
+    },
+    "Movie/v8093/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6362090370712994,
+        "dirty_test_acc": 0.7172980700500358,
+        "clean_test_f1": 0.6441260781984401,
+        "clean_test_acc": 0.7183702644746247
+    },
+    "Movie/v144/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6389132024088171,
+        "dirty_test_acc": 0.7108649035025018,
+        "clean_test_f1": 0.6485500991557069,
+        "clean_test_acc": 0.7097927090779128
+    },
+    "Movie/v2895/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6532272850685961,
+        "dirty_test_acc": 0.7226590421729807,
+        "clean_test_f1": 0.6595213869885712,
+        "clean_test_acc": 0.7280200142959257
+    },
+    "Movie/v4764/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6394869129810111,
+        "dirty_test_acc": 0.7108649035025018,
+        "clean_test_f1": 0.6554764226681246,
+        "clean_test_acc": 0.7140814867762688
+    },
+    "Movie/v905/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6185412406271302,
+        "dirty_test_acc": 0.6979985704074338,
+        "clean_test_f1": 0.6272768406630785,
+        "clean_test_acc": 0.6990707648320229
+    },
+    "Movie/v5374/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6529513575770232,
+        "dirty_test_acc": 0.7197998570407433,
+        "clean_test_f1": 0.6580635321467292,
+        "clean_test_acc": 0.7244517997517583,
+        "AutoER_test_f1": 0.6465916515426497,
+        "AutoER_test_acc": 0.7136633663366336
+    },
+    "Movie/v4225/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6432643709657775,
+        "dirty_test_acc": 0.7126518942101501,
+        "clean_test_f1": 0.6453230806360029,
+        "clean_test_acc": 0.7133891213389121,
+        "AutoER_test_f1": 0.6376574471243905,
+        "AutoER_test_acc": 0.7080721003134797
+    },
+    "Movie/v3562/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6436388321593665,
+        "dirty_test_acc": 0.7140814867762688,
+        "clean_test_f1": 0.6433250134916351,
+        "clean_test_acc": 0.7120462046204621,
+        "AutoER_test_f1": 0.6336136816498172,
+        "AutoER_test_acc": 0.7036163522012578
+    },
+    "Movie/v5056/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6540516969108094,
+        "dirty_test_acc": 0.7144388849177984,
+        "clean_test_f1": 0.6542903448729762,
+        "clean_test_acc": 0.7134599504541701,
+        "AutoER_test_f1": 0.6493450105013732,
+        "AutoER_test_acc": 0.7095631641086186
+    },
+    "Movie/v235/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6592807806770833,
+        "dirty_test_acc": 0.7258756254467477,
+        "clean_test_f1": 0.6648051747067247,
+        "clean_test_acc": 0.7287432600580672,
+        "AutoER_test_f1": 0.6469650482316188,
+        "AutoER_test_acc": 0.7151394422310757
+    },
+    "Movie/v3462/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6648068745041911,
+        "dirty_test_acc": 0.720157255182273,
+        "clean_test_f1": 0.6613093395823202,
+        "clean_test_acc": 0.7172385283174866,
+        "AutoER_test_f1": 0.6644815914643415,
+        "AutoER_test_acc": 0.7167721518987342
+    },
+    "Movie/v7813/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6640437945125272,
+        "dirty_test_acc": 0.7280200142959257,
+        "clean_test_f1": 0.6654191071985582,
+        "clean_test_acc": 0.7298201589293183,
+        "AutoER_test_f1": 0.6555605653888097,
+        "AutoER_test_acc": 0.7197501951600312
+    },
+    "Movie/v2516/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6396483095689929,
+        "dirty_test_acc": 0.7087205146533238,
+        "clean_test_f1": 0.6427091683556694,
+        "clean_test_acc": 0.7113358617783396,
+        "AutoER_test_f1": 0.6344597165776216,
+        "AutoER_test_acc": 0.7040816326530612
+    },
+    "Movie/v8093/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6556073420853623,
+        "dirty_test_acc": 0.7219442458899213,
+        "clean_test_f1": 0.6643579955225551,
+        "clean_test_acc": 0.7304638529043043,
+        "AutoER_test_f1": 0.6510679854129945,
+        "AutoER_test_acc": 0.717382735514387
+    },
+    "Movie/v5192/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6477309766322386,
+        "dirty_test_acc": 0.7165832737669764,
+        "clean_test_f1": 0.6486219504446992,
+        "clean_test_acc": 0.7186978297161937,
+        "AutoER_test_f1": 0.643830794774191,
+        "AutoER_test_acc": 0.7122104436592069
+    },
+    "Movie/v5396/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6640226825785609,
+        "dirty_test_acc": 0.72337383845604,
+        "clean_test_f1": 0.6671808539260795,
+        "clean_test_acc": 0.7227517612929962,
+        "AutoER_test_f1": 0.6563778763883723,
+        "AutoER_test_acc": 0.7169590643274854
+    },
+    "Movie/v2962/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6301833369558194,
+        "dirty_test_acc": 0.7105075053609721,
+        "clean_test_f1": 0.6369284444250839,
+        "clean_test_acc": 0.7142261159783062,
+        "AutoER_test_f1": 0.6196982394035275,
+        "AutoER_test_acc": 0.7010592389172224
+    },
+    "Movie/v7751/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.655558080341188,
+        "dirty_test_acc": 0.7194424588992138,
+        "clean_test_f1": 0.6586557254266291,
+        "clean_test_acc": 0.7193347193347194,
+        "AutoER_test_f1": 0.6522093756034801,
+        "AutoER_test_acc": 0.712770137524558
+    },
+    "Movie/v2895/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6623231017795951,
+        "dirty_test_acc": 0.7251608291636884,
+        "clean_test_f1": 0.6658496177468053,
+        "clean_test_acc": 0.7285478547854786,
+        "AutoER_test_f1": 0.6568507347369359,
+        "AutoER_test_acc": 0.7178585384915983
+    },
+    "Movie/v4764/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6293398567894484,
+        "dirty_test_acc": 0.7080057183702645,
+        "clean_test_f1": 0.6393263636499604,
+        "clean_test_acc": 0.7146997929606625,
+        "AutoER_test_f1": 0.6195710865232121,
+        "AutoER_test_acc": 0.6994535519125683
+    },
+    "Movie/v8444/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6323889568471043,
+        "dirty_test_acc": 0.7076483202287348,
+        "clean_test_f1": 0.6393404877071187,
+        "clean_test_acc": 0.7132750728256346,
+        "AutoER_test_f1": 0.6233664597971403,
+        "AutoER_test_acc": 0.6980101443620756
+    },
+    "Movie/v6542/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6359218886347171,
+        "dirty_test_acc": 0.7080057183702645,
+        "clean_test_f1": 0.6352814953814325,
+        "clean_test_acc": 0.7095709570957096,
+        "AutoER_test_f1": 0.6251010999063974,
+        "AutoER_test_acc": 0.6990253411306043
+    },
+    "Movie/v9394/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6396177531053602,
+        "dirty_test_acc": 0.718012866333095,
+        "clean_test_f1": 0.6429074658082292,
+        "clean_test_acc": 0.7197847682119205,
+        "AutoER_test_f1": 0.6369208563715679,
+        "AutoER_test_acc": 0.714792899408284
+    },
+    "Movie/v144/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6459695892144244,
+        "dirty_test_acc": 0.7097927090779128,
+        "clean_test_f1": 0.6509511416025979,
+        "clean_test_acc": 0.71499176276771,
+        "AutoER_test_f1": 0.6443642875071716,
+        "AutoER_test_acc": 0.7046081134304845
+    },
+    "Movie/v905/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6322312893969988,
+        "dirty_test_acc": 0.6976411722659042,
+        "clean_test_f1": 0.6390620939814007,
+        "clean_test_acc": 0.7040901502504173,
+        "AutoER_test_f1": 0.6284973800335046,
+        "AutoER_test_acc": 0.6923076923076923
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "Company/v3462/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6159521994612052,
+        "dirty_test_acc": 0.6553333333333333,
+        "clean_test_f1": 0.61533488652503,
+        "clean_test_acc": 0.6548888888888889
+    },
+    "Company/v5374/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6062044950933839,
+        "dirty_test_acc": 0.6544444444444445,
+        "clean_test_f1": 0.6062044950933839,
+        "clean_test_acc": 0.6544444444444445
+    },
+    "Company/v4225/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6075924205773025,
+        "dirty_test_acc": 0.6588888888888889,
+        "clean_test_f1": 0.6072641584907308,
+        "clean_test_acc": 0.6586666666666666
+    },
+    "Company/v5056/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6071620242247615,
+        "dirty_test_acc": 0.6464444444444445,
+        "clean_test_f1": 0.6074702121734596,
+        "clean_test_acc": 0.6466666666666666
+    },
+    "Company/v3562/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6251386298017227,
+        "dirty_test_acc": 0.6695555555555556,
+        "clean_test_f1": 0.6229148419102866,
+        "clean_test_acc": 0.668
+    },
+    "Company/v144/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6215867707340914,
+        "dirty_test_acc": 0.6668888888888889,
+        "clean_test_f1": 0.6209493645703905,
+        "clean_test_acc": 0.6664444444444444
+    },
+    "Company/v905/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6234582570350481,
+        "dirty_test_acc": 0.6611111111111111,
+        "clean_test_f1": 0.6216215117795465,
+        "clean_test_acc": 0.6597777777777778
+    },
+    "Company/v2516/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6248932502530364,
+        "dirty_test_acc": 0.6626666666666666,
+        "clean_test_f1": 0.6245872478074012,
+        "clean_test_acc": 0.6624444444444444
+    },
+    "Company/v7813/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6229383422980221,
+        "dirty_test_acc": 0.6646666666666666,
+        "clean_test_f1": 0.6226257075698562,
+        "clean_test_acc": 0.6644444444444444
+    },
+    "Company/v235/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.5957367697371541,
+        "dirty_test_acc": 0.648,
+        "clean_test_f1": 0.5942682930152827,
+        "clean_test_acc": 0.6471111111111111
+    },
+    "Company/v7751/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6278117437514052,
+        "dirty_test_acc": 0.6606666666666666,
+        "clean_test_f1": 0.6271079133602674,
+        "clean_test_acc": 0.6602222222222223
+    },
+    "Company/v2895/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6268014041108962,
+        "dirty_test_acc": 0.6673333333333333,
+        "clean_test_f1": 0.6241874249588715,
+        "clean_test_acc": 0.6655555555555556
+    },
+    "Company/v4764/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6256443747150067,
+        "dirty_test_acc": 0.6555555555555556,
+        "clean_test_f1": 0.6250588664022037,
+        "clean_test_acc": 0.6551111111111111
+    },
+    "Company/v5192/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6171680180922108,
+        "dirty_test_acc": 0.6524444444444445,
+        "clean_test_f1": 0.617281684160704,
+        "clean_test_acc": 0.6524444444444445
+    },
+    "Company/v5396/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.600375852230973,
+        "dirty_test_acc": 0.6437777777777778,
+        "clean_test_f1": 0.5997456327385629,
+        "clean_test_acc": 0.6433333333333333
+    },
+    "Company/v8093/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6120408060706568,
+        "dirty_test_acc": 0.6568888888888889,
+        "clean_test_f1": 0.6110874517755982,
+        "clean_test_acc": 0.6562222222222223
+    },
+    "Company/v2962/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6203641628263105,
+        "dirty_test_acc": 0.6662222222222223,
+        "clean_test_f1": 0.6190851117979856,
+        "clean_test_acc": 0.6653333333333333
+    },
+    "Company/v9394/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6170739306040496,
+        "dirty_test_acc": 0.6484444444444445,
+        "clean_test_f1": 0.6169677013219699,
+        "clean_test_acc": 0.6484444444444445
+    },
+    "Company/v8444/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6129135178419499,
+        "dirty_test_acc": 0.6577777777777778,
+        "clean_test_f1": 0.6121449441005786,
+        "clean_test_acc": 0.6573333333333333
+    },
+    "Company/v6542/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.5936858445006299,
+        "dirty_test_acc": 0.6348888888888888,
+        "clean_test_f1": 0.5936858445006299,
+        "clean_test_acc": 0.6348888888888888
+    }
+}
