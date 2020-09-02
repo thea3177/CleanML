@@ -1,0 +1,202 @@
+{
+    "Sensor/v6542/outliers/dirty/MLP/3659": {
+        "dirty_test_f1": 0.958,
+        "dirty_test_acc": 0.958,
+        "best_params": {
+            "lr": 0.0007124619370700941,
+            "momentum": 0.8563905426330829,
+            "optimizer": "RMSprop",
+            "hidden": 103
+        }
+    },
+    "Sensor/v8444/outliers/dirty/MLP/3659": {
+        "dirty_test_f1": 0.934,
+        "dirty_test_acc": 0.934,
+        "best_params": {
+            "lr": 0.0016520110327183264,
+            "momentum": 0.9855841940459268,
+            "optimizer": "RMSprop",
+            "hidden": 98
+        }
+    },
+    "Sensor/v144/outliers/dirty/MLP/3659": {
+        "dirty_test_f1": 0.822,
+        "dirty_test_acc": 0.822,
+        "best_params": {
+            "lr": 0.006165899995612039,
+            "momentum": 0.7063559657537493,
+            "optimizer": "SGD",
+            "hidden": 119
+        }
+    },
+    "Sensor/v9394/outliers/dirty/MLP/3659": {
+        "dirty_test_f1": 0.902,
+        "dirty_test_acc": 0.902,
+        "best_params": {
+            "lr": 0.0001249144797305631,
+            "momentum": 0.531455932632496,
+            "optimizer": "RMSprop",
+            "hidden": 120
+        }
+    },
+    "Sensor/v905/outliers/dirty/MLP/3659": {
+        "dirty_test_f1": 0.926,
+        "dirty_test_acc": 0.926,
+        "best_params": {
+            "lr": 0.00020766273405615546,
+            "momentum": 0.5259746520813738,
+            "optimizer": "RMSprop",
+            "hidden": 78
+        }
+    },
+    "Sensor/v2962/outliers/dirty/MLP/3659": {
+        "dirty_test_f1": 0.692,
+        "dirty_test_acc": 0.692,
+        "best_params": {
+            "lr": 0.0034678960511101233,
+            "momentum": 0.5427000844484586,
+            "optimizer": "SGD",
+            "hidden": 96
+        }
+    },
+    "Sensor/v5192/outliers/dirty/MLP/3659": {
+        "dirty_test_f1": 0.608,
+        "dirty_test_acc": 0.608,
+        "best_params": {
+            "lr": 0.0012165229964757672,
+            "momentum": 0.8939793371765169,
+            "optimizer": "SGD",
+            "hidden": 82
+        }
+    },
+    "Sensor/v5396/outliers/dirty/MLP/3659": {
+        "dirty_test_f1": 0.966,
+        "dirty_test_acc": 0.966,
+        "best_params": {
+            "lr": 0.0004913110092620637,
+            "momentum": 0.608107980714813,
+            "optimizer": "RMSprop",
+            "hidden": 108
+        }
+    },
+    "Sensor/v8093/outliers/dirty/MLP/3659": {
+        "dirty_test_f1": 0.62,
+        "dirty_test_acc": 0.62,
+        "best_params": {
+            "lr": 0.001176814301175494,
+            "momentum": 0.7999676706526198,
+            "optimizer": "SGD",
+            "hidden": 110
+        }
+    },
+    "Sensor/v2895/outliers/dirty/MLP/3659": {
+        "dirty_test_f1": 0.968,
+        "dirty_test_acc": 0.968,
+        "best_params": {
+            "lr": 0.003542138625547029,
+            "momentum": 0.41674486068557903,
+            "optimizer": "RMSprop",
+            "hidden": 68
+        }
+    },
+    "Sensor/v4764/outliers/dirty/MLP/3659": {
+        "dirty_test_f1": 0.924,
+        "dirty_test_acc": 0.924,
+        "best_params": {
+            "lr": 0.00015099858245626752,
+            "momentum": 0.5307715860306218,
+            "optimizer": "RMSprop",
+            "hidden": 127
+        }
+    },
+    "Sensor/v7751/outliers/dirty/MLP/3659": {
+        "dirty_test_f1": 0.968,
+        "dirty_test_acc": 0.968,
+        "best_params": {
+            "lr": 0.0045804306498062166,
+            "momentum": 0.47973705839721853,
+            "optimizer": "RMSprop",
+            "hidden": 70
+        }
+    },
+    "Sensor/v2516/outliers/dirty/MLP/3659": {
+        "dirty_test_f1": 0.82,
+        "dirty_test_acc": 0.82,
+        "best_params": {
+            "lr": 0.005274209259599251,
+            "momentum": 0.8800416364144241,
+            "optimizer": "SGD",
+            "hidden": 122
+        }
+    },
+    "Sensor/v7813/outliers/dirty/MLP/3659": {
+        "dirty_test_f1": 0.946,
+        "dirty_test_acc": 0.946,
+        "best_params": {
+            "lr": 0.0003572083066742175,
+            "momentum": 0.7574560117050235,
+            "optimizer": "RMSprop",
+            "hidden": 65
+        }
+    },
+    "Sensor/v5056/outliers/dirty/MLP/3659": {
+        "dirty_test_f1": 0.884,
+        "dirty_test_acc": 0.884,
+        "best_params": {
+            "lr": 0.0023357164710927866,
+            "momentum": 0.84480668031756,
+            "optimizer": "RMSprop",
+            "hidden": 115
+        }
+    },
+    "Sensor/v3562/outliers/dirty/MLP/3659": {
+        "dirty_test_f1": 0.936,
+        "dirty_test_acc": 0.936,
+        "best_params": {
+            "lr": 0.0009776529422112126,
+            "momentum": 0.46387991279044377,
+            "optimizer": "RMSprop",
+            "hidden": 114
+        }
+    },
+    "Sensor/v5374/outliers/dirty/MLP/3659": {
+        "dirty_test_f1": 0.942,
+        "dirty_test_acc": 0.942,
+        "best_params": {
+            "lr": 0.00014908835704948776,
+            "momentum": 0.8724787247204537,
+            "optimizer": "RMSprop",
+            "hidden": 103
+        }
+    },
+    "Sensor/v4225/outliers/dirty/MLP/3659": {
+        "dirty_test_f1": 0.95,
+        "dirty_test_acc": 0.95,
+        "best_params": {
+            "lr": 0.0005237884849414745,
+            "momentum": 0.9016025815030504,
+            "optimizer": "RMSprop",
+            "hidden": 115
+        }
+    },
+    "Sensor/v235/outliers/dirty/MLP/3659": {
+        "dirty_test_f1": 0.956,
+        "dirty_test_acc": 0.956,
+        "best_params": {
+            "lr": 0.0016573381362064094,
+            "momentum": 0.8974715518196521,
+            "optimizer": "RMSprop",
+            "hidden": 88
+        }
+    },
+    "Sensor/v3462/outliers/dirty/MLP/3659": {
+        "dirty_test_f1": 0.91,
+        "dirty_test_acc": 0.91,
+        "best_params": {
+            "lr": 0.00964843104296275,
+            "momentum": 0.6631315168227814,
+            "optimizer": "RMSprop",
+            "hidden": 70
+        }
+    }
+}

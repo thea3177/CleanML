@@ -1,0 +1,202 @@
+{
+    "Company/v3462/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.64,
+        "dirty_test_acc": 0.64,
+        "best_params": {
+            "lr": 0.0017381933669488034,
+            "momentum": 0.7313235934181728,
+            "optimizer": "SGD",
+            "hidden": 85
+        }
+    },
+    "Company/v5374/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.666,
+        "dirty_test_acc": 0.666,
+        "best_params": {
+            "lr": 6.063785005130517e-05,
+            "momentum": 0.9433516501441342,
+            "optimizer": "RMSprop",
+            "hidden": 109
+        }
+    },
+    "Company/v4225/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.71,
+        "dirty_test_acc": 0.71,
+        "best_params": {
+            "lr": 0.0014851472757952712,
+            "momentum": 0.5472068088319362,
+            "optimizer": "SGD",
+            "hidden": 122
+        }
+    },
+    "Company/v5056/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.63,
+        "dirty_test_acc": 0.63,
+        "best_params": {
+            "lr": 0.0019122430568678172,
+            "momentum": 0.9142074598739012,
+            "optimizer": "RMSprop",
+            "hidden": 71
+        }
+    },
+    "Company/v3562/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.698,
+        "dirty_test_acc": 0.698,
+        "best_params": {
+            "lr": 0.0027280438397936767,
+            "momentum": 0.4819071980723205,
+            "optimizer": "SGD",
+            "hidden": 109
+        }
+    },
+    "Company/v144/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.672,
+        "dirty_test_acc": 0.672,
+        "best_params": {
+            "lr": 0.0014776705052496901,
+            "momentum": 0.6116074931945016,
+            "optimizer": "SGD",
+            "hidden": 122
+        }
+    },
+    "Company/v905/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.646,
+        "dirty_test_acc": 0.646,
+        "best_params": {
+            "lr": 0.0015676147636431838,
+            "momentum": 0.5098696921121333,
+            "optimizer": "RMSprop",
+            "hidden": 121
+        }
+    },
+    "Company/v2516/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.678,
+        "dirty_test_acc": 0.678,
+        "best_params": {
+            "lr": 0.0005802028427685408,
+            "momentum": 0.42398252156024824,
+            "optimizer": "SGD",
+            "hidden": 99
+        }
+    },
+    "Company/v7813/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.644,
+        "dirty_test_acc": 0.644,
+        "best_params": {
+            "lr": 0.00017945294045234664,
+            "momentum": 0.7589996816614581,
+            "optimizer": "SGD",
+            "hidden": 76
+        }
+    },
+    "Company/v235/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.636,
+        "dirty_test_acc": 0.636,
+        "best_params": {
+            "lr": 0.0023323184454603885,
+            "momentum": 0.984165134142904,
+            "optimizer": "SGD",
+            "hidden": 79
+        }
+    },
+    "Company/v7751/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.696,
+        "dirty_test_acc": 0.696,
+        "best_params": {
+            "lr": 0.0004298198321946035,
+            "momentum": 0.613991011951701,
+            "optimizer": "SGD",
+            "hidden": 93
+        }
+    },
+    "Company/v2895/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.688,
+        "dirty_test_acc": 0.688,
+        "best_params": {
+            "lr": 0.006453018087841344,
+            "momentum": 0.5912328112108086,
+            "optimizer": "RMSprop",
+            "hidden": 112
+        }
+    },
+    "Company/v4764/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.712,
+        "dirty_test_acc": 0.712,
+        "best_params": {
+            "lr": 0.0006394459404064347,
+            "momentum": 0.7852127098572041,
+            "optimizer": "SGD",
+            "hidden": 120
+        }
+    },
+    "Company/v5192/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.63,
+        "dirty_test_acc": 0.63,
+        "best_params": {
+            "lr": 0.0058386625696557675,
+            "momentum": 0.8196767249685759,
+            "optimizer": "SGD",
+            "hidden": 104
+        }
+    },
+    "Company/v5396/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.698,
+        "dirty_test_acc": 0.698,
+        "best_params": {
+            "lr": 0.003444067178443729,
+            "momentum": 0.7278193026648605,
+            "optimizer": "SGD",
+            "hidden": 103
+        }
+    },
+    "Company/v8093/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.686,
+        "dirty_test_acc": 0.686,
+        "best_params": {
+            "lr": 0.008636674677393583,
+            "momentum": 0.4890911095755238,
+            "optimizer": "SGD",
+            "hidden": 86
+        }
+    },
+    "Company/v2962/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.696,
+        "dirty_test_acc": 0.696,
+        "best_params": {
+            "lr": 0.005221889787201439,
+            "momentum": 0.8519417580112634,
+            "optimizer": "SGD",
+            "hidden": 128
+        }
+    },
+    "Company/v9394/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.628,
+        "dirty_test_acc": 0.628,
+        "best_params": {
+            "lr": 0.00026297881724937747,
+            "momentum": 0.416002270872713,
+            "optimizer": "SGD",
+            "hidden": 113
+        }
+    },
+    "Company/v8444/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.68,
+        "dirty_test_acc": 0.68,
+        "best_params": {
+            "lr": 0.0014622500923107346,
+            "momentum": 0.8472117410664018,
+            "optimizer": "SGD",
+            "hidden": 72
+        }
+    },
+    "Company/v6542/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.658,
+        "dirty_test_acc": 0.658,
+        "best_params": {
+            "lr": 0.0015076019442467924,
+            "momentum": 0.9788088282575266,
+            "optimizer": "RMSprop",
+            "hidden": 115
+        }
+    }
+}

@@ -1,0 +1,402 @@
+{
+    "Restaurant/v2962/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7375415282392026,
+        "dirty_test_acc": 0.7375415282392026,
+        "best_params": {
+            "lr": 0.005997053857656406,
+            "momentum": 0.6885193567746419,
+            "optimizer": "RMSprop",
+            "hidden": 66
+        }
+    },
+    "Restaurant/v8093/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7524916943521595,
+        "dirty_test_acc": 0.7524916943521595,
+        "best_params": {
+            "lr": 0.0027627833553734143,
+            "momentum": 0.8954196054582084,
+            "optimizer": "SGD",
+            "hidden": 121
+        }
+    },
+    "Restaurant/v5396/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7541528239202658,
+        "dirty_test_acc": 0.7541528239202658,
+        "best_params": {
+            "lr": 5.237238093608436e-05,
+            "momentum": 0.6494495326986205,
+            "optimizer": "RMSprop",
+            "hidden": 112
+        }
+    },
+    "Restaurant/v5192/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7275747508305648,
+        "dirty_test_acc": 0.7275747508305648,
+        "best_params": {
+            "lr": 0.009417453752980906,
+            "momentum": 0.4371570631760453,
+            "optimizer": "RMSprop",
+            "hidden": 73
+        }
+    },
+    "Restaurant/v4764/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7242524916943521,
+        "dirty_test_acc": 0.7242524916943521,
+        "best_params": {
+            "lr": 0.0012976269621155277,
+            "momentum": 0.8818116039565842,
+            "optimizer": "RMSprop",
+            "hidden": 94
+        }
+    },
+    "Restaurant/v2895/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7358803986710963,
+        "dirty_test_acc": 0.7358803986710963,
+        "best_params": {
+            "lr": 0.0006196063894838554,
+            "momentum": 0.5305004117918908,
+            "optimizer": "SGD",
+            "hidden": 81
+        }
+    },
+    "Restaurant/v7751/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7375415282392026,
+        "dirty_test_acc": 0.7375415282392026,
+        "best_params": {
+            "lr": 0.00298508230958596,
+            "momentum": 0.6927367606614332,
+            "optimizer": "SGD",
+            "hidden": 77
+        }
+    },
+    "Restaurant/v6542/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7142857142857143,
+        "dirty_test_acc": 0.7142857142857143,
+        "best_params": {
+            "lr": 0.0009026494768954888,
+            "momentum": 0.5543151901177163,
+            "optimizer": "RMSprop",
+            "hidden": 82
+        }
+    },
+    "Restaurant/v144/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7225913621262459,
+        "dirty_test_acc": 0.7225913621262459,
+        "best_params": {
+            "lr": 0.0002807062451802814,
+            "momentum": 0.6970175897501588,
+            "optimizer": "SGD",
+            "hidden": 71
+        }
+    },
+    "Restaurant/v8444/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6926910299003323,
+        "dirty_test_acc": 0.6926910299003323,
+        "best_params": {
+            "lr": 0.009406801027538348,
+            "momentum": 0.8678338652430655,
+            "optimizer": "RMSprop",
+            "hidden": 92
+        }
+    },
+    "Restaurant/v905/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7441860465116279,
+        "dirty_test_acc": 0.7441860465116279,
+        "best_params": {
+            "lr": 3.303849073106725e-05,
+            "momentum": 0.8625623001784146,
+            "optimizer": "RMSprop",
+            "hidden": 117
+        }
+    },
+    "Restaurant/v9394/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7159468438538206,
+        "dirty_test_acc": 0.7159468438538206,
+        "best_params": {
+            "lr": 2.1131443914454988e-05,
+            "momentum": 0.6460646407725212,
+            "optimizer": "RMSprop",
+            "hidden": 125
+        }
+    },
+    "Restaurant/v3562/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.729235880398671,
+        "dirty_test_acc": 0.729235880398671,
+        "best_params": {
+            "lr": 0.0021364906735113344,
+            "momentum": 0.8051066390119128,
+            "optimizer": "RMSprop",
+            "hidden": 120
+        }
+    },
+    "Restaurant/v5056/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7425249169435216,
+        "dirty_test_acc": 0.7425249169435216,
+        "best_params": {
+            "lr": 0.00113300385978209,
+            "momentum": 0.45062737035968364,
+            "optimizer": "SGD",
+            "hidden": 123
+        }
+    },
+    "Restaurant/v235/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7657807308970099,
+        "dirty_test_acc": 0.7657807308970099,
+        "best_params": {
+            "lr": 0.0036014015994197306,
+            "momentum": 0.8536372658303264,
+            "optimizer": "SGD",
+            "hidden": 94
+        }
+    },
+    "Restaurant/v4225/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.739202657807309,
+        "dirty_test_acc": 0.739202657807309,
+        "best_params": {
+            "lr": 0.0027799953515881453,
+            "momentum": 0.6116670098877539,
+            "optimizer": "SGD",
+            "hidden": 72
+        }
+    },
+    "Restaurant/v5374/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7591362126245847,
+        "dirty_test_acc": 0.7591362126245847,
+        "best_params": {
+            "lr": 8.159259810466118e-05,
+            "momentum": 0.5107826811761418,
+            "optimizer": "RMSprop",
+            "hidden": 65
+        }
+    },
+    "Restaurant/v3462/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7192691029900332,
+        "dirty_test_acc": 0.7192691029900332,
+        "best_params": {
+            "lr": 0.0011787316518625983,
+            "momentum": 0.6996971352822801,
+            "optimizer": "RMSprop",
+            "hidden": 73
+        }
+    },
+    "Restaurant/v4764/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.5431893687707641,
+        "dirty_test_acc": 0.5431893687707641,
+        "best_params": {
+            "lr": 7.096899060877492e-05,
+            "momentum": 0.7549834811821996,
+            "optimizer": "SGD",
+            "hidden": 93
+        }
+    },
+    "Restaurant/v7813/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7657807308970099,
+        "dirty_test_acc": 0.7657807308970099,
+        "best_params": {
+            "lr": 0.0003337623582079955,
+            "momentum": 0.5629618546625764,
+            "optimizer": "RMSprop",
+            "hidden": 110
+        }
+    },
+    "Restaurant/v2895/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.49169435215946844,
+        "dirty_test_acc": 0.49169435215946844,
+        "best_params": {
+            "lr": 3.85730058134525e-05,
+            "momentum": 0.5129651146540577,
+            "optimizer": "SGD",
+            "hidden": 126
+        }
+    },
+    "Restaurant/v2516/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7425249169435216,
+        "dirty_test_acc": 0.7425249169435216,
+        "best_params": {
+            "lr": 2.924520690472643e-05,
+            "momentum": 0.4663416842418323,
+            "optimizer": "RMSprop",
+            "hidden": 102
+        }
+    },
+    "Restaurant/v7751/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6478405315614618,
+        "dirty_test_acc": 0.6478405315614618,
+        "best_params": {
+            "lr": 0.004980883292276185,
+            "momentum": 0.7290675838810925,
+            "optimizer": "RMSprop",
+            "hidden": 91
+        }
+    },
+    "Restaurant/v2962/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7159468438538206,
+        "dirty_test_acc": 0.7159468438538206,
+        "best_params": {
+            "lr": 0.0005058056442406457,
+            "momentum": 0.8079285169670989,
+            "optimizer": "RMSprop",
+            "hidden": 76
+        }
+    },
+    "Restaurant/v144/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7641196013289037,
+        "dirty_test_acc": 0.7641196013289037,
+        "best_params": {
+            "lr": 1.37665142180394e-05,
+            "momentum": 0.6212112507304003,
+            "optimizer": "RMSprop",
+            "hidden": 122
+        }
+    },
+    "Restaurant/v5396/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7408637873754153,
+        "dirty_test_acc": 0.7408637873754153,
+        "best_params": {
+            "lr": 6.792288874048586e-05,
+            "momentum": 0.7187710639661373,
+            "optimizer": "RMSprop",
+            "hidden": 78
+        }
+    },
+    "Restaurant/v5192/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7475083056478405,
+        "dirty_test_acc": 0.7475083056478405,
+        "best_params": {
+            "lr": 0.00062346532900657,
+            "momentum": 0.8971144246313987,
+            "optimizer": "SGD",
+            "hidden": 127
+        }
+    },
+    "Restaurant/v8093/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7408637873754153,
+        "dirty_test_acc": 0.7408637873754153,
+        "best_params": {
+            "lr": 0.000529227777241418,
+            "momentum": 0.40027493980231527,
+            "optimizer": "SGD",
+            "hidden": 127
+        }
+    },
+    "Restaurant/v905/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7508305647840532,
+        "dirty_test_acc": 0.7508305647840532,
+        "best_params": {
+            "lr": 0.002187306781282287,
+            "momentum": 0.5768167770897664,
+            "optimizer": "SGD",
+            "hidden": 100
+        }
+    },
+    "Restaurant/v9394/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.707641196013289,
+        "dirty_test_acc": 0.707641196013289,
+        "best_params": {
+            "lr": 0.0003890698706888493,
+            "momentum": 0.44171564994481727,
+            "optimizer": "SGD",
+            "hidden": 69
+        }
+    },
+    "Restaurant/v6542/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7225913621262459,
+        "dirty_test_acc": 0.7225913621262459,
+        "best_params": {
+            "lr": 0.00019414915583732586,
+            "momentum": 0.532901647117802,
+            "optimizer": "RMSprop",
+            "hidden": 97
+        }
+    },
+    "Restaurant/v8444/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7126245847176079,
+        "dirty_test_acc": 0.7126245847176079,
+        "best_params": {
+            "lr": 7.773187185200051e-05,
+            "momentum": 0.7647750121176018,
+            "optimizer": "RMSprop",
+            "hidden": 73
+        }
+    },
+    "Restaurant/v3462/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7375415282392026,
+        "dirty_test_acc": 0.7375415282392026,
+        "best_params": {
+            "lr": 0.0010810575704006968,
+            "momentum": 0.6637389169802337,
+            "optimizer": "SGD",
+            "hidden": 99
+        }
+    },
+    "Restaurant/v5056/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7558139534883721,
+        "dirty_test_acc": 0.7558139534883721,
+        "best_params": {
+            "lr": 0.0002636627721285647,
+            "momentum": 0.6243124420394951,
+            "optimizer": "SGD",
+            "hidden": 81
+        }
+    },
+    "Restaurant/v3562/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7308970099667774,
+        "dirty_test_acc": 0.7308970099667774,
+        "best_params": {
+            "lr": 0.0025998764297186154,
+            "momentum": 0.8630163897152452,
+            "optimizer": "SGD",
+            "hidden": 107
+        }
+    },
+    "Restaurant/v4225/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7674418604651163,
+        "dirty_test_acc": 0.7674418604651163,
+        "best_params": {
+            "lr": 0.0030342000653230303,
+            "momentum": 0.7524472152603686,
+            "optimizer": "SGD",
+            "hidden": 103
+        }
+    },
+    "Restaurant/v5374/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7491694352159468,
+        "dirty_test_acc": 0.7491694352159468,
+        "best_params": {
+            "lr": 0.0013007907301646059,
+            "momentum": 0.7886192889639501,
+            "optimizer": "SGD",
+            "hidden": 107
+        }
+    },
+    "Restaurant/v235/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7093023255813954,
+        "dirty_test_acc": 0.7093023255813954,
+        "best_params": {
+            "lr": 0.0003449310089569961,
+            "momentum": 0.9300219255102093,
+            "optimizer": "RMSprop",
+            "hidden": 77
+        }
+    },
+    "Restaurant/v2516/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7275747508305648,
+        "dirty_test_acc": 0.7275747508305648,
+        "best_params": {
+            "lr": 0.0030486072592810424,
+            "momentum": 0.7765423096570473,
+            "optimizer": "RMSprop",
+            "hidden": 65
+        }
+    },
+    "Restaurant/v7813/inconsistency/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7790697674418605,
+        "dirty_test_acc": 0.7790697674418605,
+        "best_params": {
+            "lr": 1.3233575151829622e-05,
+            "momentum": 0.6996560751530319,
+            "optimizer": "RMSprop",
+            "hidden": 77
+        }
+    }
+}

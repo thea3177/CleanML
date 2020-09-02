@@ -318,5 +318,605 @@
         "lr_test_f1": 0.7540196337071416,
         "lr_test_acc": 0.6951111111111111,
         "lr_train_acc": 0.6961904761904761
+    },
+    "Airbnb/v8093/missing_values/dirty/MLP/3659": {
+        "dirty_test_f1": 0.708,
+        "dirty_test_acc": 0.708,
+        "best_params": {
+            "lr": 1.2764908656428507e-05,
+            "momentum": 0.5157274173281847,
+            "optimizer": "RMSprop",
+            "hidden": 107
+        }
+    },
+    "Airbnb/v235/missing_values/dirty/MLP/3659": {
+        "dirty_test_f1": 0.674,
+        "dirty_test_acc": 0.674,
+        "best_params": {
+            "lr": 0.006850148809219539,
+            "momentum": 0.8362052642105731,
+            "optimizer": "SGD",
+            "hidden": 109
+        }
+    },
+    "Airbnb/v5396/missing_values/dirty/MLP/3659": {
+        "dirty_test_f1": 0.694,
+        "dirty_test_acc": 0.694,
+        "best_params": {
+            "lr": 0.00013316073784736747,
+            "momentum": 0.801694415556857,
+            "optimizer": "RMSprop",
+            "hidden": 120
+        }
+    },
+    "Airbnb/v5192/missing_values/dirty/MLP/3659": {
+        "dirty_test_f1": 0.666,
+        "dirty_test_acc": 0.666,
+        "best_params": {
+            "lr": 0.00015332720264657235,
+            "momentum": 0.5483143929251609,
+            "optimizer": "RMSprop",
+            "hidden": 127
+        }
+    },
+    "Airbnb/v2962/missing_values/dirty/MLP/3659": {
+        "dirty_test_f1": 0.68,
+        "dirty_test_acc": 0.68,
+        "best_params": {
+            "lr": 2.8497132136949598e-05,
+            "momentum": 0.9057156628897057,
+            "optimizer": "RMSprop",
+            "hidden": 86
+        }
+    },
+    "Airbnb/v7751/missing_values/dirty/MLP/3659": {
+        "dirty_test_f1": 0.712,
+        "dirty_test_acc": 0.712,
+        "best_params": {
+            "lr": 0.0002690566847638207,
+            "momentum": 0.5654515190527962,
+            "optimizer": "RMSprop",
+            "hidden": 126
+        }
+    },
+    "Airbnb/v4764/missing_values/dirty/MLP/3659": {
+        "dirty_test_f1": 0.694,
+        "dirty_test_acc": 0.694,
+        "best_params": {
+            "lr": 1.690289864467738e-05,
+            "momentum": 0.8579980126765605,
+            "optimizer": "RMSprop",
+            "hidden": 115
+        }
+    },
+    "Airbnb/v2895/missing_values/dirty/MLP/3659": {
+        "dirty_test_f1": 0.678,
+        "dirty_test_acc": 0.678,
+        "best_params": {
+            "lr": 0.005365937677320278,
+            "momentum": 0.47223811725455395,
+            "optimizer": "RMSprop",
+            "hidden": 123
+        }
+    },
+    "Airbnb/v8444/missing_values/dirty/MLP/3659": {
+        "dirty_test_f1": 0.678,
+        "dirty_test_acc": 0.678,
+        "best_params": {
+            "lr": 3.084597032375425e-05,
+            "momentum": 0.6043693681404714,
+            "optimizer": "RMSprop",
+            "hidden": 85
+        }
+    },
+    "Airbnb/v6542/missing_values/dirty/MLP/3659": {
+        "dirty_test_f1": 0.712,
+        "dirty_test_acc": 0.712,
+        "best_params": {
+            "lr": 0.0012680692860654508,
+            "momentum": 0.8342636640123108,
+            "optimizer": "SGD",
+            "hidden": 88
+        }
+    },
+    "Airbnb/v9394/missing_values/dirty/MLP/3659": {
+        "dirty_test_f1": 0.68,
+        "dirty_test_acc": 0.68,
+        "best_params": {
+            "lr": 0.002280736143394298,
+            "momentum": 0.8650228440581429,
+            "optimizer": "RMSprop",
+            "hidden": 86
+        }
+    },
+    "Airbnb/v4225/missing_values/dirty/MLP/3659": {
+        "dirty_test_f1": 0.72,
+        "dirty_test_acc": 0.72,
+        "best_params": {
+            "lr": 0.004532560405865006,
+            "momentum": 0.7771915325262042,
+            "optimizer": "SGD",
+            "hidden": 102
+        }
+    },
+    "Airbnb/v5374/missing_values/dirty/MLP/3659": {
+        "dirty_test_f1": 0.66,
+        "dirty_test_acc": 0.66,
+        "best_params": {
+            "lr": 1.2572024011784884e-05,
+            "momentum": 0.8869198355965657,
+            "optimizer": "RMSprop",
+            "hidden": 77
+        }
+    },
+    "Airbnb/v3562/missing_values/dirty/MLP/3659": {
+        "dirty_test_f1": 0.668,
+        "dirty_test_acc": 0.668,
+        "best_params": {
+            "lr": 0.0009844875938005964,
+            "momentum": 0.9726957065892482,
+            "optimizer": "RMSprop",
+            "hidden": 96
+        }
+    },
+    "Airbnb/v5056/missing_values/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7,
+        "dirty_test_acc": 0.7,
+        "best_params": {
+            "lr": 0.0013429465228368847,
+            "momentum": 0.47602941657016185,
+            "optimizer": "RMSprop",
+            "hidden": 99
+        }
+    },
+    "Airbnb/v3462/missing_values/dirty/MLP/3659": {
+        "dirty_test_f1": 0.732,
+        "dirty_test_acc": 0.732,
+        "best_params": {
+            "lr": 0.0011772227847577812,
+            "momentum": 0.9471129976476554,
+            "optimizer": "RMSprop",
+            "hidden": 121
+        }
+    },
+    "Airbnb/v7813/missing_values/dirty/MLP/3659": {
+        "dirty_test_f1": 0.682,
+        "dirty_test_acc": 0.682,
+        "best_params": {
+            "lr": 0.00031558012271288926,
+            "momentum": 0.6069074842685398,
+            "optimizer": "RMSprop",
+            "hidden": 116
+        }
+    },
+    "Airbnb/v144/missing_values/dirty/MLP/3659": {
+        "dirty_test_f1": 0.674,
+        "dirty_test_acc": 0.674,
+        "best_params": {
+            "lr": 1.5901956469577696e-05,
+            "momentum": 0.8899007277993145,
+            "optimizer": "RMSprop",
+            "hidden": 88
+        }
+    },
+    "Airbnb/v2516/missing_values/dirty/MLP/3659": {
+        "dirty_test_f1": 0.666,
+        "dirty_test_acc": 0.666,
+        "best_params": {
+            "lr": 0.0010034675296821997,
+            "momentum": 0.909494676917246,
+            "optimizer": "SGD",
+            "hidden": 127
+        }
+    },
+    "Airbnb/v905/missing_values/dirty/MLP/3659": {
+        "dirty_test_f1": 0.704,
+        "dirty_test_acc": 0.704,
+        "best_params": {
+            "lr": 2.0321452288130214e-05,
+            "momentum": 0.8962522288464755,
+            "optimizer": "RMSprop",
+            "hidden": 77
+        }
+    },
+    "Airbnb/v3462/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6499068901303539,
+        "dirty_test_acc": 0.6499068901303539,
+        "best_params": {
+            "lr": 0.00014004409093986946,
+            "momentum": 0.7379719164005207,
+            "optimizer": "SGD",
+            "hidden": 75
+        }
+    },
+    "Airbnb/v3562/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7199312714776632,
+        "dirty_test_acc": 0.7199312714776632,
+        "best_params": {
+            "lr": 0.0028723379873181114,
+            "momentum": 0.6506293386577875,
+            "optimizer": "RMSprop",
+            "hidden": 106
+        }
+    },
+    "Airbnb/v5056/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7126805778491172,
+        "dirty_test_acc": 0.7126805778491172,
+        "best_params": {
+            "lr": 0.0058732672788518615,
+            "momentum": 0.7970960042427713,
+            "optimizer": "RMSprop",
+            "hidden": 119
+        }
+    },
+    "Airbnb/v5374/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.693522906793049,
+        "dirty_test_acc": 0.693522906793049,
+        "best_params": {
+            "lr": 0.0005939080130540044,
+            "momentum": 0.9317831413181191,
+            "optimizer": "RMSprop",
+            "hidden": 121
+        }
+    },
+    "Airbnb/v4225/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6386404293381037,
+        "dirty_test_acc": 0.6386404293381037,
+        "best_params": {
+            "lr": 0.00010875808932302763,
+            "momentum": 0.9814538692294587,
+            "optimizer": "SGD",
+            "hidden": 117
+        }
+    },
+    "Airbnb/v144/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6900175131348512,
+        "dirty_test_acc": 0.6900175131348512,
+        "best_params": {
+            "lr": 0.0003143526380970899,
+            "momentum": 0.5292610566585282,
+            "optimizer": "RMSprop",
+            "hidden": 127
+        }
+    },
+    "Airbnb/v7813/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6858638743455497,
+        "dirty_test_acc": 0.6858638743455497,
+        "best_params": {
+            "lr": 0.0034893125275175514,
+            "momentum": 0.5169020436714671,
+            "optimizer": "SGD",
+            "hidden": 94
+        }
+    },
+    "Airbnb/v905/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7341772151898734,
+        "dirty_test_acc": 0.7341772151898734,
+        "best_params": {
+            "lr": 0.00031586879789061964,
+            "momentum": 0.7069397161305881,
+            "optimizer": "SGD",
+            "hidden": 88
+        }
+    },
+    "Airbnb/v2516/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6884057971014492,
+        "dirty_test_acc": 0.6884057971014492,
+        "best_params": {
+            "lr": 0.0004366324225819285,
+            "momentum": 0.78011922971123,
+            "optimizer": "SGD",
+            "hidden": 109
+        }
+    },
+    "Airbnb/v2895/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6968174204355109,
+        "dirty_test_acc": 0.6968174204355109,
+        "best_params": {
+            "lr": 0.0009928412607131017,
+            "momentum": 0.8171122152556043,
+            "optimizer": "SGD",
+            "hidden": 124
+        }
+    },
+    "Airbnb/v4764/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6792114695340502,
+        "dirty_test_acc": 0.6792114695340502,
+        "best_params": {
+            "lr": 0.0012096750143949417,
+            "momentum": 0.5862915806754276,
+            "optimizer": "SGD",
+            "hidden": 83
+        }
+    },
+    "Airbnb/v7751/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6756329113924051,
+        "dirty_test_acc": 0.6756329113924051,
+        "best_params": {
+            "lr": 6.581391195837668e-05,
+            "momentum": 0.7424567949176186,
+            "optimizer": "RMSprop",
+            "hidden": 115
+        }
+    },
+    "Airbnb/v235/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6745454545454546,
+        "dirty_test_acc": 0.6745454545454546,
+        "best_params": {
+            "lr": 0.000412655675890253,
+            "momentum": 0.8496141834701064,
+            "optimizer": "SGD",
+            "hidden": 90
+        }
+    },
+    "Airbnb/v2962/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6780238500851788,
+        "dirty_test_acc": 0.6780238500851788,
+        "best_params": {
+            "lr": 0.00023632109778547988,
+            "momentum": 0.5228094623793418,
+            "optimizer": "SGD",
+            "hidden": 114
+        }
+    },
+    "Airbnb/v8093/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7163375224416517,
+        "dirty_test_acc": 0.7163375224416517,
+        "best_params": {
+            "lr": 0.0027829370024624227,
+            "momentum": 0.8537258394435058,
+            "optimizer": "SGD",
+            "hidden": 127
+        }
+    },
+    "Airbnb/v5192/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7031802120141343,
+        "dirty_test_acc": 0.7031802120141343,
+        "best_params": {
+            "lr": 0.004495747947608631,
+            "momentum": 0.7245988282516135,
+            "optimizer": "SGD",
+            "hidden": 124
+        }
+    },
+    "Airbnb/v5396/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6768402154398564,
+        "dirty_test_acc": 0.6768402154398564,
+        "best_params": {
+            "lr": 0.000927540943007732,
+            "momentum": 0.6724568969039748,
+            "optimizer": "SGD",
+            "hidden": 94
+        }
+    },
+    "Airbnb/v9394/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6709090909090909,
+        "dirty_test_acc": 0.6709090909090909,
+        "best_params": {
+            "lr": 0.0004491385491383474,
+            "momentum": 0.5272866816638898,
+            "optimizer": "RMSprop",
+            "hidden": 81
+        }
+    },
+    "Airbnb/v6542/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7111486486486487,
+        "dirty_test_acc": 0.7111486486486487,
+        "best_params": {
+            "lr": 0.0002566876798112835,
+            "momentum": 0.8211165841895082,
+            "optimizer": "RMSprop",
+            "hidden": 122
+        }
+    },
+    "Airbnb/v8444/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6946826758147513,
+        "dirty_test_acc": 0.6946826758147513,
+        "best_params": {
+            "lr": 0.00022098104628809998,
+            "momentum": 0.8432953139536735,
+            "optimizer": "SGD",
+            "hidden": 66
+        }
+    },
+    "Airbnb/v235/outliers/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6981818181818182,
+        "dirty_test_acc": 0.6981818181818182,
+        "best_params": {
+            "lr": 0.00634722181290068,
+            "momentum": 0.9450720962985634,
+            "optimizer": "SGD",
+            "hidden": 73
+        }
+    },
+    "Airbnb/v9394/outliers/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6854545454545454,
+        "dirty_test_acc": 0.6854545454545454,
+        "best_params": {
+            "lr": 2.920556665239681e-05,
+            "momentum": 0.6573921056048604,
+            "optimizer": "RMSprop",
+            "hidden": 80
+        }
+    },
+    "Airbnb/v6542/outliers/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6706081081081081,
+        "dirty_test_acc": 0.6706081081081081,
+        "best_params": {
+            "lr": 0.006329157059251852,
+            "momentum": 0.8294354200874297,
+            "optimizer": "SGD",
+            "hidden": 68
+        }
+    },
+    "Airbnb/v8444/outliers/dirty/MLP/3659": {
+        "dirty_test_f1": 0.346483704974271,
+        "dirty_test_acc": 0.346483704974271,
+        "best_params": {
+            "lr": 1.0350195585690212e-05,
+            "momentum": 0.4251338849878772,
+            "optimizer": "SGD",
+            "hidden": 97
+        }
+    },
+    "Airbnb/v4764/outliers/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7007168458781362,
+        "dirty_test_acc": 0.7007168458781362,
+        "best_params": {
+            "lr": 0.008012452341741617,
+            "momentum": 0.41325197199534963,
+            "optimizer": "SGD",
+            "hidden": 69
+        }
+    },
+    "Airbnb/v2895/outliers/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6750418760469011,
+        "dirty_test_acc": 0.6750418760469011,
+        "best_params": {
+            "lr": 0.00023030163928370668,
+            "momentum": 0.4725115119699279,
+            "optimizer": "SGD",
+            "hidden": 69
+        }
+    },
+    "Airbnb/v7751/outliers/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7072784810126582,
+        "dirty_test_acc": 0.7072784810126582,
+        "best_params": {
+            "lr": 9.107077575101816e-05,
+            "momentum": 0.5337572772530352,
+            "optimizer": "RMSprop",
+            "hidden": 124
+        }
+    },
+    "Airbnb/v2962/outliers/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6746166950596252,
+        "dirty_test_acc": 0.6746166950596252,
+        "best_params": {
+            "lr": 0.0009540233519954174,
+            "momentum": 0.4990336143897868,
+            "optimizer": "SGD",
+            "hidden": 103
+        }
+    },
+    "Airbnb/v8093/outliers/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6983842010771992,
+        "dirty_test_acc": 0.6983842010771992,
+        "best_params": {
+            "lr": 0.002712155754047495,
+            "momentum": 0.41433384024534053,
+            "optimizer": "SGD",
+            "hidden": 98
+        }
+    },
+    "Airbnb/v5396/outliers/dirty/MLP/3659": {
+        "dirty_test_f1": 0.696588868940754,
+        "dirty_test_acc": 0.696588868940754,
+        "best_params": {
+            "lr": 2.763210486597816e-05,
+            "momentum": 0.653154261348356,
+            "optimizer": "RMSprop",
+            "hidden": 72
+        }
+    },
+    "Airbnb/v5192/outliers/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6837455830388692,
+        "dirty_test_acc": 0.6837455830388692,
+        "best_params": {
+            "lr": 0.0014514259250867204,
+            "momentum": 0.6800962406445774,
+            "optimizer": "RMSprop",
+            "hidden": 93
+        }
+    },
+    "Airbnb/v7813/outliers/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6980802792321117,
+        "dirty_test_acc": 0.6980802792321117,
+        "best_params": {
+            "lr": 0.00037179256493094054,
+            "momentum": 0.7708309595924714,
+            "optimizer": "RMSprop",
+            "hidden": 122
+        }
+    },
+    "Airbnb/v2516/outliers/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6938405797101449,
+        "dirty_test_acc": 0.6938405797101449,
+        "best_params": {
+            "lr": 0.0036921572440171023,
+            "momentum": 0.9469913553400268,
+            "optimizer": "SGD",
+            "hidden": 108
+        }
+    },
+    "Airbnb/v144/outliers/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7267950963222417,
+        "dirty_test_acc": 0.7267950963222417,
+        "best_params": {
+            "lr": 0.008839683536168052,
+            "momentum": 0.5813403564348194,
+            "optimizer": "SGD",
+            "hidden": 128
+        }
+    },
+    "Airbnb/v905/outliers/dirty/MLP/3659": {
+        "dirty_test_f1": 0.3182640144665461,
+        "dirty_test_acc": 0.3182640144665461,
+        "best_params": {
+            "lr": 1.0222885434320158e-05,
+            "momentum": 0.9589805868419073,
+            "optimizer": "SGD",
+            "hidden": 108
+        }
+    },
+    "Airbnb/v3462/outliers/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7001862197392924,
+        "dirty_test_acc": 0.7001862197392924,
+        "best_params": {
+            "lr": 0.00628802478522944,
+            "momentum": 0.9464708955701224,
+            "optimizer": "SGD",
+            "hidden": 96
+        }
+    },
+    "Airbnb/v3562/outliers/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7044673539518901,
+        "dirty_test_acc": 0.7044673539518901,
+        "best_params": {
+            "lr": 0.0005529311236300888,
+            "momentum": 0.8235666121094525,
+            "optimizer": "RMSprop",
+            "hidden": 65
+        }
+    },
+    "Airbnb/v5056/outliers/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7351524879614767,
+        "dirty_test_acc": 0.7351524879614767,
+        "best_params": {
+            "lr": 0.0011554284711409602,
+            "momentum": 0.9375217321622457,
+            "optimizer": "RMSprop",
+            "hidden": 86
+        }
+    },
+    "Airbnb/v4225/outliers/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7245080500894454,
+        "dirty_test_acc": 0.7245080500894454,
+        "best_params": {
+            "lr": 0.001455028528696965,
+            "momentum": 0.477331315182306,
+            "optimizer": "RMSprop",
+            "hidden": 107
+        }
+    },
+    "Airbnb/v5374/outliers/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6682464454976303,
+        "dirty_test_acc": 0.6682464454976303,
+        "best_params": {
+            "lr": 0.0019260455664747134,
+            "momentum": 0.4805177712464083,
+            "optimizer": "RMSprop",
+            "hidden": 96
+        }
     }
 }

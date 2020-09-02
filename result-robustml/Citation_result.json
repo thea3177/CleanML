@@ -1,0 +1,202 @@
+{
+    "Citation/v9394/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.65,
+        "dirty_test_acc": 0.65,
+        "best_params": {
+            "lr": 0.00040265850192769073,
+            "momentum": 0.5850994912226845,
+            "optimizer": "RMSprop",
+            "hidden": 113
+        }
+    },
+    "Citation/v6542/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.712,
+        "dirty_test_acc": 0.712,
+        "best_params": {
+            "lr": 2.2630940737793195e-05,
+            "momentum": 0.4378500776173945,
+            "optimizer": "RMSprop",
+            "hidden": 106
+        }
+    },
+    "Citation/v235/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.676,
+        "dirty_test_acc": 0.676,
+        "best_params": {
+            "lr": 9.784182584759185e-05,
+            "momentum": 0.5199753728540304,
+            "optimizer": "RMSprop",
+            "hidden": 110
+        }
+    },
+    "Citation/v8444/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.652,
+        "dirty_test_acc": 0.652,
+        "best_params": {
+            "lr": 0.003533801363323255,
+            "momentum": 0.6096144136411952,
+            "optimizer": "SGD",
+            "hidden": 89
+        }
+    },
+    "Citation/v4764/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.644,
+        "dirty_test_acc": 0.644,
+        "best_params": {
+            "lr": 7.59377630699956e-05,
+            "momentum": 0.6646705802335897,
+            "optimizer": "RMSprop",
+            "hidden": 97
+        }
+    },
+    "Citation/v2895/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.64,
+        "dirty_test_acc": 0.64,
+        "best_params": {
+            "lr": 0.0012020076830352247,
+            "momentum": 0.7240953586630134,
+            "optimizer": "SGD",
+            "hidden": 90
+        }
+    },
+    "Citation/v7751/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.66,
+        "dirty_test_acc": 0.66,
+        "best_params": {
+            "lr": 0.0005352438882532573,
+            "momentum": 0.64676758220284,
+            "optimizer": "SGD",
+            "hidden": 67
+        }
+    },
+    "Citation/v2962/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.67,
+        "dirty_test_acc": 0.67,
+        "best_params": {
+            "lr": 0.0007360328503637181,
+            "momentum": 0.9855791567694602,
+            "optimizer": "SGD",
+            "hidden": 120
+        }
+    },
+    "Citation/v8093/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.654,
+        "dirty_test_acc": 0.654,
+        "best_params": {
+            "lr": 0.00010304374681969306,
+            "momentum": 0.42719528216871067,
+            "optimizer": "RMSprop",
+            "hidden": 70
+        }
+    },
+    "Citation/v5396/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.704,
+        "dirty_test_acc": 0.704,
+        "best_params": {
+            "lr": 2.753485771607783e-05,
+            "momentum": 0.8162630057131454,
+            "optimizer": "RMSprop",
+            "hidden": 116
+        }
+    },
+    "Citation/v5192/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.64,
+        "dirty_test_acc": 0.64,
+        "best_params": {
+            "lr": 1.4253906538522645e-05,
+            "momentum": 0.6846696097929339,
+            "optimizer": "RMSprop",
+            "hidden": 115
+        }
+    },
+    "Citation/v7813/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.696,
+        "dirty_test_acc": 0.696,
+        "best_params": {
+            "lr": 0.002793852116108566,
+            "momentum": 0.49293190017006305,
+            "optimizer": "SGD",
+            "hidden": 76
+        }
+    },
+    "Citation/v2516/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.672,
+        "dirty_test_acc": 0.672,
+        "best_params": {
+            "lr": 0.00038118699975249243,
+            "momentum": 0.9045128940498033,
+            "optimizer": "RMSprop",
+            "hidden": 111
+        }
+    },
+    "Citation/v3462/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.65,
+        "dirty_test_acc": 0.65,
+        "best_params": {
+            "lr": 0.008599055274923106,
+            "momentum": 0.705684870680171,
+            "optimizer": "SGD",
+            "hidden": 100
+        }
+    },
+    "Citation/v3562/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.678,
+        "dirty_test_acc": 0.678,
+        "best_params": {
+            "lr": 5.5219001283838413e-05,
+            "momentum": 0.4464385442636202,
+            "optimizer": "RMSprop",
+            "hidden": 118
+        }
+    },
+    "Citation/v5056/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7,
+        "dirty_test_acc": 0.7,
+        "best_params": {
+            "lr": 4.461778779447346e-05,
+            "momentum": 0.7911308351414664,
+            "optimizer": "RMSprop",
+            "hidden": 71
+        }
+    },
+    "Citation/v144/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.65,
+        "dirty_test_acc": 0.65,
+        "best_params": {
+            "lr": 6.92339448446672e-05,
+            "momentum": 0.6295294253944465,
+            "optimizer": "RMSprop",
+            "hidden": 99
+        }
+    },
+    "Citation/v4225/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.652,
+        "dirty_test_acc": 0.652,
+        "best_params": {
+            "lr": 0.00017125887125275395,
+            "momentum": 0.6505819430590987,
+            "optimizer": "RMSprop",
+            "hidden": 95
+        }
+    },
+    "Citation/v905/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.664,
+        "dirty_test_acc": 0.664,
+        "best_params": {
+            "lr": 0.002668186961755637,
+            "momentum": 0.7037482336326744,
+            "optimizer": "RMSprop",
+            "hidden": 71
+        }
+    },
+    "Citation/v5374/duplicates/dirty/MLP/3659": {
+        "dirty_test_f1": 0.706,
+        "dirty_test_acc": 0.706,
+        "best_params": {
+            "lr": 3.991472364769071e-05,
+            "momentum": 0.9266700206112133,
+            "optimizer": "RMSprop",
+            "hidden": 74
+        }
+    }
+}

@@ -1,0 +1,202 @@
+{
+    "EEG/v144/outliers/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7793522267206477,
+        "dirty_test_acc": 0.7793522267206477,
+        "best_params": {
+            "lr": 0.005137936239509869,
+            "momentum": 0.8830547708753924,
+            "optimizer": "RMSprop",
+            "hidden": 94
+        }
+    },
+    "EEG/v905/outliers/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6356275303643725,
+        "dirty_test_acc": 0.6356275303643725,
+        "best_params": {
+            "lr": 0.0007329745651381949,
+            "momentum": 0.9568516124415064,
+            "optimizer": "SGD",
+            "hidden": 91
+        }
+    },
+    "EEG/v2516/outliers/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7024291497975709,
+        "dirty_test_acc": 0.7024291497975709,
+        "best_params": {
+            "lr": 0.0008482238214109877,
+            "momentum": 0.8197307677824788,
+            "optimizer": "RMSprop",
+            "hidden": 95
+        }
+    },
+    "EEG/v7813/outliers/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6052631578947368,
+        "dirty_test_acc": 0.6052631578947368,
+        "best_params": {
+            "lr": 0.0001168204357018209,
+            "momentum": 0.8206600392519857,
+            "optimizer": "SGD",
+            "hidden": 126
+        }
+    },
+    "EEG/v3462/outliers/dirty/MLP/3659": {
+        "dirty_test_f1": 0.8380566801619433,
+        "dirty_test_acc": 0.8380566801619433,
+        "best_params": {
+            "lr": 0.008077772173954917,
+            "momentum": 0.9149314604923878,
+            "optimizer": "RMSprop",
+            "hidden": 106
+        }
+    },
+    "EEG/v4225/outliers/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6477732793522267,
+        "dirty_test_acc": 0.6477732793522267,
+        "best_params": {
+            "lr": 5.669172650399513e-05,
+            "momentum": 0.7199147969954531,
+            "optimizer": "RMSprop",
+            "hidden": 115
+        }
+    },
+    "EEG/v5374/outliers/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7165991902834008,
+        "dirty_test_acc": 0.7165991902834008,
+        "best_params": {
+            "lr": 0.0032941141754879765,
+            "momentum": 0.5346719301239677,
+            "optimizer": "SGD",
+            "hidden": 110
+        }
+    },
+    "EEG/v5056/outliers/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6396761133603239,
+        "dirty_test_acc": 0.6396761133603239,
+        "best_params": {
+            "lr": 5.1436629892105326e-05,
+            "momentum": 0.8490033832219155,
+            "optimizer": "RMSprop",
+            "hidden": 106
+        }
+    },
+    "EEG/v3562/outliers/dirty/MLP/3659": {
+        "dirty_test_f1": 0.8502024291497976,
+        "dirty_test_acc": 0.8502024291497976,
+        "best_params": {
+            "lr": 0.0004574795754506701,
+            "momentum": 0.4306432314478671,
+            "optimizer": "RMSprop",
+            "hidden": 105
+        }
+    },
+    "EEG/v9394/outliers/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7469635627530364,
+        "dirty_test_acc": 0.7469635627530364,
+        "best_params": {
+            "lr": 0.00044169092566345394,
+            "momentum": 0.5310794729846162,
+            "optimizer": "RMSprop",
+            "hidden": 112
+        }
+    },
+    "EEG/v8444/outliers/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6842105263157895,
+        "dirty_test_acc": 0.6842105263157895,
+        "best_params": {
+            "lr": 0.0002982614205738355,
+            "momentum": 0.4317411721886803,
+            "optimizer": "RMSprop",
+            "hidden": 71
+        }
+    },
+    "EEG/v6542/outliers/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7226720647773279,
+        "dirty_test_acc": 0.7226720647773279,
+        "best_params": {
+            "lr": 0.0010423408762829304,
+            "momentum": 0.8432947943436626,
+            "optimizer": "RMSprop",
+            "hidden": 113
+        }
+    },
+    "EEG/v235/outliers/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7449392712550608,
+        "dirty_test_acc": 0.7449392712550608,
+        "best_params": {
+            "lr": 0.0003901479659504867,
+            "momentum": 0.722040131330427,
+            "optimizer": "RMSprop",
+            "hidden": 77
+        }
+    },
+    "EEG/v7751/outliers/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7004048582995951,
+        "dirty_test_acc": 0.7004048582995951,
+        "best_params": {
+            "lr": 0.0031214129882193922,
+            "momentum": 0.5850266146585105,
+            "optimizer": "SGD",
+            "hidden": 128
+        }
+    },
+    "EEG/v4764/outliers/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6740890688259109,
+        "dirty_test_acc": 0.6740890688259109,
+        "best_params": {
+            "lr": 5.865293112374411e-05,
+            "momentum": 0.6565273833452956,
+            "optimizer": "RMSprop",
+            "hidden": 128
+        }
+    },
+    "EEG/v2895/outliers/dirty/MLP/3659": {
+        "dirty_test_f1": 0.8259109311740891,
+        "dirty_test_acc": 0.8259109311740891,
+        "best_params": {
+            "lr": 0.0016183498115644953,
+            "momentum": 0.8932651627355404,
+            "optimizer": "RMSprop",
+            "hidden": 107
+        }
+    },
+    "EEG/v5396/outliers/dirty/MLP/3659": {
+        "dirty_test_f1": 0.5850202429149798,
+        "dirty_test_acc": 0.5850202429149798,
+        "best_params": {
+            "lr": 0.0015210541328054094,
+            "momentum": 0.8881561051579656,
+            "optimizer": "SGD",
+            "hidden": 126
+        }
+    },
+    "EEG/v5192/outliers/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7186234817813765,
+        "dirty_test_acc": 0.7186234817813765,
+        "best_params": {
+            "lr": 0.00037127713633641757,
+            "momentum": 0.9632585788428579,
+            "optimizer": "RMSprop",
+            "hidden": 94
+        }
+    },
+    "EEG/v8093/outliers/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7550607287449392,
+        "dirty_test_acc": 0.7550607287449392,
+        "best_params": {
+            "lr": 0.0001045512311256912,
+            "momentum": 0.8945125728369282,
+            "optimizer": "RMSprop",
+            "hidden": 126
+        }
+    },
+    "EEG/v2962/outliers/dirty/MLP/3659": {
+        "dirty_test_f1": 0.8279352226720648,
+        "dirty_test_acc": 0.8279352226720648,
+        "best_params": {
+            "lr": 0.001012220248374383,
+            "momentum": 0.9862156055769904,
+            "optimizer": "RMSprop",
+            "hidden": 101
+        }
+    }
+}

@@ -318,5 +318,205 @@
         "lr_test_f1": 0.7732039545768062,
         "lr_test_acc": 0.7734519836855765,
         "lr_train_acc": 0.7752541296060991
+    },
+    "Marketing/v3462/missing_values/dirty/MLP/3659": {
+        "dirty_test_f1": 0.793400286944046,
+        "dirty_test_acc": 0.793400286944046,
+        "best_params": {
+            "lr": 0.005526222480061624,
+            "momentum": 0.42350659431195814,
+            "optimizer": "SGD",
+            "hidden": 86
+        }
+    },
+    "Marketing/v3562/missing_values/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7747489239598279,
+        "dirty_test_acc": 0.7747489239598279,
+        "best_params": {
+            "lr": 0.003187507636397771,
+            "momentum": 0.891484511828853,
+            "optimizer": "SGD",
+            "hidden": 89
+        }
+    },
+    "Marketing/v5056/missing_values/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7647058823529411,
+        "dirty_test_acc": 0.7647058823529411,
+        "best_params": {
+            "lr": 0.002033742939586967,
+            "momentum": 0.474732532310548,
+            "optimizer": "RMSprop",
+            "hidden": 97
+        }
+    },
+    "Marketing/v5374/missing_values/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7747489239598279,
+        "dirty_test_acc": 0.7747489239598279,
+        "best_params": {
+            "lr": 0.00016918945820461909,
+            "momentum": 0.9509959423106826,
+            "optimizer": "RMSprop",
+            "hidden": 104
+        }
+    },
+    "Marketing/v4225/missing_values/dirty/MLP/3659": {
+        "dirty_test_f1": 0.629842180774749,
+        "dirty_test_acc": 0.629842180774749,
+        "best_params": {
+            "lr": 2.803853111467858e-05,
+            "momentum": 0.7064227336076724,
+            "optimizer": "SGD",
+            "hidden": 122
+        }
+    },
+    "Marketing/v144/missing_values/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7819225251076041,
+        "dirty_test_acc": 0.7819225251076041,
+        "best_params": {
+            "lr": 0.0031600137424228343,
+            "momentum": 0.8541440010491095,
+            "optimizer": "SGD",
+            "hidden": 128
+        }
+    },
+    "Marketing/v7813/missing_values/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7345767575322812,
+        "dirty_test_acc": 0.7345767575322812,
+        "best_params": {
+            "lr": 0.003782369228082345,
+            "momentum": 0.8806630529280666,
+            "optimizer": "RMSprop",
+            "hidden": 118
+        }
+    },
+    "Marketing/v2516/missing_values/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7747489239598279,
+        "dirty_test_acc": 0.7747489239598279,
+        "best_params": {
+            "lr": 0.0016829325578441203,
+            "momentum": 0.8552859603921925,
+            "optimizer": "SGD",
+            "hidden": 83
+        }
+    },
+    "Marketing/v905/missing_values/dirty/MLP/3659": {
+        "dirty_test_f1": 0.8020086083213773,
+        "dirty_test_acc": 0.8020086083213773,
+        "best_params": {
+            "lr": 0.0006644956437504978,
+            "momentum": 0.86878710338125,
+            "optimizer": "SGD",
+            "hidden": 95
+        }
+    },
+    "Marketing/v2895/missing_values/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7661406025824964,
+        "dirty_test_acc": 0.7661406025824964,
+        "best_params": {
+            "lr": 7.635335403737952e-05,
+            "momentum": 0.536168029291491,
+            "optimizer": "RMSprop",
+            "hidden": 103
+        }
+    },
+    "Marketing/v4764/missing_values/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7790530846484935,
+        "dirty_test_acc": 0.7790530846484935,
+        "best_params": {
+            "lr": 9.635886097770116e-05,
+            "momentum": 0.8777193107391084,
+            "optimizer": "RMSprop",
+            "hidden": 107
+        }
+    },
+    "Marketing/v7751/missing_values/dirty/MLP/3659": {
+        "dirty_test_f1": 0.733142037302726,
+        "dirty_test_acc": 0.733142037302726,
+        "best_params": {
+            "lr": 0.0002112109890140022,
+            "momentum": 0.9685767724772868,
+            "optimizer": "RMSprop",
+            "hidden": 80
+        }
+    },
+    "Marketing/v235/missing_values/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7546628407460545,
+        "dirty_test_acc": 0.7546628407460545,
+        "best_params": {
+            "lr": 0.008430645678525391,
+            "momentum": 0.9554847029193599,
+            "optimizer": "SGD",
+            "hidden": 73
+        }
+    },
+    "Marketing/v2962/missing_values/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6987087517934003,
+        "dirty_test_acc": 0.6987087517934003,
+        "best_params": {
+            "lr": 0.00012289390823470088,
+            "momentum": 0.5586979618469575,
+            "optimizer": "SGD",
+            "hidden": 69
+        }
+    },
+    "Marketing/v8093/missing_values/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7790530846484935,
+        "dirty_test_acc": 0.7790530846484935,
+        "best_params": {
+            "lr": 0.0005049954006398542,
+            "momentum": 0.5099957500041172,
+            "optimizer": "RMSprop",
+            "hidden": 69
+        }
+    },
+    "Marketing/v5192/missing_values/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6657101865136298,
+        "dirty_test_acc": 0.6657101865136298,
+        "best_params": {
+            "lr": 0.00010140246017768147,
+            "momentum": 0.725825481758565,
+            "optimizer": "SGD",
+            "hidden": 73
+        }
+    },
+    "Marketing/v5396/missing_values/dirty/MLP/3659": {
+        "dirty_test_f1": 0.787661406025825,
+        "dirty_test_acc": 0.787661406025825,
+        "best_params": {
+            "lr": 0.0008609233822819881,
+            "momentum": 0.7016852716672816,
+            "optimizer": "SGD",
+            "hidden": 102
+        }
+    },
+    "Marketing/v9394/missing_values/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7374461979913917,
+        "dirty_test_acc": 0.7374461979913917,
+        "best_params": {
+            "lr": 0.0006586862407351362,
+            "momentum": 0.9167922923265601,
+            "optimizer": "SGD",
+            "hidden": 90
+        }
+    },
+    "Marketing/v6542/missing_values/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7503586800573888,
+        "dirty_test_acc": 0.7503586800573888,
+        "best_params": {
+            "lr": 1.3515191614731542e-05,
+            "momentum": 0.8903151803582944,
+            "optimizer": "RMSprop",
+            "hidden": 70
+        }
+    },
+    "Marketing/v8444/missing_values/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7804878048780488,
+        "dirty_test_acc": 0.7804878048780488,
+        "best_params": {
+            "lr": 0.00011254714703273022,
+            "momentum": 0.6808425473052575,
+            "optimizer": "RMSprop",
+            "hidden": 82
+        }
     }
 }

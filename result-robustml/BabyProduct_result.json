@@ -258,5 +258,205 @@
         "lr_test_f1": 0.7691262099862886,
         "lr_test_acc": 0.7087136929460581,
         "lr_train_acc": 0.6908315565031983
+    },
+    "BabyProduct/v905/missing_values/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6829268292682927,
+        "dirty_test_acc": 0.6829268292682927,
+        "best_params": {
+            "lr": 2.9016813004305443e-05,
+            "momentum": 0.8920388577795129,
+            "optimizer": "RMSprop",
+            "hidden": 117
+        }
+    },
+    "BabyProduct/v3462/missing_values/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7170731707317073,
+        "dirty_test_acc": 0.7170731707317073,
+        "best_params": {
+            "lr": 0.0007586310892802977,
+            "momentum": 0.7459488774306487,
+            "optimizer": "RMSprop",
+            "hidden": 84
+        }
+    },
+    "BabyProduct/v144/missing_values/dirty/MLP/3659": {
+        "dirty_test_f1": 0.775609756097561,
+        "dirty_test_acc": 0.775609756097561,
+        "best_params": {
+            "lr": 0.0004556417992662621,
+            "momentum": 0.6632359308541831,
+            "optimizer": "RMSprop",
+            "hidden": 108
+        }
+    },
+    "BabyProduct/v5374/missing_values/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7463414634146341,
+        "dirty_test_acc": 0.7463414634146341,
+        "best_params": {
+            "lr": 0.0050784532104469525,
+            "momentum": 0.8795626104804535,
+            "optimizer": "RMSprop",
+            "hidden": 103
+        }
+    },
+    "BabyProduct/v4225/missing_values/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6780487804878049,
+        "dirty_test_acc": 0.6780487804878049,
+        "best_params": {
+            "lr": 0.0007568773971483746,
+            "momentum": 0.45538520046036124,
+            "optimizer": "SGD",
+            "hidden": 119
+        }
+    },
+    "BabyProduct/v3562/missing_values/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6926829268292682,
+        "dirty_test_acc": 0.6926829268292682,
+        "best_params": {
+            "lr": 0.0017021831202463369,
+            "momentum": 0.6975482552661219,
+            "optimizer": "SGD",
+            "hidden": 80
+        }
+    },
+    "BabyProduct/v5056/missing_values/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7170731707317073,
+        "dirty_test_acc": 0.7170731707317073,
+        "best_params": {
+            "lr": 0.00016830337141659024,
+            "momentum": 0.8318254007635044,
+            "optimizer": "RMSprop",
+            "hidden": 79
+        }
+    },
+    "BabyProduct/v7813/missing_values/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7365853658536585,
+        "dirty_test_acc": 0.7365853658536585,
+        "best_params": {
+            "lr": 0.0003728272263691207,
+            "momentum": 0.49047989287028027,
+            "optimizer": "RMSprop",
+            "hidden": 80
+        }
+    },
+    "BabyProduct/v2516/missing_values/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7658536585365854,
+        "dirty_test_acc": 0.7658536585365854,
+        "best_params": {
+            "lr": 0.0013657693403243587,
+            "momentum": 0.7858137911547121,
+            "optimizer": "RMSprop",
+            "hidden": 109
+        }
+    },
+    "BabyProduct/v7751/missing_values/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7121951219512195,
+        "dirty_test_acc": 0.7121951219512195,
+        "best_params": {
+            "lr": 0.001029715870475079,
+            "momentum": 0.4690193762582194,
+            "optimizer": "SGD",
+            "hidden": 74
+        }
+    },
+    "BabyProduct/v2895/missing_values/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7414634146341463,
+        "dirty_test_acc": 0.7414634146341463,
+        "best_params": {
+            "lr": 0.0006060149792541149,
+            "momentum": 0.5329126233647927,
+            "optimizer": "RMSprop",
+            "hidden": 92
+        }
+    },
+    "BabyProduct/v4764/missing_values/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7268292682926829,
+        "dirty_test_acc": 0.7268292682926829,
+        "best_params": {
+            "lr": 0.0008249983600923955,
+            "momentum": 0.5157368263159839,
+            "optimizer": "RMSprop",
+            "hidden": 77
+        }
+    },
+    "BabyProduct/v8093/missing_values/dirty/MLP/3659": {
+        "dirty_test_f1": 0.5024390243902439,
+        "dirty_test_acc": 0.5024390243902439,
+        "best_params": {
+            "lr": 1.4149493145068526e-05,
+            "momentum": 0.6567069181629035,
+            "optimizer": "RMSprop",
+            "hidden": 104
+        }
+    },
+    "BabyProduct/v5192/missing_values/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7121951219512195,
+        "dirty_test_acc": 0.7121951219512195,
+        "best_params": {
+            "lr": 0.00047891021668049005,
+            "momentum": 0.898798368225466,
+            "optimizer": "SGD",
+            "hidden": 122
+        }
+    },
+    "BabyProduct/v5396/missing_values/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7268292682926829,
+        "dirty_test_acc": 0.7268292682926829,
+        "best_params": {
+            "lr": 8.25999497646227e-05,
+            "momentum": 0.5331161920579366,
+            "optimizer": "RMSprop",
+            "hidden": 120
+        }
+    },
+    "BabyProduct/v2962/missing_values/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7268292682926829,
+        "dirty_test_acc": 0.7268292682926829,
+        "best_params": {
+            "lr": 2.9097658382108586e-05,
+            "momentum": 0.7255009462454973,
+            "optimizer": "RMSprop",
+            "hidden": 107
+        }
+    },
+    "BabyProduct/v9394/missing_values/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7268292682926829,
+        "dirty_test_acc": 0.7268292682926829,
+        "best_params": {
+            "lr": 0.0009059170561649808,
+            "momentum": 0.5149356933276201,
+            "optimizer": "RMSprop",
+            "hidden": 68
+        }
+    },
+    "BabyProduct/v235/missing_values/dirty/MLP/3659": {
+        "dirty_test_f1": 0.44878048780487806,
+        "dirty_test_acc": 0.44878048780487806,
+        "best_params": {
+            "lr": 1.1505994972695889e-05,
+            "momentum": 0.5897239049140024,
+            "optimizer": "RMSprop",
+            "hidden": 107
+        }
+    },
+    "BabyProduct/v8444/missing_values/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7073170731707317,
+        "dirty_test_acc": 0.7073170731707317,
+        "best_params": {
+            "lr": 2.9182524639389125e-05,
+            "momentum": 0.7261084403022684,
+            "optimizer": "RMSprop",
+            "hidden": 112
+        }
+    },
+    "BabyProduct/v6542/missing_values/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7317073170731707,
+        "dirty_test_acc": 0.7317073170731707,
+        "best_params": {
+            "lr": 3.963057330630139e-05,
+            "momentum": 0.4733989309459388,
+            "optimizer": "RMSprop",
+            "hidden": 115
+        }
     }
 }

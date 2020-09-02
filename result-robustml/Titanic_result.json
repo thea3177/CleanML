@@ -418,5 +418,205 @@
         "impute_mode_mode_test_acc": 0.3707865168539326,
         "impute_mode_dummy_test_f1": 0.35494507164238065,
         "impute_mode_dummy_test_acc": 0.4044943820224719
+    },
+    "Titanic/v235/missing_values/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6367041198501873,
+        "dirty_test_acc": 0.6367041198501873,
+        "best_params": {
+            "lr": 0.0029101947950715265,
+            "momentum": 0.6016898175920636,
+            "optimizer": "SGD",
+            "hidden": 80
+        }
+    },
+    "Titanic/v2516/missing_values/dirty/MLP/3659": {
+        "dirty_test_f1": 0.651685393258427,
+        "dirty_test_acc": 0.651685393258427,
+        "best_params": {
+            "lr": 0.00010951771963385472,
+            "momentum": 0.5076499556077936,
+            "optimizer": "SGD",
+            "hidden": 102
+        }
+    },
+    "Titanic/v7813/missing_values/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6217228464419475,
+        "dirty_test_acc": 0.6217228464419475,
+        "best_params": {
+            "lr": 0.00015104789169977412,
+            "momentum": 0.9462862003557696,
+            "optimizer": "SGD",
+            "hidden": 125
+        }
+    },
+    "Titanic/v3462/missing_values/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7602996254681648,
+        "dirty_test_acc": 0.7602996254681648,
+        "best_params": {
+            "lr": 0.00027274767168813626,
+            "momentum": 0.5200698609146777,
+            "optimizer": "RMSprop",
+            "hidden": 78
+        }
+    },
+    "Titanic/v5374/missing_values/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6292134831460674,
+        "dirty_test_acc": 0.6292134831460674,
+        "best_params": {
+            "lr": 1.2025530297324276e-05,
+            "momentum": 0.9782953501710656,
+            "optimizer": "RMSprop",
+            "hidden": 121
+        }
+    },
+    "Titanic/v4225/missing_values/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7378277153558053,
+        "dirty_test_acc": 0.7378277153558053,
+        "best_params": {
+            "lr": 0.005653129722491003,
+            "momentum": 0.8841122974255557,
+            "optimizer": "RMSprop",
+            "hidden": 105
+        }
+    },
+    "Titanic/v5056/missing_values/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7602996254681648,
+        "dirty_test_acc": 0.7602996254681648,
+        "best_params": {
+            "lr": 0.0009635075241087527,
+            "momentum": 0.9158914530438268,
+            "optimizer": "RMSprop",
+            "hidden": 119
+        }
+    },
+    "Titanic/v3562/missing_values/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7415730337078652,
+        "dirty_test_acc": 0.7415730337078652,
+        "best_params": {
+            "lr": 0.004495900757762752,
+            "momentum": 0.5715280522546686,
+            "optimizer": "RMSprop",
+            "hidden": 64
+        }
+    },
+    "Titanic/v9394/missing_values/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7191011235955056,
+        "dirty_test_acc": 0.7191011235955056,
+        "best_params": {
+            "lr": 0.00585429857608974,
+            "momentum": 0.944190881530088,
+            "optimizer": "RMSprop",
+            "hidden": 126
+        }
+    },
+    "Titanic/v8444/missing_values/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7752808988764045,
+        "dirty_test_acc": 0.7752808988764045,
+        "best_params": {
+            "lr": 0.0036380626213431593,
+            "momentum": 0.4809471653606986,
+            "optimizer": "RMSprop",
+            "hidden": 89
+        }
+    },
+    "Titanic/v6542/missing_values/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7940074906367042,
+        "dirty_test_acc": 0.7940074906367042,
+        "best_params": {
+            "lr": 0.0001564133908973332,
+            "momentum": 0.43296867061068406,
+            "optimizer": "RMSprop",
+            "hidden": 113
+        }
+    },
+    "Titanic/v7751/missing_values/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6816479400749064,
+        "dirty_test_acc": 0.6816479400749064,
+        "best_params": {
+            "lr": 0.0002768227761347818,
+            "momentum": 0.5088313402680126,
+            "optimizer": "SGD",
+            "hidden": 105
+        }
+    },
+    "Titanic/v2895/missing_values/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6329588014981273,
+        "dirty_test_acc": 0.6329588014981273,
+        "best_params": {
+            "lr": 0.0011015027576611242,
+            "momentum": 0.6029929680380682,
+            "optimizer": "SGD",
+            "hidden": 65
+        }
+    },
+    "Titanic/v4764/missing_values/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7415730337078652,
+        "dirty_test_acc": 0.7415730337078652,
+        "best_params": {
+            "lr": 0.0007105601186360706,
+            "momentum": 0.8958318037691358,
+            "optimizer": "RMSprop",
+            "hidden": 110
+        }
+    },
+    "Titanic/v5192/missing_values/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7565543071161048,
+        "dirty_test_acc": 0.7565543071161048,
+        "best_params": {
+            "lr": 0.001372966803509378,
+            "momentum": 0.7099789755337015,
+            "optimizer": "RMSprop",
+            "hidden": 81
+        }
+    },
+    "Titanic/v5396/missing_values/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7415730337078652,
+        "dirty_test_acc": 0.7415730337078652,
+        "best_params": {
+            "lr": 0.00043941838127782785,
+            "momentum": 0.4638132116578653,
+            "optimizer": "RMSprop",
+            "hidden": 127
+        }
+    },
+    "Titanic/v8093/missing_values/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6704119850187266,
+        "dirty_test_acc": 0.6704119850187266,
+        "best_params": {
+            "lr": 2.258536926283569e-05,
+            "momentum": 0.9828034063703999,
+            "optimizer": "RMSprop",
+            "hidden": 93
+        }
+    },
+    "Titanic/v144/missing_values/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7378277153558053,
+        "dirty_test_acc": 0.7378277153558053,
+        "best_params": {
+            "lr": 0.0001928929533444318,
+            "momentum": 0.4752485387014863,
+            "optimizer": "RMSprop",
+            "hidden": 82
+        }
+    },
+    "Titanic/v905/missing_values/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6367041198501873,
+        "dirty_test_acc": 0.6367041198501873,
+        "best_params": {
+            "lr": 0.0002770208310520912,
+            "momentum": 0.6656568676400622,
+            "optimizer": "SGD",
+            "hidden": 69
+        }
+    },
+    "Titanic/v2962/missing_values/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6629213483146067,
+        "dirty_test_acc": 0.6629213483146067,
+        "best_params": {
+            "lr": 0.0004304557266012007,
+            "momentum": 0.652501821417191,
+            "optimizer": "SGD",
+            "hidden": 87
+        }
     }
 }

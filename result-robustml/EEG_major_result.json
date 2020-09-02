@@ -1218,5 +1218,205 @@
         "dirty_test_acc": 0.9032042723631508,
         "clean_test_f1": 0.9261927079577956,
         "clean_test_acc": 0.9270137961726747
+    },
+    "EEG_major/v3462/mislabel/dirty/MLP/3659": {
+        "dirty_test_f1": 0.8157894736842105,
+        "dirty_test_acc": 0.8157894736842105,
+        "best_params": {
+            "lr": 0.0016602035518846682,
+            "momentum": 0.49627821029758695,
+            "optimizer": "RMSprop",
+            "hidden": 70
+        }
+    },
+    "EEG_major/v4225/mislabel/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7813765182186235,
+        "dirty_test_acc": 0.7813765182186235,
+        "best_params": {
+            "lr": 0.002965257182554906,
+            "momentum": 0.5050453239686529,
+            "optimizer": "RMSprop",
+            "hidden": 122
+        }
+    },
+    "EEG_major/v5374/mislabel/dirty/MLP/3659": {
+        "dirty_test_f1": 0.8076923076923077,
+        "dirty_test_acc": 0.8076923076923077,
+        "best_params": {
+            "lr": 0.0005279765070417225,
+            "momentum": 0.8399342939263637,
+            "optimizer": "RMSprop",
+            "hidden": 84
+        }
+    },
+    "EEG_major/v3562/mislabel/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6680161943319838,
+        "dirty_test_acc": 0.6680161943319838,
+        "best_params": {
+            "lr": 0.0023411614715312975,
+            "momentum": 0.903615296816204,
+            "optimizer": "SGD",
+            "hidden": 110
+        }
+    },
+    "EEG_major/v5056/mislabel/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7226720647773279,
+        "dirty_test_acc": 0.7226720647773279,
+        "best_params": {
+            "lr": 0.00799906620313357,
+            "momentum": 0.4477262155299922,
+            "optimizer": "RMSprop",
+            "hidden": 84
+        }
+    },
+    "EEG_major/v235/mislabel/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6680161943319838,
+        "dirty_test_acc": 0.6680161943319838,
+        "best_params": {
+            "lr": 4.653974860591979e-05,
+            "momentum": 0.44210174789614415,
+            "optimizer": "RMSprop",
+            "hidden": 120
+        }
+    },
+    "EEG_major/v7813/mislabel/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7975708502024291,
+        "dirty_test_acc": 0.7975708502024291,
+        "best_params": {
+            "lr": 0.00088880000856964,
+            "momentum": 0.8886411325226238,
+            "optimizer": "RMSprop",
+            "hidden": 69
+        }
+    },
+    "EEG_major/v2516/mislabel/dirty/MLP/3659": {
+        "dirty_test_f1": 0.631578947368421,
+        "dirty_test_acc": 0.631578947368421,
+        "best_params": {
+            "lr": 0.0001149350530812993,
+            "momentum": 0.783978547857324,
+            "optimizer": "RMSprop",
+            "hidden": 104
+        }
+    },
+    "EEG_major/v7751/mislabel/dirty/MLP/3659": {
+        "dirty_test_f1": 0.8137651821862348,
+        "dirty_test_acc": 0.8137651821862348,
+        "best_params": {
+            "lr": 0.006198596256993432,
+            "momentum": 0.49665598475126393,
+            "optimizer": "RMSprop",
+            "hidden": 69
+        }
+    },
+    "EEG_major/v905/mislabel/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7186234817813765,
+        "dirty_test_acc": 0.7186234817813765,
+        "best_params": {
+            "lr": 0.0002281178595809624,
+            "momentum": 0.6601384591349733,
+            "optimizer": "RMSprop",
+            "hidden": 69
+        }
+    },
+    "EEG_major/v4764/mislabel/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6133603238866396,
+        "dirty_test_acc": 0.6133603238866396,
+        "best_params": {
+            "lr": 1.6262657100487203e-05,
+            "momentum": 0.6013504790382611,
+            "optimizer": "RMSprop",
+            "hidden": 106
+        }
+    },
+    "EEG_major/v2895/mislabel/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7834008097165992,
+        "dirty_test_acc": 0.7834008097165992,
+        "best_params": {
+            "lr": 0.000988512510542868,
+            "momentum": 0.6705988112689073,
+            "optimizer": "RMSprop",
+            "hidden": 106
+        }
+    },
+    "EEG_major/v144/mislabel/dirty/MLP/3659": {
+        "dirty_test_f1": 0.5546558704453441,
+        "dirty_test_acc": 0.5546558704453441,
+        "best_params": {
+            "lr": 1.148494958030873e-05,
+            "momentum": 0.9615700456716517,
+            "optimizer": "SGD",
+            "hidden": 69
+        }
+    },
+    "EEG_major/v8093/mislabel/dirty/MLP/3659": {
+        "dirty_test_f1": 0.5850202429149798,
+        "dirty_test_acc": 0.5850202429149798,
+        "best_params": {
+            "lr": 1.8472110498870256e-05,
+            "momentum": 0.5323174362766244,
+            "optimizer": "RMSprop",
+            "hidden": 66
+        }
+    },
+    "EEG_major/v5396/mislabel/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6255060728744939,
+        "dirty_test_acc": 0.6255060728744939,
+        "best_params": {
+            "lr": 0.00025580910940804585,
+            "momentum": 0.4045495126840945,
+            "optimizer": "RMSprop",
+            "hidden": 114
+        }
+    },
+    "EEG_major/v5192/mislabel/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7975708502024291,
+        "dirty_test_acc": 0.7975708502024291,
+        "best_params": {
+            "lr": 0.003678899659379314,
+            "momentum": 0.5248821227779606,
+            "optimizer": "RMSprop",
+            "hidden": 66
+        }
+    },
+    "EEG_major/v2962/mislabel/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6153846153846154,
+        "dirty_test_acc": 0.6153846153846154,
+        "best_params": {
+            "lr": 2.185151737093496e-05,
+            "momentum": 0.5535211759232346,
+            "optimizer": "RMSprop",
+            "hidden": 66
+        }
+    },
+    "EEG_major/v9394/mislabel/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7105263157894737,
+        "dirty_test_acc": 0.7105263157894737,
+        "best_params": {
+            "lr": 0.0002828977807534793,
+            "momentum": 0.6367100416318742,
+            "optimizer": "RMSprop",
+            "hidden": 90
+        }
+    },
+    "EEG_major/v8444/mislabel/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6336032388663968,
+        "dirty_test_acc": 0.6336032388663968,
+        "best_params": {
+            "lr": 0.00021087347016122512,
+            "momentum": 0.5857186409467395,
+            "optimizer": "RMSprop",
+            "hidden": 87
+        }
+    },
+    "EEG_major/v6542/mislabel/dirty/MLP/3659": {
+        "dirty_test_f1": 0.6093117408906883,
+        "dirty_test_acc": 0.6093117408906883,
+        "best_params": {
+            "lr": 0.005211567248886545,
+            "momentum": 0.891546582087883,
+            "optimizer": "SGD",
+            "hidden": 104
+        }
     }
 }
