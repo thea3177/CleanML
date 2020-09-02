@@ -1,0 +1,380 @@
+{
+    "Credit_uniform/v7813/mislabel/dirty/logistic_regression/3239": {
+        "best_params": {
+            "C": 1
+        },
+        "dirty_test_f1": 0.5146519675611874,
+        "dirty_test_acc": 0.6411111111111111,
+        "clean_test_f1": 0.5133115399241533,
+        "clean_test_acc": 0.6624444444444444
+    },
+    "Credit_uniform/v7813/mislabel/dirty/logistic_regression/6130": {
+        "best_params": {
+            "C": 1
+        },
+        "dirty_test_f1": 0.5155023010904266,
+        "dirty_test_acc": 0.6393333333333333,
+        "clean_test_f1": 0.505095496369017,
+        "clean_test_acc": 0.6515555555555556
+    },
+    "Credit_uniform/v7813/mislabel/dirty/logistic_regression/8006": {
+        "best_params": {
+            "C": 1
+        },
+        "dirty_test_f1": 0.4980023695340201,
+        "dirty_test_acc": 0.6135555555555555,
+        "clean_test_f1": 0.4896269568621735,
+        "clean_test_acc": 0.6282222222222222
+    },
+    "Credit_uniform/v7813/mislabel/dirty/logistic_regression/3659": {
+        "best_params": {
+            "C": 1
+        },
+        "dirty_test_f1": 0.45844695673145297,
+        "dirty_test_acc": 0.5548888888888889,
+        "clean_test_f1": 0.44947394176657696,
+        "clean_test_acc": 0.568
+    },
+    "Credit_uniform/v7813/mislabel/dirty/logistic_regression/5824": {
+        "best_params": {
+            "C": 1
+        },
+        "dirty_test_f1": 0.5731034188596476,
+        "dirty_test_acc": 0.7375555555555555,
+        "clean_test_f1": 0.5682066198731437,
+        "clean_test_acc": 0.7508888888888889
+    },
+    "Credit_uniform/v2516/mislabel/dirty/logistic_regression/8006": {
+        "best_params": {
+            "C": 1
+        },
+        "dirty_test_f1": 0.542615307343895,
+        "dirty_test_acc": 0.6882222222222222,
+        "clean_test_f1": 0.5364190950542411,
+        "clean_test_acc": 0.7035555555555556
+    },
+    "Credit_uniform/v2516/mislabel/dirty/logistic_regression/6130": {
+        "best_params": {
+            "C": 1
+        },
+        "dirty_test_f1": 0.5721616098448893,
+        "dirty_test_acc": 0.7275555555555555,
+        "clean_test_f1": 0.5761954948629341,
+        "clean_test_acc": 0.7482222222222222
+    },
+    "Credit_uniform/v2516/mislabel/dirty/logistic_regression/5824": {
+        "best_params": {
+            "C": 1
+        },
+        "dirty_test_f1": 0.5846937180138283,
+        "dirty_test_acc": 0.7675555555555555,
+        "clean_test_f1": 0.5976858017447824,
+        "clean_test_acc": 0.7944444444444444
+    },
+    "Credit_uniform/v2516/mislabel/dirty/logistic_regression/3659": {
+        "best_params": {
+            "C": 1
+        },
+        "dirty_test_f1": 0.5374731013484942,
+        "dirty_test_acc": 0.68,
+        "clean_test_f1": 0.5314416317589858,
+        "clean_test_acc": 0.6957777777777778
+    },
+    "Credit_uniform/v2516/mislabel/dirty/logistic_regression/3239": {
+        "best_params": {
+            "C": 1
+        },
+        "dirty_test_f1": 0.5874048914870909,
+        "dirty_test_acc": 0.7682222222222223,
+        "clean_test_f1": 0.6014965624404705,
+        "clean_test_acc": 0.8
+    },
+    "Credit_uniform/v235/mislabel/dirty/logistic_regression/3239": {
+        "best_params": {
+            "C": 1
+        },
+        "dirty_test_f1": 0.6141356460242605,
+        "dirty_test_acc": 0.8075555555555556,
+        "clean_test_f1": 0.6361143194341297,
+        "clean_test_acc": 0.8431111111111111
+    },
+    "Credit_uniform/v235/mislabel/dirty/logistic_regression/3659": {
+        "best_params": {
+            "C": 1
+        },
+        "dirty_test_f1": 0.51831346743942,
+        "dirty_test_acc": 0.6588888888888889,
+        "clean_test_f1": 0.5142852805440855,
+        "clean_test_acc": 0.684
+    },
+    "Credit_uniform/v235/mislabel/dirty/logistic_regression/5824": {
+        "best_params": {
+            "C": 1
+        },
+        "dirty_test_f1": 0.6047127913848572,
+        "dirty_test_acc": 0.7926666666666666,
+        "clean_test_f1": 0.6240384615384614,
+        "clean_test_acc": 0.8262222222222222
+    },
+    "Credit_uniform/v235/mislabel/dirty/logistic_regression/6130": {
+        "best_params": {
+            "C": 1
+        },
+        "dirty_test_f1": 0.4711182975731745,
+        "dirty_test_acc": 0.5842222222222222,
+        "clean_test_f1": 0.4582043755534364,
+        "clean_test_acc": 0.5977777777777777
+    },
+    "Credit_uniform/v235/mislabel/dirty/logistic_regression/8006": {
+        "best_params": {
+            "C": 1
+        },
+        "dirty_test_f1": 0.5056187404515362,
+        "dirty_test_acc": 0.6404444444444445,
+        "clean_test_f1": 0.49878901168232215,
+        "clean_test_acc": 0.6582222222222223
+    },
+    "Credit_uniform/v5374/mislabel/dirty/logistic_regression/8006": {
+        "best_params": {
+            "C": 1
+        },
+        "dirty_test_f1": 0.599403828929691,
+        "dirty_test_acc": 0.7964444444444444,
+        "clean_test_f1": 0.6046056845179344,
+        "clean_test_acc": 0.8171111111111111
+    },
+    "Credit_uniform/v5374/mislabel/dirty/logistic_regression/6130": {
+        "best_params": {
+            "C": 1
+        },
+        "dirty_test_f1": 0.47532605146029494,
+        "dirty_test_acc": 0.5915555555555555,
+        "clean_test_f1": 0.4514513306378613,
+        "clean_test_acc": 0.596
+    },
+    "Credit_uniform/v5374/mislabel/dirty/logistic_regression/5824": {
+        "best_params": {
+            "C": 1
+        },
+        "dirty_test_f1": 0.4940899139652788,
+        "dirty_test_acc": 0.6253333333333333,
+        "clean_test_f1": 0.4845507065769434,
+        "clean_test_acc": 0.6402222222222222
+    },
+    "Credit_uniform/v5374/mislabel/dirty/logistic_regression/3659": {
+        "best_params": {
+            "C": 1
+        },
+        "dirty_test_f1": 0.599387668302192,
+        "dirty_test_acc": 0.8022222222222222,
+        "clean_test_f1": 0.6116496752877437,
+        "clean_test_acc": 0.8253333333333334
+    },
+    "Credit_uniform/v5374/mislabel/dirty/logistic_regression/3239": {
+        "best_params": {
+            "C": 1
+        },
+        "dirty_test_f1": 0.5178814815582655,
+        "dirty_test_acc": 0.6646666666666666,
+        "clean_test_f1": 0.4999813554918301,
+        "clean_test_acc": 0.6715555555555556
+    },
+    "Credit_uniform/v4225/mislabel/dirty/logistic_regression/3239": {
+        "best_params": {
+            "C": 1
+        },
+        "dirty_test_f1": 0.6030977816589753,
+        "dirty_test_acc": 0.7913333333333333,
+        "clean_test_f1": 0.6212194089579806,
+        "clean_test_acc": 0.8288888888888889
+    },
+    "Credit_uniform/v4225/mislabel/dirty/logistic_regression/3659": {
+        "best_params": {
+            "C": 1
+        },
+        "dirty_test_f1": 0.5316076180197615,
+        "dirty_test_acc": 0.6817777777777778,
+        "clean_test_f1": 0.5197395197395197,
+        "clean_test_acc": 0.6984444444444444
+    },
+    "Credit_uniform/v4225/mislabel/dirty/logistic_regression/5824": {
+        "best_params": {
+            "C": 1
+        },
+        "dirty_test_f1": 0.6091857664597212,
+        "dirty_test_acc": 0.7977777777777778,
+        "clean_test_f1": 0.6237351409765203,
+        "clean_test_acc": 0.8297777777777777
+    },
+    "Credit_uniform/v4225/mislabel/dirty/logistic_regression/8006": {
+        "best_params": {
+            "C": 1
+        },
+        "dirty_test_f1": 0.6008526993690306,
+        "dirty_test_acc": 0.7871111111111111,
+        "clean_test_f1": 0.6166458734873445,
+        "clean_test_acc": 0.8235555555555556
+    },
+    "Credit_uniform/v4225/mislabel/dirty/logistic_regression/6130": {
+        "best_params": {
+            "C": 1
+        },
+        "dirty_test_f1": 0.5071109462066279,
+        "dirty_test_acc": 0.6375555555555555,
+        "clean_test_f1": 0.4941638474006549,
+        "clean_test_acc": 0.6486666666666666
+    },
+    "Credit_uniform/v3562/mislabel/dirty/logistic_regression/8006": {
+        "best_params": {
+            "C": 1
+        },
+        "dirty_test_f1": 0.5994390452930276,
+        "dirty_test_acc": 0.7897777777777778,
+        "clean_test_f1": 0.6317029363618241,
+        "clean_test_acc": 0.8251111111111111
+    },
+    "Credit_uniform/v3562/mislabel/dirty/logistic_regression/6130": {
+        "best_params": {
+            "C": 1
+        },
+        "dirty_test_f1": 0.5856993370114683,
+        "dirty_test_acc": 0.7715555555555556,
+        "clean_test_f1": 0.6173450739854225,
+        "clean_test_acc": 0.81
+    },
+    "Credit_uniform/v3562/mislabel/dirty/logistic_regression/5824": {
+        "best_params": {
+            "C": 1
+        },
+        "dirty_test_f1": 0.5950931037705927,
+        "dirty_test_acc": 0.7824444444444445,
+        "clean_test_f1": 0.6196594796361424,
+        "clean_test_acc": 0.8135555555555556
+    },
+    "Credit_uniform/v3562/mislabel/dirty/logistic_regression/3659": {
+        "best_params": {
+            "C": 1
+        },
+        "dirty_test_f1": 0.5108518424580601,
+        "dirty_test_acc": 0.6473333333333333,
+        "clean_test_f1": 0.5169804440795439,
+        "clean_test_acc": 0.6771111111111111
+    },
+    "Credit_uniform/v3562/mislabel/dirty/logistic_regression/3239": {
+        "best_params": {
+            "C": 1
+        },
+        "dirty_test_f1": 0.5464959392553596,
+        "dirty_test_acc": 0.7113333333333334,
+        "clean_test_f1": 0.5612622488924454,
+        "clean_test_acc": 0.7451111111111111
+    },
+    "Credit_uniform/v5056/mislabel/dirty/logistic_regression/3239": {
+        "best_params": {
+            "C": 1
+        },
+        "dirty_test_f1": 0.5787020224676431,
+        "dirty_test_acc": 0.7633333333333333,
+        "clean_test_f1": 0.5906323827822489,
+        "clean_test_acc": 0.7937777777777778
+    },
+    "Credit_uniform/v5056/mislabel/dirty/logistic_regression/3659": {
+        "best_params": {
+            "C": 1
+        },
+        "dirty_test_f1": 0.5080898395721924,
+        "dirty_test_acc": 0.6451111111111111,
+        "clean_test_f1": 0.4918146154335883,
+        "clean_test_acc": 0.6566666666666666
+    },
+    "Credit_uniform/v5056/mislabel/dirty/logistic_regression/5824": {
+        "best_params": {
+            "C": 1
+        },
+        "dirty_test_f1": 0.48999112867090283,
+        "dirty_test_acc": 0.6122222222222222,
+        "clean_test_f1": 0.46552678516513935,
+        "clean_test_acc": 0.6137777777777778
+    },
+    "Credit_uniform/v5056/mislabel/dirty/logistic_regression/8006": {
+        "best_params": {
+            "C": 1
+        },
+        "dirty_test_f1": 0.5235048641515153,
+        "dirty_test_acc": 0.6622222222222223,
+        "clean_test_f1": 0.5058692312977925,
+        "clean_test_acc": 0.6722222222222223
+    },
+    "Credit_uniform/v5056/mislabel/dirty/logistic_regression/6130": {
+        "best_params": {
+            "C": 1
+        },
+        "dirty_test_f1": 0.4928949040230338,
+        "dirty_test_acc": 0.6193333333333333,
+        "clean_test_f1": 0.4730382957626245,
+        "clean_test_acc": 0.6273333333333333
+    },
+    "Credit_uniform/v3462/mislabel/dirty/logistic_regression/3659": {
+        "best_params": {
+            "C": 1
+        },
+        "dirty_test_f1": 0.5898627135035557,
+        "dirty_test_acc": 0.7886666666666666,
+        "clean_test_f1": 0.6142960731911772,
+        "clean_test_acc": 0.8222222222222222
+    },
+    "Credit_uniform/v3462/mislabel/dirty/logistic_regression/5824": {
+        "best_params": {
+            "C": 1
+        },
+        "dirty_test_f1": 0.5244792713147144,
+        "dirty_test_acc": 0.6844444444444444,
+        "clean_test_f1": 0.5139723438156181,
+        "clean_test_acc": 0.6877777777777778
+    },
+    "Credit_uniform/v3462/mislabel/dirty/logistic_regression/8006": {
+        "best_params": {
+            "C": 1
+        },
+        "dirty_test_f1": 0.5634792287901466,
+        "dirty_test_acc": 0.7486666666666667,
+        "clean_test_f1": 0.5735863023365485,
+        "clean_test_acc": 0.7708888888888888
+    },
+    "Credit_uniform/v3462/mislabel/dirty/logistic_regression/6130": {
+        "best_params": {
+            "C": 1
+        },
+        "dirty_test_f1": 0.5904182841272011,
+        "dirty_test_acc": 0.7893333333333333,
+        "clean_test_f1": 0.6158905257398442,
+        "clean_test_acc": 0.8233333333333334
+    },
+    "Credit_uniform/v3462/mislabel/dirty/logistic_regression/3239": {
+        "best_params": {
+            "C": 1
+        },
+        "dirty_test_f1": 0.4808282902201977,
+        "dirty_test_acc": 0.6008888888888889,
+        "clean_test_f1": 0.4513466537038663,
+        "clean_test_acc": 0.5902222222222222
+    },
+    "Credit_uniform/v8444/mislabel/dirty/logistic_regression/8006": {
+        "best_params": {
+            "C": 1
+        },
+        "dirty_test_f1": 0.4739125995507454,
+        "dirty_test_acc": 0.5928888888888889,
+        "clean_test_f1": 0.46744313028367823,
+        "clean_test_acc": 0.6064444444444445
+    },
+    "Credit_uniform/v8444/mislabel/dirty/logistic_regression/6130": {
+        "best_params": {
+            "C": 1
+        },
+        "dirty_test_f1": 0.5146770580696365,
+        "dirty_test_acc": 0.6588888888888889,
+        "clean_test_f1": 0.5244162990700897,
+        "clean_test_acc": 0.6871111111111111
+    }
+}

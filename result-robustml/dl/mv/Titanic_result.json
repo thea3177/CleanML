@@ -1,0 +1,82 @@
+{
+    "Titanic/v235/missing_values/dirty/MLP/3659": {
+        "missingkept_test_f1": 0.6499125874125874,
+        "missingkept_test_acc": 0.6853932584269663
+    },
+    "Titanic/v2516/missing_values/dirty/MLP/3659": {
+        "missingkept_test_f1": 0.7134074941451991,
+        "missingkept_test_acc": 0.7528089887640449
+    },
+    "Titanic/v7813/missing_values/dirty/MLP/3659": {
+        "missingkept_test_f1": 0.6641509433962264,
+        "missingkept_test_acc": 0.7191011235955056
+    },
+    "Titanic/v3462/missing_values/dirty/MLP/3659": {
+        "missingkept_test_f1": 0.7198974239421844,
+        "missingkept_test_acc": 0.7640449438202247
+    },
+    "Titanic/v5374/missing_values/dirty/MLP/3659": {
+        "missingkept_test_f1": 0.6278375149342892,
+        "missingkept_test_acc": 0.6853932584269663
+    },
+    "Titanic/v4225/missing_values/dirty/MLP/3659": {
+        "missingkept_test_f1": 0.7075866188769415,
+        "missingkept_test_acc": 0.7528089887640449
+    },
+    "Titanic/v5056/missing_values/dirty/MLP/3659": {
+        "missingkept_test_f1": 0.6798718896279872,
+        "missingkept_test_acc": 0.7265917602996255
+    },
+    "Titanic/v3562/missing_values/dirty/MLP/3659": {
+        "missingkept_test_f1": 0.7118070658740516,
+        "missingkept_test_acc": 0.7490636704119851
+    },
+    "Titanic/v9394/missing_values/dirty/MLP/3659": {
+        "missingkept_test_f1": 0.7353725222146275,
+        "missingkept_test_acc": 0.7827715355805244
+    },
+    "Titanic/v8444/missing_values/dirty/MLP/3659": {
+        "missingkept_test_f1": 0.7144385026737967,
+        "missingkept_test_acc": 0.7602996254681648
+    },
+    "Titanic/v6542/missing_values/dirty/MLP/3659": {
+        "missingkept_test_f1": 0.7568306010928962,
+        "missingkept_test_acc": 0.7902621722846442
+    },
+    "Titanic/v7751/missing_values/dirty/MLP/3659": {
+        "missingkept_test_f1": 0.7548959608323134,
+        "missingkept_test_acc": 0.7752808988764045
+    },
+    "Titanic/v2895/missing_values/dirty/MLP/3659": {
+        "missingkept_test_f1": 0.6196581196581197,
+        "missingkept_test_acc": 0.6853932584269663
+    },
+    "Titanic/v4764/missing_values/dirty/MLP/3659": {
+        "missingkept_test_f1": 0.6940479308538502,
+        "missingkept_test_acc": 0.7378277153558053
+    },
+    "Titanic/v5192/missing_values/dirty/MLP/3659": {
+        "missingkept_test_f1": 0.7007910349373764,
+        "missingkept_test_acc": 0.7453183520599251
+    },
+    "Titanic/v5396/missing_values/dirty/MLP/3659": {
+        "missingkept_test_f1": 0.7033008310769568,
+        "missingkept_test_acc": 0.7340823970037453
+    },
+    "Titanic/v8093/missing_values/dirty/MLP/3659": {
+        "missingkept_test_f1": 0.6953516445355779,
+        "missingkept_test_acc": 0.7415730337078652
+    },
+    "Titanic/v144/missing_values/dirty/MLP/3659": {
+        "missingkept_test_f1": 0.7152230122818358,
+        "missingkept_test_acc": 0.7528089887640449
+    },
+    "Titanic/v905/missing_values/dirty/MLP/3659": {
+        "missingkept_test_f1": 0.7796470289487049,
+        "missingkept_test_acc": 0.8052434456928839
+    },
+    "Titanic/v2962/missing_values/dirty/MLP/3659": {
+        "missingkept_test_f1": 0.7271918259723138,
+        "missingkept_test_acc": 0.7677902621722846
+    }
+}

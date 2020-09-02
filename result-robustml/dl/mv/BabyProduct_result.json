@@ -1,0 +1,82 @@
+{
+    "BabyProduct/v905/missing_values/dirty/MLP/3659": {
+        "missingkept_test_f1": 0.6297212047212047,
+        "missingkept_test_acc": 0.7493775933609959
+    },
+    "BabyProduct/v3462/missing_values/dirty/MLP/3659": {
+        "missingkept_test_f1": 0.6213161551092585,
+        "missingkept_test_acc": 0.7419087136929461
+    },
+    "BabyProduct/v144/missing_values/dirty/MLP/3659": {
+        "missingkept_test_f1": 0.5909685756728054,
+        "missingkept_test_acc": 0.7419087136929461
+    },
+    "BabyProduct/v5374/missing_values/dirty/MLP/3659": {
+        "missingkept_test_f1": 0.6062336611477654,
+        "missingkept_test_acc": 0.7211618257261411
+    },
+    "BabyProduct/v4225/missing_values/dirty/MLP/3659": {
+        "missingkept_test_f1": 0.6110147859973976,
+        "missingkept_test_acc": 0.75850622406639
+    },
+    "BabyProduct/v3562/missing_values/dirty/MLP/3659": {
+        "missingkept_test_f1": 0.6195753361449977,
+        "missingkept_test_acc": 0.7410788381742739
+    },
+    "BabyProduct/v5056/missing_values/dirty/MLP/3659": {
+        "missingkept_test_f1": 0.5823776276654735,
+        "missingkept_test_acc": 0.7261410788381742
+    },
+    "BabyProduct/v7813/missing_values/dirty/MLP/3659": {
+        "missingkept_test_f1": 0.5970897832817337,
+        "missingkept_test_acc": 0.7311203319502074
+    },
+    "BabyProduct/v2516/missing_values/dirty/MLP/3659": {
+        "missingkept_test_f1": 0.6133237267201085,
+        "missingkept_test_acc": 0.7360995850622407
+    },
+    "BabyProduct/v7751/missing_values/dirty/MLP/3659": {
+        "missingkept_test_f1": 0.5974174580503979,
+        "missingkept_test_acc": 0.7344398340248963
+    },
+    "BabyProduct/v2895/missing_values/dirty/MLP/3659": {
+        "missingkept_test_f1": 0.6232835533751774,
+        "missingkept_test_acc": 0.7518672199170124
+    },
+    "BabyProduct/v4764/missing_values/dirty/MLP/3659": {
+        "missingkept_test_f1": 0.6189424083769632,
+        "missingkept_test_acc": 0.7493775933609959
+    },
+    "BabyProduct/v8093/missing_values/dirty/MLP/3659": {
+        "missingkept_test_f1": 0.5944879605454019,
+        "missingkept_test_acc": 0.7352697095435685
+    },
+    "BabyProduct/v5192/missing_values/dirty/MLP/3659": {
+        "missingkept_test_f1": 0.6171149205789916,
+        "missingkept_test_acc": 0.7485477178423237
+    },
+    "BabyProduct/v5396/missing_values/dirty/MLP/3659": {
+        "missingkept_test_f1": 0.617083188274708,
+        "missingkept_test_acc": 0.7568464730290456
+    },
+    "BabyProduct/v2962/missing_values/dirty/MLP/3659": {
+        "missingkept_test_f1": 0.5917988359848825,
+        "missingkept_test_acc": 0.7244813278008299
+    },
+    "BabyProduct/v9394/missing_values/dirty/MLP/3659": {
+        "missingkept_test_f1": 0.6080676020408163,
+        "missingkept_test_acc": 0.7460580912863071
+    },
+    "BabyProduct/v235/missing_values/dirty/MLP/3659": {
+        "missingkept_test_f1": 0.5959288606274373,
+        "missingkept_test_acc": 0.7311203319502074
+    },
+    "BabyProduct/v8444/missing_values/dirty/MLP/3659": {
+        "missingkept_test_f1": 0.6191961327893434,
+        "missingkept_test_acc": 0.7593360995850622
+    },
+    "BabyProduct/v6542/missing_values/dirty/MLP/3659": {
+        "missingkept_test_f1": 0.6199570041965964,
+        "missingkept_test_acc": 0.7560165975103734
+    }
+}

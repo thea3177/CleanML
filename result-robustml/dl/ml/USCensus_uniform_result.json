@@ -1,0 +1,1342 @@
+{
+    "USCensus_uniform/v5374/mislabel/dirty/logistic_regression/3659": {
+        "best_params": {
+            "C": 641.8478533913964
+        },
+        "dirty_test_f1": 0.7493668515680844,
+        "dirty_test_acc": 0.8048888888888889,
+        "clean_test_f1": 0.7904505643631319,
+        "clean_test_acc": 0.8404444444444444
+    },
+    "USCensus_uniform/v4225/mislabel/dirty/logistic_regression/3659": {
+        "best_params": {
+            "C": 0.5265071321453342
+        },
+        "dirty_test_f1": 0.7509018676798693,
+        "dirty_test_acc": 0.8086666666666666,
+        "clean_test_f1": 0.7964063225943283,
+        "clean_test_acc": 0.8455555555555555
+    },
+    "USCensus_uniform/v5056/mislabel/dirty/logistic_regression/3659": {
+        "best_params": {
+            "C": 2911.801953919475
+        },
+        "dirty_test_f1": 0.7585798534390946,
+        "dirty_test_acc": 0.808,
+        "clean_test_f1": 0.8011766745892226,
+        "clean_test_acc": 0.8437777777777777
+    },
+    "USCensus_uniform/v3562/mislabel/dirty/logistic_regression/3659": {
+        "best_params": {
+            "C": 1.7971880102761828
+        },
+        "dirty_test_f1": 0.7507359160332228,
+        "dirty_test_acc": 0.7971111111111111,
+        "clean_test_f1": 0.7895571156309193,
+        "clean_test_acc": 0.836
+    },
+    "USCensus_uniform/v3462/mislabel/dirty/logistic_regression/3659": {
+        "best_params": {
+            "C": 0.8874834665727712
+        },
+        "dirty_test_f1": 0.7497343139029413,
+        "dirty_test_acc": 0.8044444444444444,
+        "clean_test_f1": 0.7988318766679747,
+        "clean_test_acc": 0.846
+    },
+    "USCensus_uniform/v2516/mislabel/dirty/logistic_regression/3659": {
+        "best_params": {
+            "C": 1.1067298808036674
+        },
+        "dirty_test_f1": 0.7497040419414849,
+        "dirty_test_acc": 0.8026666666666666,
+        "clean_test_f1": 0.7959037772791322,
+        "clean_test_acc": 0.8426666666666667
+    },
+    "USCensus_uniform/v7813/mislabel/dirty/logistic_regression/3659": {
+        "best_params": {
+            "C": 1286.4014641512479
+        },
+        "dirty_test_f1": 0.7446048832891976,
+        "dirty_test_acc": 0.7975555555555556,
+        "clean_test_f1": 0.79030104837578,
+        "clean_test_acc": 0.8433333333333334
+    },
+    "USCensus_uniform/v235/mislabel/dirty/logistic_regression/3659": {
+        "best_params": {
+            "C": 0.1592802727974752
+        },
+        "dirty_test_f1": 0.7465909090909091,
+        "dirty_test_acc": 0.8017777777777778,
+        "clean_test_f1": 0.790569929808841,
+        "clean_test_acc": 0.8404444444444444
+    },
+    "USCensus_uniform/v5192/mislabel/dirty/logistic_regression/3659": {
+        "best_params": {
+            "C": 0.1080830422554296
+        },
+        "dirty_test_f1": 0.7562350310612718,
+        "dirty_test_acc": 0.8051111111111111,
+        "clean_test_f1": 0.8027580913110643,
+        "clean_test_acc": 0.8486666666666667
+    },
+    "USCensus_uniform/v5396/mislabel/dirty/logistic_regression/3659": {
+        "best_params": {
+            "C": 0.5265071321453342
+        },
+        "dirty_test_f1": 0.7438706358217428,
+        "dirty_test_acc": 0.7946666666666666,
+        "clean_test_f1": 0.7968977847439902,
+        "clean_test_acc": 0.8424444444444444
+    },
+    "USCensus_uniform/v905/mislabel/dirty/logistic_regression/3659": {
+        "best_params": {
+            "C": 2.6695337126101424
+        },
+        "dirty_test_f1": 0.7522214432358738,
+        "dirty_test_acc": 0.8071111111111111,
+        "clean_test_f1": 0.7844302385663973,
+        "clean_test_acc": 0.8315555555555556
+    },
+    "USCensus_uniform/v8093/mislabel/dirty/logistic_regression/3659": {
+        "best_params": {
+            "C": 1286.4014641512479
+        },
+        "dirty_test_f1": 0.743997349149939,
+        "dirty_test_acc": 0.7973333333333333,
+        "clean_test_f1": 0.7922744535971946,
+        "clean_test_acc": 0.8375555555555556
+    },
+    "USCensus_uniform/v144/mislabel/dirty/logistic_regression/3659": {
+        "best_params": {
+            "C": 0.41986546190649954
+        },
+        "dirty_test_f1": 0.7507473184455776,
+        "dirty_test_acc": 0.804,
+        "clean_test_f1": 0.7986392097589381,
+        "clean_test_acc": 0.8486666666666667
+    },
+    "USCensus_uniform/v2962/mislabel/dirty/logistic_regression/3659": {
+        "best_params": {
+            "C": 0.5608292183250564
+        },
+        "dirty_test_f1": 0.7586057791010468,
+        "dirty_test_acc": 0.8135555555555556,
+        "clean_test_f1": 0.7947554253816493,
+        "clean_test_acc": 0.842
+    },
+    "USCensus_uniform/v7751/mislabel/dirty/logistic_regression/3659": {
+        "best_params": {
+            "C": 1370.2597430209296
+        },
+        "dirty_test_f1": 0.7428612855576398,
+        "dirty_test_acc": 0.7982222222222223,
+        "clean_test_f1": 0.7940398931531747,
+        "clean_test_acc": 0.8404444444444444
+    },
+    "USCensus_uniform/v2895/mislabel/dirty/logistic_regression/3659": {
+        "best_params": {
+            "C": 1.7971880102761828
+        },
+        "dirty_test_f1": 0.7631816925820795,
+        "dirty_test_acc": 0.8137777777777778,
+        "clean_test_f1": 0.7950500896564547,
+        "clean_test_acc": 0.8406666666666667
+    },
+    "USCensus_uniform/v4764/mislabel/dirty/logistic_regression/3659": {
+        "best_params": {
+            "C": 0.15001651027873858
+        },
+        "dirty_test_f1": 0.7522157954282681,
+        "dirty_test_acc": 0.8028888888888889,
+        "clean_test_f1": 0.7975680720245939,
+        "clean_test_acc": 0.8426666666666667
+    },
+    "USCensus_uniform/v8444/mislabel/dirty/logistic_regression/3659": {
+        "best_params": {
+            "C": 0.8762956536329006
+        },
+        "dirty_test_f1": 0.7510402359441701,
+        "dirty_test_acc": 0.8031111111111111,
+        "clean_test_f1": 0.7907115958645375,
+        "clean_test_acc": 0.8377777777777777
+    },
+    "USCensus_uniform/v6542/mislabel/dirty/logistic_regression/3659": {
+        "best_params": {
+            "C": 1.7971880102761828
+        },
+        "dirty_test_f1": 0.7649472734352887,
+        "dirty_test_acc": 0.8144444444444444,
+        "clean_test_f1": 0.7904762285025616,
+        "clean_test_acc": 0.8393333333333334
+    },
+    "USCensus_uniform/v9394/mislabel/dirty/logistic_regression/3659": {
+        "best_params": {
+            "C": 0.5265071321453342
+        },
+        "dirty_test_f1": 0.7591132083366414,
+        "dirty_test_acc": 0.8086666666666666,
+        "clean_test_f1": 0.786257745577075,
+        "clean_test_acc": 0.8388888888888889
+    },
+    "USCensus_uniform/v5374/mislabel/dirty/knn_classification/3659": {
+        "best_params": {
+            "n_neighbors": 48.0
+        },
+        "dirty_test_f1": 0.7101403536365292,
+        "dirty_test_acc": 0.7786666666666666,
+        "clean_test_f1": 0.7507413883972047,
+        "clean_test_acc": 0.8135555555555556
+    },
+    "USCensus_uniform/v4225/mislabel/dirty/knn_classification/3659": {
+        "best_params": {
+            "n_neighbors": 94.0
+        },
+        "dirty_test_f1": 0.7031638707869182,
+        "dirty_test_acc": 0.7857777777777778,
+        "clean_test_f1": 0.7420618175980467,
+        "clean_test_acc": 0.8193333333333334
+    },
+    "USCensus_uniform/v5056/mislabel/dirty/knn_classification/3659": {
+        "best_params": {
+            "n_neighbors": 57.0
+        },
+        "dirty_test_f1": 0.7189081141857705,
+        "dirty_test_acc": 0.7868888888888889,
+        "clean_test_f1": 0.7611851851851852,
+        "clean_test_acc": 0.8208888888888889
+    },
+    "USCensus_uniform/v3562/mislabel/dirty/knn_classification/3659": {
+        "best_params": {
+            "n_neighbors": 31.0
+        },
+        "dirty_test_f1": 0.715082332572018,
+        "dirty_test_acc": 0.78,
+        "clean_test_f1": 0.7548449905091499,
+        "clean_test_acc": 0.8224444444444444
+    },
+    "USCensus_uniform/v3462/mislabel/dirty/knn_classification/3659": {
+        "best_params": {
+            "n_neighbors": 95.0
+        },
+        "dirty_test_f1": 0.7061978040554726,
+        "dirty_test_acc": 0.7857777777777778,
+        "clean_test_f1": 0.7424476562736722,
+        "clean_test_acc": 0.8186666666666667
+    },
+    "USCensus_uniform/v2516/mislabel/dirty/knn_classification/3659": {
+        "best_params": {
+            "n_neighbors": 62.0
+        },
+        "dirty_test_f1": 0.7073788887169169,
+        "dirty_test_acc": 0.7848888888888889,
+        "clean_test_f1": 0.7496603624879058,
+        "clean_test_acc": 0.822
+    },
+    "USCensus_uniform/v7813/mislabel/dirty/knn_classification/3659": {
+        "best_params": {
+            "n_neighbors": 101.0
+        },
+        "dirty_test_f1": 0.7085880668627147,
+        "dirty_test_acc": 0.7857777777777778,
+        "clean_test_f1": 0.7468804545307458,
+        "clean_test_acc": 0.8273333333333334
+    },
+    "USCensus_uniform/v235/mislabel/dirty/knn_classification/3659": {
+        "best_params": {
+            "n_neighbors": 91.0
+        },
+        "dirty_test_f1": 0.7062318729975039,
+        "dirty_test_acc": 0.7817777777777778,
+        "clean_test_f1": 0.7467658696120136,
+        "clean_test_acc": 0.8168888888888889
+    },
+    "USCensus_uniform/v5192/mislabel/dirty/knn_classification/3659": {
+        "best_params": {
+            "n_neighbors": 99.0
+        },
+        "dirty_test_f1": 0.7165858925840747,
+        "dirty_test_acc": 0.7913333333333333,
+        "clean_test_f1": 0.763513496920764,
+        "clean_test_acc": 0.8335555555555556
+    },
+    "USCensus_uniform/v5396/mislabel/dirty/knn_classification/3659": {
+        "best_params": {
+            "n_neighbors": 101.0
+        },
+        "dirty_test_f1": 0.7056056687620611,
+        "dirty_test_acc": 0.7757777777777778,
+        "clean_test_f1": 0.7475823764119537,
+        "clean_test_acc": 0.8157777777777778
+    },
+    "USCensus_uniform/v905/mislabel/dirty/knn_classification/3659": {
+        "best_params": {
+            "n_neighbors": 83.0
+        },
+        "dirty_test_f1": 0.6917400937304679,
+        "dirty_test_acc": 0.7746666666666666,
+        "clean_test_f1": 0.7325525367215608,
+        "clean_test_acc": 0.8033333333333333
+    },
+    "USCensus_uniform/v8093/mislabel/dirty/knn_classification/3659": {
+        "best_params": {
+            "n_neighbors": 19.0
+        },
+        "dirty_test_f1": 0.7034404215921812,
+        "dirty_test_acc": 0.774,
+        "clean_test_f1": 0.7544431117985197,
+        "clean_test_acc": 0.8157777777777778
+    },
+    "USCensus_uniform/v144/mislabel/dirty/knn_classification/3659": {
+        "best_params": {
+            "n_neighbors": 46.0
+        },
+        "dirty_test_f1": 0.6973490822124262,
+        "dirty_test_acc": 0.776,
+        "clean_test_f1": 0.7375241610335403,
+        "clean_test_acc": 0.8166666666666667
+    },
+    "USCensus_uniform/v2962/mislabel/dirty/knn_classification/3659": {
+        "best_params": {
+            "n_neighbors": 75.0
+        },
+        "dirty_test_f1": 0.7324527046267427,
+        "dirty_test_acc": 0.7973333333333333,
+        "clean_test_f1": 0.761016884985235,
+        "clean_test_acc": 0.8204444444444444
+    },
+    "USCensus_uniform/v7751/mislabel/dirty/knn_classification/3659": {
+        "best_params": {
+            "n_neighbors": 80.0
+        },
+        "dirty_test_f1": 0.6937571834734741,
+        "dirty_test_acc": 0.776,
+        "clean_test_f1": 0.7410996791129678,
+        "clean_test_acc": 0.8151111111111111
+    },
+    "USCensus_uniform/v2895/mislabel/dirty/knn_classification/3659": {
+        "best_params": {
+            "n_neighbors": 96.0
+        },
+        "dirty_test_f1": 0.703289143784443,
+        "dirty_test_acc": 0.7906666666666666,
+        "clean_test_f1": 0.7317895716712888,
+        "clean_test_acc": 0.8137777777777778
+    },
+    "USCensus_uniform/v4764/mislabel/dirty/knn_classification/3659": {
+        "best_params": {
+            "n_neighbors": 27.0
+        },
+        "dirty_test_f1": 0.7145004889634157,
+        "dirty_test_acc": 0.7831111111111111,
+        "clean_test_f1": 0.7534042352896597,
+        "clean_test_acc": 0.8148888888888889
+    },
+    "USCensus_uniform/v8444/mislabel/dirty/knn_classification/3659": {
+        "best_params": {
+            "n_neighbors": 29.0
+        },
+        "dirty_test_f1": 0.7177356767058363,
+        "dirty_test_acc": 0.786,
+        "clean_test_f1": 0.7461674215129126,
+        "clean_test_acc": 0.8077777777777778
+    },
+    "USCensus_uniform/v6542/mislabel/dirty/knn_classification/3659": {
+        "best_params": {
+            "n_neighbors": 73.0
+        },
+        "dirty_test_f1": 0.7239771821137214,
+        "dirty_test_acc": 0.7882222222222223,
+        "clean_test_f1": 0.752377504526802,
+        "clean_test_acc": 0.8157777777777778
+    },
+    "USCensus_uniform/v9394/mislabel/dirty/knn_classification/3659": {
+        "best_params": {
+            "n_neighbors": 22.0
+        },
+        "dirty_test_f1": 0.7113735649504742,
+        "dirty_test_acc": 0.7815555555555556,
+        "clean_test_f1": 0.746583850931677,
+        "clean_test_acc": 0.8186666666666667
+    },
+    "USCensus_uniform/v5374/mislabel/dirty/decision_tree_classification/3659": {
+        "best_params": {
+            "max_depth": 6.0
+        },
+        "dirty_test_f1": 0.7202814753379312,
+        "dirty_test_acc": 0.8106666666666666,
+        "clean_test_f1": 0.7607657149387526,
+        "clean_test_acc": 0.8455555555555555
+    },
+    "USCensus_uniform/v4225/mislabel/dirty/decision_tree_classification/3659": {
+        "best_params": {
+            "max_depth": 8.0
+        },
+        "dirty_test_f1": 0.7256280377478401,
+        "dirty_test_acc": 0.8131111111111111,
+        "clean_test_f1": 0.7815818292137147,
+        "clean_test_acc": 0.8548888888888889
+    },
+    "USCensus_uniform/v5056/mislabel/dirty/decision_tree_classification/3659": {
+        "best_params": {
+            "max_depth": 5.0
+        },
+        "dirty_test_f1": 0.731498732183139,
+        "dirty_test_acc": 0.812,
+        "clean_test_f1": 0.7663774182679258,
+        "clean_test_acc": 0.8422222222222222
+    },
+    "USCensus_uniform/v3562/mislabel/dirty/decision_tree_classification/3659": {
+        "best_params": {
+            "max_depth": 8.0
+        },
+        "dirty_test_f1": 0.740970835388298,
+        "dirty_test_acc": 0.8055555555555556,
+        "clean_test_f1": 0.7836069161017929,
+        "clean_test_acc": 0.8482222222222222
+    },
+    "USCensus_uniform/v3462/mislabel/dirty/decision_tree_classification/3659": {
+        "best_params": {
+            "max_depth": 10.0
+        },
+        "dirty_test_f1": 0.7424893724828783,
+        "dirty_test_acc": 0.8075555555555556,
+        "clean_test_f1": 0.794538641411226,
+        "clean_test_acc": 0.8506666666666667
+    },
+    "USCensus_uniform/v2516/mislabel/dirty/decision_tree_classification/3659": {
+        "best_params": {
+            "max_depth": 6.0
+        },
+        "dirty_test_f1": 0.7244813849098783,
+        "dirty_test_acc": 0.8117777777777778,
+        "clean_test_f1": 0.7790771298966316,
+        "clean_test_acc": 0.8531111111111112
+    },
+    "USCensus_uniform/v7813/mislabel/dirty/decision_tree_classification/3659": {
+        "best_params": {
+            "max_depth": 5.0
+        },
+        "dirty_test_f1": 0.7265279230707331,
+        "dirty_test_acc": 0.8066666666666666,
+        "clean_test_f1": 0.7571904772969045,
+        "clean_test_acc": 0.8446666666666667
+    },
+    "USCensus_uniform/v235/mislabel/dirty/decision_tree_classification/3659": {
+        "best_params": {
+            "max_depth": 6.0
+        },
+        "dirty_test_f1": 0.7145849080372889,
+        "dirty_test_acc": 0.8066666666666666,
+        "clean_test_f1": 0.7725627202036977,
+        "clean_test_acc": 0.8497777777777777
+    },
+    "USCensus_uniform/v5192/mislabel/dirty/decision_tree_classification/3659": {
+        "best_params": {
+            "max_depth": 6.0
+        },
+        "dirty_test_f1": 0.734557799972362,
+        "dirty_test_acc": 0.7788888888888889,
+        "clean_test_f1": 0.7849894271863759,
+        "clean_test_acc": 0.8273333333333334
+    },
+    "USCensus_uniform/v5396/mislabel/dirty/decision_tree_classification/3659": {
+        "best_params": {
+            "max_depth": 5.0
+        },
+        "dirty_test_f1": 0.714085051888387,
+        "dirty_test_acc": 0.8015555555555556,
+        "clean_test_f1": 0.7583013615541594,
+        "clean_test_acc": 0.8391111111111111
+    },
+    "USCensus_uniform/v905/mislabel/dirty/decision_tree_classification/3659": {
+        "best_params": {
+            "max_depth": 7.0
+        },
+        "dirty_test_f1": 0.7274926435302698,
+        "dirty_test_acc": 0.8028888888888889,
+        "clean_test_f1": 0.7802377842927516,
+        "clean_test_acc": 0.8415555555555555
+    },
+    "USCensus_uniform/v8093/mislabel/dirty/decision_tree_classification/3659": {
+        "best_params": {
+            "max_depth": 6.0
+        },
+        "dirty_test_f1": 0.7401186965702645,
+        "dirty_test_acc": 0.8013333333333333,
+        "clean_test_f1": 0.7900909956508362,
+        "clean_test_acc": 0.8404444444444444
+    },
+    "USCensus_uniform/v144/mislabel/dirty/decision_tree_classification/3659": {
+        "best_params": {
+            "max_depth": 8.0
+        },
+        "dirty_test_f1": 0.7261624443246617,
+        "dirty_test_acc": 0.8093333333333333,
+        "clean_test_f1": 0.778846368117142,
+        "clean_test_acc": 0.8544444444444445
+    },
+    "USCensus_uniform/v2962/mislabel/dirty/decision_tree_classification/3659": {
+        "best_params": {
+            "max_depth": 7.0
+        },
+        "dirty_test_f1": 0.7218191647218093,
+        "dirty_test_acc": 0.8117777777777778,
+        "clean_test_f1": 0.7737295263842958,
+        "clean_test_acc": 0.8495555555555555
+    },
+    "USCensus_uniform/v7751/mislabel/dirty/decision_tree_classification/3659": {
+        "best_params": {
+            "max_depth": 6.0
+        },
+        "dirty_test_f1": 0.71639434598597,
+        "dirty_test_acc": 0.8006666666666666,
+        "clean_test_f1": 0.7766071261096554,
+        "clean_test_acc": 0.8475555555555555
+    },
+    "USCensus_uniform/v2895/mislabel/dirty/decision_tree_classification/3659": {
+        "best_params": {
+            "max_depth": 3.0
+        },
+        "dirty_test_f1": 0.7308888706062191,
+        "dirty_test_acc": 0.8095555555555556,
+        "clean_test_f1": 0.7644135359525291,
+        "clean_test_acc": 0.8353333333333334
+    },
+    "USCensus_uniform/v4764/mislabel/dirty/decision_tree_classification/3659": {
+        "best_params": {
+            "max_depth": 5.0
+        },
+        "dirty_test_f1": 0.720489074172519,
+        "dirty_test_acc": 0.8026666666666666,
+        "clean_test_f1": 0.7664946660482375,
+        "clean_test_acc": 0.8408888888888889
+    },
+    "USCensus_uniform/v8444/mislabel/dirty/decision_tree_classification/3659": {
+        "best_params": {
+            "max_depth": 3.0
+        },
+        "dirty_test_f1": 0.7211498400201115,
+        "dirty_test_acc": 0.8086666666666666,
+        "clean_test_f1": 0.7377752665544218,
+        "clean_test_acc": 0.8251111111111111
+    },
+    "USCensus_uniform/v6542/mislabel/dirty/decision_tree_classification/3659": {
+        "best_params": {
+            "max_depth": 5.0
+        },
+        "dirty_test_f1": 0.7450211590903857,
+        "dirty_test_acc": 0.8135555555555556,
+        "clean_test_f1": 0.7746285778237878,
+        "clean_test_acc": 0.8408888888888889
+    },
+    "USCensus_uniform/v9394/mislabel/dirty/decision_tree_classification/3659": {
+        "best_params": {
+            "max_depth": 8.0
+        },
+        "dirty_test_f1": 0.7322478396075686,
+        "dirty_test_acc": 0.8073333333333333,
+        "clean_test_f1": 0.7746000565996903,
+        "clean_test_acc": 0.8495555555555555
+    },
+    "USCensus_uniform/v5374/mislabel/dirty/guassian_naive_bayes/3659": {
+        "best_params": {},
+        "dirty_test_f1": 0.3169715235472435,
+        "dirty_test_acc": 0.33866666666666667,
+        "clean_test_f1": 0.2922449024292747,
+        "clean_test_acc": 0.31066666666666665
+    },
+    "USCensus_uniform/v4225/mislabel/dirty/guassian_naive_bayes/3659": {
+        "best_params": {},
+        "dirty_test_f1": 0.2903937757235467,
+        "dirty_test_acc": 0.31777777777777777,
+        "clean_test_f1": 0.2716079329393245,
+        "clean_test_acc": 0.294
+    },
+    "USCensus_uniform/v5056/mislabel/dirty/guassian_naive_bayes/3659": {
+        "best_params": {},
+        "dirty_test_f1": 0.3114464224746193,
+        "dirty_test_acc": 0.3391111111111111,
+        "clean_test_f1": 0.30759740111817657,
+        "clean_test_acc": 0.32755555555555554
+    },
+    "USCensus_uniform/v3562/mislabel/dirty/guassian_naive_bayes/3659": {
+        "best_params": {},
+        "dirty_test_f1": 0.29415796230265095,
+        "dirty_test_acc": 0.32866666666666666,
+        "clean_test_f1": 0.2775472879646056,
+        "clean_test_acc": 0.3006666666666667
+    },
+    "USCensus_uniform/v3462/mislabel/dirty/guassian_naive_bayes/3659": {
+        "best_params": {},
+        "dirty_test_f1": 0.3190566658880954,
+        "dirty_test_acc": 0.3417777777777778,
+        "clean_test_f1": 0.30208373009730616,
+        "clean_test_acc": 0.31955555555555554
+    },
+    "USCensus_uniform/v2516/mislabel/dirty/guassian_naive_bayes/3659": {
+        "best_params": {},
+        "dirty_test_f1": 0.3039097096932918,
+        "dirty_test_acc": 0.3293333333333333,
+        "clean_test_f1": 0.293126923649012,
+        "clean_test_acc": 0.31355555555555553
+    },
+    "USCensus_uniform/v7813/mislabel/dirty/guassian_naive_bayes/3659": {
+        "best_params": {},
+        "dirty_test_f1": 0.32204685634364016,
+        "dirty_test_acc": 0.3448888888888889,
+        "clean_test_f1": 0.30432137798417563,
+        "clean_test_acc": 0.318
+    },
+    "USCensus_uniform/v235/mislabel/dirty/guassian_naive_bayes/3659": {
+        "best_params": {},
+        "dirty_test_f1": 0.3118179890469751,
+        "dirty_test_acc": 0.3377777777777778,
+        "clean_test_f1": 0.2958900689892889,
+        "clean_test_acc": 0.31666666666666665
+    },
+    "USCensus_uniform/v5192/mislabel/dirty/guassian_naive_bayes/3659": {
+        "best_params": {},
+        "dirty_test_f1": 0.2985169297989422,
+        "dirty_test_acc": 0.3268888888888889,
+        "clean_test_f1": 0.2934554625339263,
+        "clean_test_acc": 0.31355555555555553
+    },
+    "USCensus_uniform/v5396/mislabel/dirty/guassian_naive_bayes/3659": {
+        "best_params": {},
+        "dirty_test_f1": 0.28226524183025786,
+        "dirty_test_acc": 0.3164444444444444,
+        "clean_test_f1": 0.26942202497799544,
+        "clean_test_acc": 0.2966666666666667
+    },
+    "USCensus_uniform/v905/mislabel/dirty/guassian_naive_bayes/3659": {
+        "best_params": {},
+        "dirty_test_f1": 0.30501731473418525,
+        "dirty_test_acc": 0.3288888888888889,
+        "clean_test_f1": 0.3038870360547052,
+        "clean_test_acc": 0.3257777777777778
+    },
+    "USCensus_uniform/v8093/mislabel/dirty/guassian_naive_bayes/3659": {
+        "best_params": {},
+        "dirty_test_f1": 0.3050145267100183,
+        "dirty_test_acc": 0.33111111111111113,
+        "clean_test_f1": 0.2941920331202078,
+        "clean_test_acc": 0.31666666666666665
+    },
+    "USCensus_uniform/v144/mislabel/dirty/guassian_naive_bayes/3659": {
+        "best_params": {},
+        "dirty_test_f1": 0.30467942981965557,
+        "dirty_test_acc": 0.332,
+        "clean_test_f1": 0.28707656095931805,
+        "clean_test_acc": 0.30822222222222223
+    },
+    "USCensus_uniform/v2962/mislabel/dirty/guassian_naive_bayes/3659": {
+        "best_params": {},
+        "dirty_test_f1": 0.3145525699333781,
+        "dirty_test_acc": 0.336,
+        "clean_test_f1": 0.3047184314812552,
+        "clean_test_acc": 0.32222222222222224
+    },
+    "USCensus_uniform/v7751/mislabel/dirty/guassian_naive_bayes/3659": {
+        "best_params": {},
+        "dirty_test_f1": 0.3168441704035875,
+        "dirty_test_acc": 0.3413333333333333,
+        "clean_test_f1": 0.30461576993408135,
+        "clean_test_acc": 0.3237777777777778
+    },
+    "USCensus_uniform/v2895/mislabel/dirty/guassian_naive_bayes/3659": {
+        "best_params": {},
+        "dirty_test_f1": 0.2805549898679703,
+        "dirty_test_acc": 0.30844444444444447,
+        "clean_test_f1": 0.2774470008871358,
+        "clean_test_acc": 0.30244444444444446
+    },
+    "USCensus_uniform/v4764/mislabel/dirty/guassian_naive_bayes/3659": {
+        "best_params": {},
+        "dirty_test_f1": 0.3318063837765899,
+        "dirty_test_acc": 0.3537777777777778,
+        "clean_test_f1": 0.3361203475744482,
+        "clean_test_acc": 0.35044444444444445
+    },
+    "USCensus_uniform/v8444/mislabel/dirty/guassian_naive_bayes/3659": {
+        "best_params": {},
+        "dirty_test_f1": 0.30136959814379166,
+        "dirty_test_acc": 0.3308888888888889,
+        "clean_test_f1": 0.2841812319004293,
+        "clean_test_acc": 0.31155555555555553
+    },
+    "USCensus_uniform/v6542/mislabel/dirty/guassian_naive_bayes/3659": {
+        "best_params": {},
+        "dirty_test_f1": 0.30801338891225766,
+        "dirty_test_acc": 0.33311111111111114,
+        "clean_test_f1": 0.31122672989111344,
+        "clean_test_acc": 0.33066666666666666
+    },
+    "USCensus_uniform/v9394/mislabel/dirty/guassian_naive_bayes/3659": {
+        "best_params": {},
+        "dirty_test_f1": 0.346077497158474,
+        "dirty_test_acc": 0.36333333333333334,
+        "clean_test_f1": 0.3213809849233953,
+        "clean_test_acc": 0.3328888888888889
+    },
+    "USCensus_uniform/v5374/mislabel/dirty/random_forest_classification/3659": {
+        "best_params": {
+            "max_depth": 17.0
+        },
+        "dirty_test_f1": 0.7489765762304563,
+        "dirty_test_acc": 0.8146666666666667,
+        "clean_test_f1": 0.8171331939826283,
+        "clean_test_acc": 0.8688888888888889
+    },
+    "USCensus_uniform/v4225/mislabel/dirty/random_forest_classification/3659": {
+        "best_params": {
+            "max_depth": 21.0
+        },
+        "dirty_test_f1": 0.755215068827229,
+        "dirty_test_acc": 0.8202222222222222,
+        "clean_test_f1": 0.8234604815861606,
+        "clean_test_acc": 0.8722222222222222
+    },
+    "USCensus_uniform/v5056/mislabel/dirty/random_forest_classification/3659": {
+        "best_params": {
+            "max_depth": 16.0
+        },
+        "dirty_test_f1": 0.7635589829398712,
+        "dirty_test_acc": 0.8237777777777778,
+        "clean_test_f1": 0.8138420913762814,
+        "clean_test_acc": 0.8642222222222222
+    },
+    "USCensus_uniform/v3562/mislabel/dirty/random_forest_classification/3659": {
+        "best_params": {
+            "max_depth": 15.0
+        },
+        "dirty_test_f1": 0.7486976618282348,
+        "dirty_test_acc": 0.808,
+        "clean_test_f1": 0.8006767718907895,
+        "clean_test_acc": 0.8566666666666667
+    },
+    "USCensus_uniform/v3462/mislabel/dirty/random_forest_classification/3659": {
+        "best_params": {
+            "max_depth": 17.0
+        },
+        "dirty_test_f1": 0.7543901997465452,
+        "dirty_test_acc": 0.8191111111111111,
+        "clean_test_f1": 0.8208063283432573,
+        "clean_test_acc": 0.8708888888888889
+    },
+    "USCensus_uniform/v2516/mislabel/dirty/random_forest_classification/3659": {
+        "best_params": {
+            "max_depth": 16.0
+        },
+        "dirty_test_f1": 0.7459437862627245,
+        "dirty_test_acc": 0.8151111111111111,
+        "clean_test_f1": 0.8089365420376948,
+        "clean_test_acc": 0.8635555555555555
+    },
+    "USCensus_uniform/v7813/mislabel/dirty/random_forest_classification/3659": {
+        "best_params": {
+            "max_depth": 15.0
+        },
+        "dirty_test_f1": 0.7484513644450352,
+        "dirty_test_acc": 0.8171111111111111,
+        "clean_test_f1": 0.8012122718144348,
+        "clean_test_acc": 0.866
+    },
+    "USCensus_uniform/v235/mislabel/dirty/random_forest_classification/3659": {
+        "best_params": {
+            "max_depth": 22.0
+        },
+        "dirty_test_f1": 0.7514494867299849,
+        "dirty_test_acc": 0.8117777777777778,
+        "clean_test_f1": 0.8161533503719962,
+        "clean_test_acc": 0.8642222222222222
+    },
+    "USCensus_uniform/v5192/mislabel/dirty/random_forest_classification/3659": {
+        "best_params": {
+            "max_depth": 15.0
+        },
+        "dirty_test_f1": 0.7628773018811734,
+        "dirty_test_acc": 0.822,
+        "clean_test_f1": 0.8197183648335434,
+        "clean_test_acc": 0.8704444444444445
+    },
+    "USCensus_uniform/v5396/mislabel/dirty/random_forest_classification/3659": {
+        "best_params": {
+            "max_depth": 15.0
+        },
+        "dirty_test_f1": 0.7395428875497677,
+        "dirty_test_acc": 0.8048888888888889,
+        "clean_test_f1": 0.8045425886811173,
+        "clean_test_acc": 0.8586666666666667
+    },
+    "USCensus_uniform/v905/mislabel/dirty/random_forest_classification/3659": {
+        "best_params": {
+            "max_depth": 14.0
+        },
+        "dirty_test_f1": 0.7372059003737516,
+        "dirty_test_acc": 0.8102222222222222,
+        "clean_test_f1": 0.7917983897031272,
+        "clean_test_acc": 0.8491111111111111
+    },
+    "USCensus_uniform/v8093/mislabel/dirty/random_forest_classification/3659": {
+        "best_params": {
+            "max_depth": 14.0
+        },
+        "dirty_test_f1": 0.7452328635719314,
+        "dirty_test_acc": 0.8115555555555556,
+        "clean_test_f1": 0.803711023491082,
+        "clean_test_acc": 0.8573333333333333
+    },
+    "USCensus_uniform/v144/mislabel/dirty/random_forest_classification/3659": {
+        "best_params": {
+            "max_depth": 14.0
+        },
+        "dirty_test_f1": 0.7418430818335313,
+        "dirty_test_acc": 0.8126666666666666,
+        "clean_test_f1": 0.8007142857142857,
+        "clean_test_acc": 0.8622222222222222
+    },
+    "USCensus_uniform/v2962/mislabel/dirty/random_forest_classification/3659": {
+        "best_params": {
+            "max_depth": 21.0
+        },
+        "dirty_test_f1": 0.7692831138580352,
+        "dirty_test_acc": 0.8286666666666667,
+        "clean_test_f1": 0.8258556227015945,
+        "clean_test_acc": 0.8711111111111111
+    },
+    "USCensus_uniform/v7751/mislabel/dirty/random_forest_classification/3659": {
+        "best_params": {
+            "max_depth": 21.0
+        },
+        "dirty_test_f1": 0.7461492723900258,
+        "dirty_test_acc": 0.8095555555555556,
+        "clean_test_f1": 0.8206115580735635,
+        "clean_test_acc": 0.8675555555555555
+    },
+    "USCensus_uniform/v2895/mislabel/dirty/random_forest_classification/3659": {
+        "best_params": {
+            "max_depth": 12.0
+        },
+        "dirty_test_f1": 0.7539328834422248,
+        "dirty_test_acc": 0.8231111111111111,
+        "clean_test_f1": 0.8060467468636242,
+        "clean_test_acc": 0.862
+    },
+    "USCensus_uniform/v4764/mislabel/dirty/random_forest_classification/3659": {
+        "best_params": {
+            "max_depth": 12.0
+        },
+        "dirty_test_f1": 0.7372801416070571,
+        "dirty_test_acc": 0.8091111111111111,
+        "clean_test_f1": 0.7958530752596575,
+        "clean_test_acc": 0.8553333333333333
+    },
+    "USCensus_uniform/v8444/mislabel/dirty/random_forest_classification/3659": {
+        "best_params": {
+            "max_depth": 16.0
+        },
+        "dirty_test_f1": 0.7528925401203912,
+        "dirty_test_acc": 0.8173333333333334,
+        "clean_test_f1": 0.8027307233254388,
+        "clean_test_acc": 0.8566666666666667
+    },
+    "USCensus_uniform/v6542/mislabel/dirty/random_forest_classification/3659": {
+        "best_params": {
+            "max_depth": 14.0
+        },
+        "dirty_test_f1": 0.7598338082298566,
+        "dirty_test_acc": 0.824,
+        "clean_test_f1": 0.7989889727211067,
+        "clean_test_acc": 0.8575555555555555
+    },
+    "USCensus_uniform/v9394/mislabel/dirty/random_forest_classification/3659": {
+        "best_params": {
+            "max_depth": 18.0
+        },
+        "dirty_test_f1": 0.7577269576537111,
+        "dirty_test_acc": 0.8188888888888889,
+        "clean_test_f1": 0.8069523687355096,
+        "clean_test_acc": 0.8642222222222222
+    },
+    "USCensus_uniform/v5374/mislabel/dirty/adaboost_classification/3659": {
+        "best_params": {
+            "learning_rate": 1.7740601749993061
+        },
+        "dirty_test_f1": 0.7587981713085441,
+        "dirty_test_acc": 0.8117777777777778,
+        "clean_test_f1": 0.8111790168391076,
+        "clean_test_acc": 0.8557777777777777
+    },
+    "USCensus_uniform/v4225/mislabel/dirty/adaboost_classification/3659": {
+        "best_params": {
+            "learning_rate": 1.0594381544832825
+        },
+        "dirty_test_f1": 0.7638207934242192,
+        "dirty_test_acc": 0.8173333333333334,
+        "clean_test_f1": 0.8111181629591917,
+        "clean_test_acc": 0.8562222222222222
+    },
+    "USCensus_uniform/v5056/mislabel/dirty/adaboost_classification/3659": {
+        "best_params": {
+            "learning_rate": 0.9779022598596286
+        },
+        "dirty_test_f1": 0.7778050162719676,
+        "dirty_test_acc": 0.8231111111111111,
+        "clean_test_f1": 0.8204542169545421,
+        "clean_test_acc": 0.8586666666666667
+    },
+    "USCensus_uniform/v3562/mislabel/dirty/adaboost_classification/3659": {
+        "best_params": {
+            "learning_rate": 1.415411757648521
+        },
+        "dirty_test_f1": 0.761238188918623,
+        "dirty_test_acc": 0.8091111111111111,
+        "clean_test_f1": 0.8204600776196336,
+        "clean_test_acc": 0.8633333333333333
+    },
+    "USCensus_uniform/v3462/mislabel/dirty/adaboost_classification/3659": {
+        "best_params": {
+            "learning_rate": 0.5724091666960931
+        },
+        "dirty_test_f1": 0.7601598702748102,
+        "dirty_test_acc": 0.8157777777777778,
+        "clean_test_f1": 0.8153526849339845,
+        "clean_test_acc": 0.8615555555555555
+    },
+    "USCensus_uniform/v2516/mislabel/dirty/adaboost_classification/3659": {
+        "best_params": {
+            "learning_rate": 0.7486859454125512
+        },
+        "dirty_test_f1": 0.7604519854595246,
+        "dirty_test_acc": 0.8142222222222222,
+        "clean_test_f1": 0.8132650863078235,
+        "clean_test_acc": 0.8582222222222222
+    },
+    "USCensus_uniform/v7813/mislabel/dirty/adaboost_classification/3659": {
+        "best_params": {
+            "learning_rate": 1.0594381544832825
+        },
+        "dirty_test_f1": 0.7711105013523578,
+        "dirty_test_acc": 0.8197777777777778,
+        "clean_test_f1": 0.8119408248486049,
+        "clean_test_acc": 0.8611111111111112
+    },
+    "USCensus_uniform/v235/mislabel/dirty/adaboost_classification/3659": {
+        "best_params": {
+            "learning_rate": 1.7632829517118425
+        },
+        "dirty_test_f1": 0.7520796108534964,
+        "dirty_test_acc": 0.8153333333333334,
+        "clean_test_f1": 0.8057973011617408,
+        "clean_test_acc": 0.8584444444444445
+    },
+    "USCensus_uniform/v5192/mislabel/dirty/adaboost_classification/3659": {
+        "best_params": {
+            "learning_rate": 1.4810961094030906
+        },
+        "dirty_test_f1": 0.7610825474991604,
+        "dirty_test_acc": 0.8233333333333334,
+        "clean_test_f1": 0.816174164000251,
+        "clean_test_acc": 0.8697777777777778
+    },
+    "USCensus_uniform/v5396/mislabel/dirty/adaboost_classification/3659": {
+        "best_params": {
+            "learning_rate": 0.6022039126144434
+        },
+        "dirty_test_f1": 0.7494449932058267,
+        "dirty_test_acc": 0.8073333333333333,
+        "clean_test_f1": 0.8077487317331717,
+        "clean_test_acc": 0.8555555555555555
+    },
+    "USCensus_uniform/v905/mislabel/dirty/adaboost_classification/3659": {
+        "best_params": {
+            "learning_rate": 1.0594381544832825
+        },
+        "dirty_test_f1": 0.7677250284004968,
+        "dirty_test_acc": 0.8228888888888889,
+        "clean_test_f1": 0.8115256376523212,
+        "clean_test_acc": 0.8551111111111112
+    },
+    "USCensus_uniform/v8093/mislabel/dirty/adaboost_classification/3659": {
+        "best_params": {
+            "learning_rate": 1.9205422077974141
+        },
+        "dirty_test_f1": 0.7586015941341653,
+        "dirty_test_acc": 0.8128888888888889,
+        "clean_test_f1": 0.8155952749989595,
+        "clean_test_acc": 0.8591111111111112
+    },
+    "USCensus_uniform/v144/mislabel/dirty/adaboost_classification/3659": {
+        "best_params": {
+            "learning_rate": 1.9219784173659082
+        },
+        "dirty_test_f1": 0.7579086315448376,
+        "dirty_test_acc": 0.8093333333333333,
+        "clean_test_f1": 0.8132029681485897,
+        "clean_test_acc": 0.8597777777777778
+    },
+    "USCensus_uniform/v2962/mislabel/dirty/adaboost_classification/3659": {
+        "best_params": {
+            "learning_rate": 1.6275781422011981
+        },
+        "dirty_test_f1": 0.7561473442315653,
+        "dirty_test_acc": 0.8295555555555556,
+        "clean_test_f1": 0.8103401079010437,
+        "clean_test_acc": 0.8671111111111112
+    },
+    "USCensus_uniform/v7751/mislabel/dirty/adaboost_classification/3659": {
+        "best_params": {
+            "learning_rate": 1.0594381544832825
+        },
+        "dirty_test_f1": 0.7580018311916407,
+        "dirty_test_acc": 0.8095555555555556,
+        "clean_test_f1": 0.8151998151998152,
+        "clean_test_acc": 0.8577777777777778
+    },
+    "USCensus_uniform/v2895/mislabel/dirty/adaboost_classification/3659": {
+        "best_params": {
+            "learning_rate": 0.9470769848971723
+        },
+        "dirty_test_f1": 0.7699660626871396,
+        "dirty_test_acc": 0.8173333333333334,
+        "clean_test_f1": 0.8083602796503564,
+        "clean_test_acc": 0.8497777777777777
+    },
+    "USCensus_uniform/v4764/mislabel/dirty/adaboost_classification/3659": {
+        "best_params": {
+            "learning_rate": 1.2871965547496451
+        },
+        "dirty_test_f1": 0.7607811714513264,
+        "dirty_test_acc": 0.8053333333333333,
+        "clean_test_f1": 0.8142345420270289,
+        "clean_test_acc": 0.8517777777777777
+    },
+    "USCensus_uniform/v8444/mislabel/dirty/adaboost_classification/3659": {
+        "best_params": {
+            "learning_rate": 1.0594381544832825
+        },
+        "dirty_test_f1": 0.7694171141860374,
+        "dirty_test_acc": 0.8184444444444444,
+        "clean_test_f1": 0.8041054271041892,
+        "clean_test_acc": 0.8468888888888889
+    },
+    "USCensus_uniform/v6542/mislabel/dirty/adaboost_classification/3659": {
+        "best_params": {
+            "learning_rate": 1.3346140766049825
+        },
+        "dirty_test_f1": 0.7780286264991434,
+        "dirty_test_acc": 0.8231111111111111,
+        "clean_test_f1": 0.8116290224318041,
+        "clean_test_acc": 0.8535555555555555
+    },
+    "USCensus_uniform/v9394/mislabel/dirty/adaboost_classification/3659": {
+        "best_params": {
+            "learning_rate": 0.45572187981633555
+        },
+        "dirty_test_f1": 0.7652163433175024,
+        "dirty_test_acc": 0.8164444444444444,
+        "clean_test_f1": 0.7988252140936085,
+        "clean_test_acc": 0.8513333333333334
+    },
+    "USCensus_uniform/v5374/mislabel/dirty/XGBoost/3659": {
+        "best_params": {
+            "max_depth": 5.0
+        },
+        "dirty_test_f1": 0.7636449159759133,
+        "dirty_test_acc": 0.8197777777777778,
+        "clean_test_f1": 0.8196909466884237,
+        "clean_test_acc": 0.8662222222222222
+    },
+    "USCensus_uniform/v4225/mislabel/dirty/XGBoost/3659": {
+        "best_params": {
+            "max_depth": 5.0
+        },
+        "dirty_test_f1": 0.7679980865821574,
+        "dirty_test_acc": 0.8275555555555556,
+        "clean_test_f1": 0.8255522362022722,
+        "clean_test_acc": 0.872
+    },
+    "USCensus_uniform/v5056/mislabel/dirty/XGBoost/3659": {
+        "best_params": {
+            "max_depth": 4.0
+        },
+        "dirty_test_f1": 0.7739094042292668,
+        "dirty_test_acc": 0.8275555555555556,
+        "clean_test_f1": 0.8258650649701077,
+        "clean_test_acc": 0.8686666666666667
+    },
+    "USCensus_uniform/v3562/mislabel/dirty/XGBoost/3659": {
+        "best_params": {
+            "max_depth": 5.0
+        },
+        "dirty_test_f1": 0.7648478987203275,
+        "dirty_test_acc": 0.8142222222222222,
+        "clean_test_f1": 0.8197613534122923,
+        "clean_test_acc": 0.8642222222222222
+    },
+    "USCensus_uniform/v3462/mislabel/dirty/XGBoost/3659": {
+        "best_params": {
+            "max_depth": 6.0
+        },
+        "dirty_test_f1": 0.7718344071633856,
+        "dirty_test_acc": 0.8266666666666667,
+        "clean_test_f1": 0.8222241941779473,
+        "clean_test_acc": 0.8682222222222222
+    },
+    "USCensus_uniform/v2516/mislabel/dirty/XGBoost/3659": {
+        "best_params": {
+            "max_depth": 5.0
+        },
+        "dirty_test_f1": 0.7603573825369163,
+        "dirty_test_acc": 0.818,
+        "clean_test_f1": 0.8247345516688636,
+        "clean_test_acc": 0.8693333333333333
+    },
+    "USCensus_uniform/v7813/mislabel/dirty/XGBoost/3659": {
+        "best_params": {
+            "max_depth": 7.0
+        },
+        "dirty_test_f1": 0.7587981713085441,
+        "dirty_test_acc": 0.8117777777777778,
+        "clean_test_f1": 0.8256407322724094,
+        "clean_test_acc": 0.8726666666666667
+    },
+    "USCensus_uniform/v235/mislabel/dirty/XGBoost/3659": {
+        "best_params": {
+            "max_depth": 4.0
+        },
+        "dirty_test_f1": 0.7598048720083552,
+        "dirty_test_acc": 0.818,
+        "clean_test_f1": 0.8077282993252136,
+        "clean_test_acc": 0.858
+    },
+    "USCensus_uniform/v5192/mislabel/dirty/XGBoost/3659": {
+        "best_params": {
+            "max_depth": 5.0
+        },
+        "dirty_test_f1": 0.7672604669887279,
+        "dirty_test_acc": 0.8191111111111111,
+        "clean_test_f1": 0.8232973255419496,
+        "clean_test_acc": 0.8682222222222222
+    },
+    "USCensus_uniform/v5396/mislabel/dirty/XGBoost/3659": {
+        "best_params": {
+            "max_depth": 6.0
+        },
+        "dirty_test_f1": 0.7622421781867867,
+        "dirty_test_acc": 0.8151111111111111,
+        "clean_test_f1": 0.8210484098928872,
+        "clean_test_acc": 0.8644444444444445
+    },
+    "USCensus_uniform/v905/mislabel/dirty/XGBoost/3659": {
+        "best_params": {
+            "max_depth": 4.0
+        },
+        "dirty_test_f1": 0.7549568300489481,
+        "dirty_test_acc": 0.816,
+        "clean_test_f1": 0.812770050744419,
+        "clean_test_acc": 0.8586666666666667
+    },
+    "USCensus_uniform/v8093/mislabel/dirty/XGBoost/3659": {
+        "best_params": {
+            "max_depth": 7.0
+        },
+        "dirty_test_f1": 0.761966577705455,
+        "dirty_test_acc": 0.816,
+        "clean_test_f1": 0.8281484032714113,
+        "clean_test_acc": 0.8691111111111111
+    },
+    "USCensus_uniform/v144/mislabel/dirty/XGBoost/3659": {
+        "best_params": {
+            "max_depth": 5.0
+        },
+        "dirty_test_f1": 0.7676819973831999,
+        "dirty_test_acc": 0.8215555555555556,
+        "clean_test_f1": 0.8262493161039193,
+        "clean_test_acc": 0.8731111111111111
+    },
+    "USCensus_uniform/v2962/mislabel/dirty/XGBoost/3659": {
+        "best_params": {
+            "max_depth": 6.0
+        },
+        "dirty_test_f1": 0.7845944579203142,
+        "dirty_test_acc": 0.8377777777777777,
+        "clean_test_f1": 0.8259838358318619,
+        "clean_test_acc": 0.8693333333333333
+    },
+    "USCensus_uniform/v7751/mislabel/dirty/XGBoost/3659": {
+        "best_params": {
+            "max_depth": 4.0
+        },
+        "dirty_test_f1": 0.7501987854735317,
+        "dirty_test_acc": 0.8106666666666666,
+        "clean_test_f1": 0.8099691940276943,
+        "clean_test_acc": 0.8586666666666667
+    },
+    "USCensus_uniform/v2895/mislabel/dirty/XGBoost/3659": {
+        "best_params": {
+            "max_depth": 4.0
+        },
+        "dirty_test_f1": 0.7721551864745856,
+        "dirty_test_acc": 0.8253333333333334,
+        "clean_test_f1": 0.815606589927788,
+        "clean_test_acc": 0.86
+    },
+    "USCensus_uniform/v4764/mislabel/dirty/XGBoost/3659": {
+        "best_params": {
+            "max_depth": 7.0
+        },
+        "dirty_test_f1": 0.7627807873410531,
+        "dirty_test_acc": 0.814,
+        "clean_test_f1": 0.8263602106132563,
+        "clean_test_acc": 0.8671111111111112
+    },
+    "USCensus_uniform/v8444/mislabel/dirty/XGBoost/3659": {
+        "best_params": {
+            "max_depth": 6.0
+        },
+        "dirty_test_f1": 0.7647676251764406,
+        "dirty_test_acc": 0.8208888888888889,
+        "clean_test_f1": 0.8172134095555388,
+        "clean_test_acc": 0.8626666666666667
+    },
+    "USCensus_uniform/v6542/mislabel/dirty/XGBoost/3659": {
+        "best_params": {
+            "max_depth": 5.0
+        },
+        "dirty_test_f1": 0.784425932520862,
+        "dirty_test_acc": 0.8351111111111111,
+        "clean_test_f1": 0.8198837578162385,
+        "clean_test_acc": 0.866
+    },
+    "USCensus_uniform/v9394/mislabel/dirty/XGBoost/3659": {
+        "best_params": {
+            "max_depth": 6.0
+        },
+        "dirty_test_f1": 0.7691731300193143,
+        "dirty_test_acc": 0.8197777777777778,
+        "clean_test_f1": 0.8167738209435558,
+        "clean_test_acc": 0.8648888888888889
+    },
+    "USCensus_uniform/v5374/mislabel/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7171122174892985,
+        "dirty_test_acc": 0.7957777777777778,
+        "clean_test_f1": 0.7792114695340502,
+        "clean_test_acc": 0.846
+    },
+    "USCensus_uniform/v4225/mislabel/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7164441658779648,
+        "dirty_test_acc": 0.7993333333333333,
+        "clean_test_f1": 0.7843520939878261,
+        "clean_test_acc": 0.8482222222222222
+    },
+    "USCensus_uniform/v5056/mislabel/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7419732003809367,
+        "dirty_test_acc": 0.8,
+        "clean_test_f1": 0.8006222252121117,
+        "clean_test_acc": 0.8486666666666667
+    },
+    "USCensus_uniform/v3562/mislabel/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7275857425419647,
+        "dirty_test_acc": 0.7931111111111111,
+        "clean_test_f1": 0.7904919316254186,
+        "clean_test_acc": 0.8513333333333334
+    },
+    "USCensus_uniform/v3462/mislabel/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7177683668222625,
+        "dirty_test_acc": 0.7893333333333333,
+        "clean_test_f1": 0.7818367000509252,
+        "clean_test_acc": 0.8413333333333334
+    },
+    "USCensus_uniform/v2516/mislabel/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7339673435360532,
+        "dirty_test_acc": 0.7988888888888889,
+        "clean_test_f1": 0.8043350520784371,
+        "clean_test_acc": 0.8573333333333333
+    },
+    "USCensus_uniform/v7813/mislabel/dirty/MLP/3659": {
+        "dirty_test_f1": 0.724911971830986,
+        "dirty_test_acc": 0.7977777777777778,
+        "clean_test_f1": 0.7841367906063581,
+        "clean_test_acc": 0.8517777777777777
+    },
+    "USCensus_uniform/v235/mislabel/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7218336158469336,
+        "dirty_test_acc": 0.7935555555555556,
+        "clean_test_f1": 0.7917471901817045,
+        "clean_test_acc": 0.8484444444444444
+    },
+    "USCensus_uniform/v5192/mislabel/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7198850428199832,
+        "dirty_test_acc": 0.7951111111111111,
+        "clean_test_f1": 0.7934374451658185,
+        "clean_test_acc": 0.8546666666666667
+    },
+    "USCensus_uniform/v5396/mislabel/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7043026974835556,
+        "dirty_test_acc": 0.7822222222222223,
+        "clean_test_f1": 0.7931368445151985,
+        "clean_test_acc": 0.8531111111111112
+    },
+    "USCensus_uniform/v905/mislabel/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7165249269080938,
+        "dirty_test_acc": 0.79,
+        "clean_test_f1": 0.7861188072862126,
+        "clean_test_acc": 0.8415555555555555
+    },
+    "USCensus_uniform/v8093/mislabel/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7268907940912479,
+        "dirty_test_acc": 0.7975555555555556,
+        "clean_test_f1": 0.7875370778576163,
+        "clean_test_acc": 0.8448888888888889
+    },
+    "USCensus_uniform/v144/mislabel/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7340763878689434,
+        "dirty_test_acc": 0.8022222222222222,
+        "clean_test_f1": 0.7928849220782854,
+        "clean_test_acc": 0.8537777777777777
+    },
+    "USCensus_uniform/v2962/mislabel/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7285897003860058,
+        "dirty_test_acc": 0.804,
+        "clean_test_f1": 0.8032358970553386,
+        "clean_test_acc": 0.8591111111111112
+    },
+    "USCensus_uniform/v7751/mislabel/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7248062572788313,
+        "dirty_test_acc": 0.7873333333333333,
+        "clean_test_f1": 0.791629068872826,
+        "clean_test_acc": 0.844
+    },
+    "USCensus_uniform/v2895/mislabel/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7382587681302375,
+        "dirty_test_acc": 0.8071111111111111,
+        "clean_test_f1": 0.7918467020749789,
+        "clean_test_acc": 0.8475555555555555
+    },
+    "USCensus_uniform/v4764/mislabel/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7281412532425016,
+        "dirty_test_acc": 0.7857777777777778,
+        "clean_test_f1": 0.79024118298944,
+        "clean_test_acc": 0.8393333333333334
+    },
+    "USCensus_uniform/v8444/mislabel/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7297454353764068,
+        "dirty_test_acc": 0.7942222222222223,
+        "clean_test_f1": 0.7875911583864867,
+        "clean_test_acc": 0.8393333333333334
+    },
+    "USCensus_uniform/v6542/mislabel/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7387985927255927,
+        "dirty_test_acc": 0.8008888888888889,
+        "clean_test_f1": 0.788184177176996,
+        "clean_test_acc": 0.844
+    },
+    "USCensus_uniform/v9394/mislabel/dirty/MLP/3659": {
+        "dirty_test_f1": 0.7406636370560309,
+        "dirty_test_acc": 0.7982222222222223,
+        "clean_test_f1": 0.7953408536080593,
+        "clean_test_acc": 0.8504444444444444
+    }
+}

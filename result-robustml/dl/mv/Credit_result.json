@@ -1,0 +1,82 @@
+{
+    "Credit/v3462/missing_values/dirty/MLP/3659": {
+        "missingkept_test_f1": 0.6034892942109437,
+        "missingkept_test_acc": 0.7875555555555556
+    },
+    "Credit/v3562/missing_values/dirty/MLP/3659": {
+        "missingkept_test_f1": 0.5730574112210558,
+        "missingkept_test_acc": 0.7771111111111111
+    },
+    "Credit/v905/missing_values/dirty/MLP/3659": {
+        "missingkept_test_f1": 0.5857755646307562,
+        "missingkept_test_acc": 0.7744444444444445
+    },
+    "Credit/v5056/missing_values/dirty/MLP/3659": {
+        "missingkept_test_f1": 0.6292518046803555,
+        "missingkept_test_acc": 0.8353333333333334
+    },
+    "Credit/v5374/missing_values/dirty/MLP/3659": {
+        "missingkept_test_f1": 0.6124396980269191,
+        "missingkept_test_acc": 0.8062222222222222
+    },
+    "Credit/v144/missing_values/dirty/MLP/3659": {
+        "missingkept_test_f1": 0.6188321678129223,
+        "missingkept_test_acc": 0.8153333333333334
+    },
+    "Credit/v4225/missing_values/dirty/MLP/3659": {
+        "missingkept_test_f1": 0.5411299765807962,
+        "missingkept_test_acc": 0.7213333333333334
+    },
+    "Credit/v7813/missing_values/dirty/MLP/3659": {
+        "missingkept_test_f1": 0.584313725490196,
+        "missingkept_test_acc": 0.788
+    },
+    "Credit/v2516/missing_values/dirty/MLP/3659": {
+        "missingkept_test_f1": 0.5850646029455076,
+        "missingkept_test_acc": 0.7984444444444444
+    },
+    "Credit/v2895/missing_values/dirty/MLP/3659": {
+        "missingkept_test_f1": 0.6044241862144362,
+        "missingkept_test_acc": 0.8091111111111111
+    },
+    "Credit/v4764/missing_values/dirty/MLP/3659": {
+        "missingkept_test_f1": 0.6271576524741082,
+        "missingkept_test_acc": 0.84
+    },
+    "Credit/v7751/missing_values/dirty/MLP/3659": {
+        "missingkept_test_f1": 0.6091912492882078,
+        "missingkept_test_acc": 0.8004444444444444
+    },
+    "Credit/v2962/missing_values/dirty/MLP/3659": {
+        "missingkept_test_f1": 0.61204794694276,
+        "missingkept_test_acc": 0.8157777777777778
+    },
+    "Credit/v8093/missing_values/dirty/MLP/3659": {
+        "missingkept_test_f1": 0.592605436250504,
+        "missingkept_test_acc": 0.8073333333333333
+    },
+    "Credit/v5192/missing_values/dirty/MLP/3659": {
+        "missingkept_test_f1": 0.5978224778829913,
+        "missingkept_test_acc": 0.8197777777777778
+    },
+    "Credit/v5396/missing_values/dirty/MLP/3659": {
+        "missingkept_test_f1": 0.5891051799337084,
+        "missingkept_test_acc": 0.7802222222222223
+    },
+    "Credit/v9394/missing_values/dirty/MLP/3659": {
+        "missingkept_test_f1": 0.5694503789838476,
+        "missingkept_test_acc": 0.7686666666666667
+    },
+    "Credit/v6542/missing_values/dirty/MLP/3659": {
+        "missingkept_test_f1": 0.5881387603750349,
+        "missingkept_test_acc": 0.7988888888888889
+    },
+    "Credit/v8444/missing_values/dirty/MLP/3659": {
+        "missingkept_test_f1": 0.6100245617782117,
+        "missingkept_test_acc": 0.8182222222222222
+    },
+    "Credit/v235/missing_values/dirty/MLP/3659": {
+        "missingkept_test_f1": 0.5875722553790075,
+        "missingkept_test_acc": 0.7913333333333333
+    }
+}
