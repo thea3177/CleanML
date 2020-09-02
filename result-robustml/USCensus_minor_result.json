@@ -1218,5 +1218,205 @@
         "dirty_test_acc": 0.8424444444444444,
         "clean_test_f1": 0.7989919422846637,
         "clean_test_acc": 0.8493333333333334
+    },
+    "USCensus_minor/v3562/mislabel/dirty/MLP/3659": {
+        "dirty_test_f1": 0.83,
+        "dirty_test_acc": 0.83,
+        "best_params": {
+            "lr": 0.00029086803330629306,
+            "momentum": 0.5033917224896152,
+            "optimizer": "SGD",
+            "hidden": 120
+        }
+    },
+    "USCensus_minor/v5056/mislabel/dirty/MLP/3659": {
+        "dirty_test_f1": 0.852,
+        "dirty_test_acc": 0.852,
+        "best_params": {
+            "lr": 1.9687263781643948e-05,
+            "momentum": 0.8099582910479499,
+            "optimizer": "RMSprop",
+            "hidden": 90
+        }
+    },
+    "USCensus_minor/v5374/mislabel/dirty/MLP/3659": {
+        "dirty_test_f1": 0.846,
+        "dirty_test_acc": 0.846,
+        "best_params": {
+            "lr": 0.0002926560026580567,
+            "momentum": 0.6754204388188312,
+            "optimizer": "SGD",
+            "hidden": 128
+        }
+    },
+    "USCensus_minor/v4225/mislabel/dirty/MLP/3659": {
+        "dirty_test_f1": 0.838,
+        "dirty_test_acc": 0.838,
+        "best_params": {
+            "lr": 0.0009984772461078702,
+            "momentum": 0.4823873110719599,
+            "optimizer": "SGD",
+            "hidden": 124
+        }
+    },
+    "USCensus_minor/v235/mislabel/dirty/MLP/3659": {
+        "dirty_test_f1": 0.824,
+        "dirty_test_acc": 0.824,
+        "best_params": {
+            "lr": 0.0015696648406124756,
+            "momentum": 0.6170790458230846,
+            "optimizer": "SGD",
+            "hidden": 78
+        }
+    },
+    "USCensus_minor/v3462/mislabel/dirty/MLP/3659": {
+        "dirty_test_f1": 0.834,
+        "dirty_test_acc": 0.834,
+        "best_params": {
+            "lr": 0.00011311271113026253,
+            "momentum": 0.6356725984163938,
+            "optimizer": "RMSprop",
+            "hidden": 86
+        }
+    },
+    "USCensus_minor/v7813/mislabel/dirty/MLP/3659": {
+        "dirty_test_f1": 0.856,
+        "dirty_test_acc": 0.856,
+        "best_params": {
+            "lr": 6.004067986868819e-05,
+            "momentum": 0.42310269842093795,
+            "optimizer": "RMSprop",
+            "hidden": 113
+        }
+    },
+    "USCensus_minor/v2516/mislabel/dirty/MLP/3659": {
+        "dirty_test_f1": 0.856,
+        "dirty_test_acc": 0.856,
+        "best_params": {
+            "lr": 0.00024485482371945573,
+            "momentum": 0.7037379404354368,
+            "optimizer": "RMSprop",
+            "hidden": 75
+        }
+    },
+    "USCensus_minor/v2962/mislabel/dirty/MLP/3659": {
+        "dirty_test_f1": 0.838,
+        "dirty_test_acc": 0.838,
+        "best_params": {
+            "lr": 0.0027454794888536424,
+            "momentum": 0.5538644451619232,
+            "optimizer": "SGD",
+            "hidden": 127
+        }
+    },
+    "USCensus_minor/v8093/mislabel/dirty/MLP/3659": {
+        "dirty_test_f1": 0.828,
+        "dirty_test_acc": 0.828,
+        "best_params": {
+            "lr": 0.00011688623616545996,
+            "momentum": 0.6600480732865972,
+            "optimizer": "RMSprop",
+            "hidden": 80
+        }
+    },
+    "USCensus_minor/v5192/mislabel/dirty/MLP/3659": {
+        "dirty_test_f1": 0.862,
+        "dirty_test_acc": 0.862,
+        "best_params": {
+            "lr": 8.413841517063068e-05,
+            "momentum": 0.4134401469103078,
+            "optimizer": "RMSprop",
+            "hidden": 88
+        }
+    },
+    "USCensus_minor/v5396/mislabel/dirty/MLP/3659": {
+        "dirty_test_f1": 0.87,
+        "dirty_test_acc": 0.87,
+        "best_params": {
+            "lr": 0.003721375666112526,
+            "momentum": 0.5562811776959835,
+            "optimizer": "SGD",
+            "hidden": 97
+        }
+    },
+    "USCensus_minor/v2895/mislabel/dirty/MLP/3659": {
+        "dirty_test_f1": 0.834,
+        "dirty_test_acc": 0.834,
+        "best_params": {
+            "lr": 0.0004285578613651619,
+            "momentum": 0.41134943311651884,
+            "optimizer": "RMSprop",
+            "hidden": 86
+        }
+    },
+    "USCensus_minor/v4764/mislabel/dirty/MLP/3659": {
+        "dirty_test_f1": 0.852,
+        "dirty_test_acc": 0.852,
+        "best_params": {
+            "lr": 0.0011168260785860001,
+            "momentum": 0.685590791972275,
+            "optimizer": "RMSprop",
+            "hidden": 90
+        }
+    },
+    "USCensus_minor/v7751/mislabel/dirty/MLP/3659": {
+        "dirty_test_f1": 0.87,
+        "dirty_test_acc": 0.87,
+        "best_params": {
+            "lr": 0.0023329661136955596,
+            "momentum": 0.9010674522199362,
+            "optimizer": "SGD",
+            "hidden": 118
+        }
+    },
+    "USCensus_minor/v6542/mislabel/dirty/MLP/3659": {
+        "dirty_test_f1": 0.832,
+        "dirty_test_acc": 0.832,
+        "best_params": {
+            "lr": 0.0003199593683672765,
+            "momentum": 0.7691326373676443,
+            "optimizer": "RMSprop",
+            "hidden": 76
+        }
+    },
+    "USCensus_minor/v8444/mislabel/dirty/MLP/3659": {
+        "dirty_test_f1": 0.84,
+        "dirty_test_acc": 0.84,
+        "best_params": {
+            "lr": 0.000645788584694286,
+            "momentum": 0.9324835023245122,
+            "optimizer": "RMSprop",
+            "hidden": 71
+        }
+    },
+    "USCensus_minor/v144/mislabel/dirty/MLP/3659": {
+        "dirty_test_f1": 0.832,
+        "dirty_test_acc": 0.832,
+        "best_params": {
+            "lr": 1.3511095770396194e-05,
+            "momentum": 0.9292364828314924,
+            "optimizer": "RMSprop",
+            "hidden": 89
+        }
+    },
+    "USCensus_minor/v9394/mislabel/dirty/MLP/3659": {
+        "dirty_test_f1": 0.846,
+        "dirty_test_acc": 0.846,
+        "best_params": {
+            "lr": 1.5060547114869465e-05,
+            "momentum": 0.7736267562320335,
+            "optimizer": "RMSprop",
+            "hidden": 85
+        }
+    },
+    "USCensus_minor/v905/mislabel/dirty/MLP/3659": {
+        "dirty_test_f1": 0.832,
+        "dirty_test_acc": 0.832,
+        "best_params": {
+            "lr": 0.0004663366971498126,
+            "momentum": 0.7773784684126487,
+            "optimizer": "SGD",
+            "hidden": 92
+        }
     }
 }
