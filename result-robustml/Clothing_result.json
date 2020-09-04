@@ -1,0 +1,2642 @@
+{
+    "Clothing/v235/mislabel/dirty/logistic_regression/3659": {
+        "best_params": {
+            "C": 0.0057110639597241185
+        },
+        "train_acc": 0.6407142857142857,
+        "val_acc": 0.4048571428571428,
+        "dirty_test_acc": 0.424,
+        "clean_test_acc": 0.4593333333333333
+    },
+    "Clothing/v235/mislabel/dirty/knn_classification/3659": {
+        "best_params": {
+            "n_neighbors": 39.0
+        },
+        "train_acc": 0.3673571428571428,
+        "val_acc": 0.3057142857142857,
+        "dirty_test_acc": 0.32266666666666666,
+        "clean_test_acc": 0.3253333333333333
+    },
+    "Clothing/v235/mislabel/dirty/decision_tree_classification/3659": {
+        "best_params": {
+            "max_depth": 4.0
+        },
+        "train_acc": 0.2596428571428571,
+        "val_acc": 0.22200000000000003,
+        "dirty_test_acc": 0.23,
+        "clean_test_acc": 0.23
+    },
+    "Clothing/v235/mislabel/dirty/adaboost_classification/3659": {
+        "best_params": {
+            "learning_rate": 0.13702597430209296
+        },
+        "train_acc": 0.3568571428571429,
+        "val_acc": 0.304,
+        "dirty_test_acc": 0.30666666666666664,
+        "clean_test_acc": 0.30533333333333335
+    },
+    "Clothing/v235/mislabel/dirty/random_forest_classification/3659": {
+        "best_params": {
+            "max_depth": 94.0
+        },
+        "train_acc": 1.0,
+        "val_acc": 0.3411428571428571,
+        "dirty_test_acc": 0.3373333333333333,
+        "clean_test_acc": 0.3566666666666667
+    },
+    "Clothing/v235/mislabel/dirty/guassian_naive_bayes/3659": {
+        "best_params": {},
+        "train_acc": 0.4074285714285714,
+        "val_acc": 0.3271428571428571,
+        "dirty_test_acc": 0.3453333333333333,
+        "clean_test_acc": 0.4046666666666667
+    },
+    "Clothing/v235/mislabel/dirty/XGBoost/3659": {
+        "best_params": {
+            "max_depth": 4.0
+        },
+        "train_acc": 1.0,
+        "val_acc": 0.3691428571428571,
+        "dirty_test_acc": 0.4093333333333333,
+        "clean_test_acc": 0.43
+    },
+    "Clothing/v235/mislabel/clean/logistic_regression/3659": {
+        "best_params": {
+            "C": 0.0057110639597241185
+        },
+        "train_acc": 0.7224999999999999,
+        "val_acc": 0.5134285714285715,
+        "dirty_test_acc": 0.4033333333333333,
+        "clean_test_acc": 0.5233333333333333
+    },
+    "Clothing/v235/mislabel/clean/knn_classification/3659": {
+        "best_params": {
+            "n_neighbors": 54.0
+        },
+        "train_acc": 0.44485714285714284,
+        "val_acc": 0.40285714285714286,
+        "dirty_test_acc": 0.282,
+        "clean_test_acc": 0.4026666666666667
+    },
+    "Clothing/v235/mislabel/clean/decision_tree_classification/3659": {
+        "best_params": {
+            "max_depth": 6.0
+        },
+        "train_acc": 0.37292857142857144,
+        "val_acc": 0.27314285714285713,
+        "dirty_test_acc": 0.20533333333333334,
+        "clean_test_acc": 0.264
+    },
+    "Clothing/v235/mislabel/clean/adaboost_classification/3659": {
+        "best_params": {
+            "learning_rate": 0.13702597430209296
+        },
+        "train_acc": 0.4468571428571428,
+        "val_acc": 0.38571428571428573,
+        "dirty_test_acc": 0.31866666666666665,
+        "clean_test_acc": 0.4046666666666667
+    },
+    "Clothing/v235/mislabel/clean/random_forest_classification/3659": {
+        "best_params": {
+            "max_depth": 71.0
+        },
+        "train_acc": 1.0,
+        "val_acc": 0.43200000000000005,
+        "dirty_test_acc": 0.31466666666666665,
+        "clean_test_acc": 0.43066666666666664
+    },
+    "Clothing/v235/mislabel/clean/guassian_naive_bayes/3659": {
+        "best_params": {},
+        "train_acc": 0.494,
+        "val_acc": 0.41657142857142854,
+        "dirty_test_acc": 0.33866666666666667,
+        "clean_test_acc": 0.428
+    },
+    "Clothing/v235/mislabel/clean/XGBoost/3659": {
+        "best_params": {
+            "max_depth": 54.0
+        },
+        "train_acc": 1.0,
+        "val_acc": 0.4682857142857143,
+        "dirty_test_acc": 0.358,
+        "clean_test_acc": 0.4806666666666667
+    },
+    "Clothing/v5192/mislabel/dirty/logistic_regression/3659": {
+        "best_params": {
+            "C": 0.0029327085198583313
+        },
+        "train_acc": 0.587,
+        "val_acc": 0.41600000000000004,
+        "dirty_test_acc": 0.4013333333333333,
+        "clean_test_acc": 0.43266666666666664
+    },
+    "Clothing/v5192/mislabel/dirty/knn_classification/3659": {
+        "best_params": {
+            "n_neighbors": 75.0
+        },
+        "train_acc": 0.34971428571428576,
+        "val_acc": 0.31542857142857145,
+        "dirty_test_acc": 0.316,
+        "clean_test_acc": 0.33066666666666666
+    },
+    "Clothing/v5192/mislabel/dirty/decision_tree_classification/3659": {
+        "best_params": {
+            "max_depth": 6.0
+        },
+        "train_acc": 0.3445714285714286,
+        "val_acc": 0.2137142857142857,
+        "dirty_test_acc": 0.21266666666666667,
+        "clean_test_acc": 0.22666666666666666
+    },
+    "Clothing/v5192/mislabel/dirty/adaboost_classification/3659": {
+        "best_params": {
+            "learning_rate": 0.12864014641512478
+        },
+        "train_acc": 0.35642857142857143,
+        "val_acc": 0.30742857142857144,
+        "dirty_test_acc": 0.31866666666666665,
+        "clean_test_acc": 0.31266666666666665
+    },
+    "Clothing/v5192/mislabel/dirty/random_forest_classification/3659": {
+        "best_params": {
+            "max_depth": 54.0
+        },
+        "train_acc": 1.0,
+        "val_acc": 0.3517142857142857,
+        "dirty_test_acc": 0.3353333333333333,
+        "clean_test_acc": 0.348
+    },
+    "Clothing/v5192/mislabel/dirty/guassian_naive_bayes/3659": {
+        "best_params": {},
+        "train_acc": 0.4114285714285714,
+        "val_acc": 0.3362857142857143,
+        "dirty_test_acc": 0.3313333333333333,
+        "clean_test_acc": 0.38066666666666665
+    },
+    "Clothing/v5192/mislabel/dirty/XGBoost/3659": {
+        "best_params": {
+            "max_depth": 10.0
+        },
+        "train_acc": 1.0,
+        "val_acc": 0.3811428571428571,
+        "dirty_test_acc": 0.36133333333333334,
+        "clean_test_acc": 0.39266666666666666
+    },
+    "Clothing/v5192/mislabel/clean/logistic_regression/3659": {
+        "best_params": {
+            "C": 0.0057110639597241185
+        },
+        "train_acc": 0.7228571428571429,
+        "val_acc": 0.5131428571428571,
+        "dirty_test_acc": 0.39666666666666667,
+        "clean_test_acc": 0.5173333333333333
+    },
+    "Clothing/v5192/mislabel/clean/knn_classification/3659": {
+        "best_params": {
+            "n_neighbors": 31.0
+        },
+        "train_acc": 0.46492857142857147,
+        "val_acc": 0.40371428571428575,
+        "dirty_test_acc": 0.28,
+        "clean_test_acc": 0.38333333333333336
+    },
+    "Clothing/v5192/mislabel/clean/decision_tree_classification/3659": {
+        "best_params": {
+            "max_depth": 7.0
+        },
+        "train_acc": 0.4470714285714286,
+        "val_acc": 0.2582857142857143,
+        "dirty_test_acc": 0.218,
+        "clean_test_acc": 0.28933333333333333
+    },
+    "Clothing/v5192/mislabel/clean/adaboost_classification/3659": {
+        "best_params": {
+            "learning_rate": 0.17556452957455665
+        },
+        "train_acc": 0.4689285714285714,
+        "val_acc": 0.39771428571428574,
+        "dirty_test_acc": 0.324,
+        "clean_test_acc": 0.43266666666666664
+    },
+    "Clothing/v5192/mislabel/clean/random_forest_classification/3659": {
+        "best_params": {
+            "max_depth": 39.0
+        },
+        "train_acc": 1.0,
+        "val_acc": 0.44314285714285717,
+        "dirty_test_acc": 0.32,
+        "clean_test_acc": 0.43866666666666665
+    },
+    "Clothing/v5192/mislabel/clean/guassian_naive_bayes/3659": {
+        "best_params": {},
+        "train_acc": 0.5031428571428571,
+        "val_acc": 0.4185714285714286,
+        "dirty_test_acc": 0.31866666666666665,
+        "clean_test_acc": 0.4166666666666667
+    },
+    "Clothing/v5192/mislabel/clean/XGBoost/3659": {
+        "best_params": {
+            "max_depth": 5.0
+        },
+        "train_acc": 1.0,
+        "val_acc": 0.47371428571428575,
+        "dirty_test_acc": 0.3526666666666667,
+        "clean_test_acc": 0.47733333333333333
+    },
+    "Clothing/v905/mislabel/dirty/logistic_regression/3659": {
+        "best_params": {
+            "C": 0.0029327085198583313
+        },
+        "train_acc": 0.5850714285714286,
+        "val_acc": 0.40514285714285714,
+        "dirty_test_acc": 0.4106666666666667,
+        "clean_test_acc": 0.42333333333333334
+    },
+    "Clothing/v905/mislabel/dirty/knn_classification/3659": {
+        "best_params": {
+            "n_neighbors": 74.0
+        },
+        "train_acc": 0.35207142857142854,
+        "val_acc": 0.31485714285714284,
+        "dirty_test_acc": 0.31466666666666665,
+        "clean_test_acc": 0.328
+    },
+    "Clothing/v905/mislabel/dirty/decision_tree_classification/3659": {
+        "best_params": {
+            "max_depth": 6.0
+        },
+        "train_acc": 0.3450714285714286,
+        "val_acc": 0.21400000000000002,
+        "dirty_test_acc": 0.22933333333333333,
+        "clean_test_acc": 0.22533333333333333
+    },
+    "Clothing/v905/mislabel/dirty/adaboost_classification/3659": {
+        "best_params": {
+            "learning_rate": 0.11775669666586115
+        },
+        "train_acc": 0.35292857142857137,
+        "val_acc": 0.30028571428571427,
+        "dirty_test_acc": 0.30733333333333335,
+        "clean_test_acc": 0.29733333333333334
+    },
+    "Clothing/v905/mislabel/dirty/random_forest_classification/3659": {
+        "best_params": {
+            "max_depth": 21.0
+        },
+        "train_acc": 1.0,
+        "val_acc": 0.3405714285714286,
+        "dirty_test_acc": 0.33466666666666667,
+        "clean_test_acc": 0.3293333333333333
+    },
+    "Clothing/v905/mislabel/dirty/guassian_naive_bayes/3659": {
+        "best_params": {},
+        "train_acc": 0.4062857142857143,
+        "val_acc": 0.33428571428571424,
+        "dirty_test_acc": 0.3486666666666667,
+        "clean_test_acc": 0.3993333333333333
+    },
+    "Clothing/v905/mislabel/dirty/XGBoost/3659": {
+        "best_params": {
+            "max_depth": 6.0
+        },
+        "train_acc": 1.0,
+        "val_acc": 0.36714285714285716,
+        "dirty_test_acc": 0.38666666666666666,
+        "clean_test_acc": 0.39466666666666667
+    },
+    "Clothing/v905/mislabel/clean/logistic_regression/3659": {
+        "best_params": {
+            "C": 0.004321886239791225
+        },
+        "train_acc": 0.6972142857142857,
+        "val_acc": 0.5077142857142858,
+        "dirty_test_acc": 0.39666666666666667,
+        "clean_test_acc": 0.524
+    },
+    "Clothing/v905/mislabel/clean/knn_classification/3659": {
+        "best_params": {
+            "n_neighbors": 29.0
+        },
+        "train_acc": 0.4680714285714286,
+        "val_acc": 0.40428571428571425,
+        "dirty_test_acc": 0.29733333333333334,
+        "clean_test_acc": 0.418
+    },
+    "Clothing/v905/mislabel/clean/decision_tree_classification/3659": {
+        "best_params": {
+            "max_depth": 6.0
+        },
+        "train_acc": 0.38699999999999996,
+        "val_acc": 0.2631428571428572,
+        "dirty_test_acc": 0.21266666666666667,
+        "clean_test_acc": 0.274
+    },
+    "Clothing/v905/mislabel/clean/adaboost_classification/3659": {
+        "best_params": {
+            "learning_rate": 0.19483380721078847
+        },
+        "train_acc": 0.46621428571428564,
+        "val_acc": 0.39514285714285713,
+        "dirty_test_acc": 0.31533333333333335,
+        "clean_test_acc": 0.3973333333333333
+    },
+    "Clothing/v905/mislabel/clean/random_forest_classification/3659": {
+        "best_params": {
+            "max_depth": 97.0
+        },
+        "train_acc": 1.0,
+        "val_acc": 0.4394285714285714,
+        "dirty_test_acc": 0.31333333333333335,
+        "clean_test_acc": 0.446
+    },
+    "Clothing/v905/mislabel/clean/guassian_naive_bayes/3659": {
+        "best_params": {},
+        "train_acc": 0.4928571428571429,
+        "val_acc": 0.4174285714285714,
+        "dirty_test_acc": 0.31933333333333336,
+        "clean_test_acc": 0.404
+    },
+    "Clothing/v905/mislabel/clean/XGBoost/3659": {
+        "best_params": {
+            "max_depth": 8.0
+        },
+        "train_acc": 1.0,
+        "val_acc": 0.4708571428571429,
+        "dirty_test_acc": 0.368,
+        "clean_test_acc": 0.4846666666666667
+    },
+    "Clothing/v7813/mislabel/dirty/logistic_regression/3659": {
+        "best_params": {
+            "C": 0.0029327085198583313
+        },
+        "train_acc": 0.5839285714285715,
+        "val_acc": 0.4094285714285714,
+        "dirty_test_acc": 0.42333333333333334,
+        "clean_test_acc": 0.45266666666666666
+    },
+    "Clothing/v7813/mislabel/dirty/knn_classification/3659": {
+        "best_params": {
+            "n_neighbors": 81.0
+        },
+        "train_acc": 0.35271428571428565,
+        "val_acc": 0.3111428571428571,
+        "dirty_test_acc": 0.3426666666666667,
+        "clean_test_acc": 0.344
+    },
+    "Clothing/v7813/mislabel/dirty/decision_tree_classification/3659": {
+        "best_params": {
+            "max_depth": 5.0
+        },
+        "train_acc": 0.30578571428571427,
+        "val_acc": 0.2297142857142857,
+        "dirty_test_acc": 0.24,
+        "clean_test_acc": 0.23733333333333334
+    },
+    "Clothing/v7813/mislabel/dirty/adaboost_classification/3659": {
+        "best_params": {
+            "learning_rate": 0.11775669666586115
+        },
+        "train_acc": 0.3502142857142857,
+        "val_acc": 0.3048571428571429,
+        "dirty_test_acc": 0.31066666666666665,
+        "clean_test_acc": 0.2946666666666667
+    },
+    "Clothing/v7813/mislabel/dirty/random_forest_classification/3659": {
+        "best_params": {
+            "max_depth": 47.0
+        },
+        "train_acc": 1.0,
+        "val_acc": 0.3517142857142857,
+        "dirty_test_acc": 0.35133333333333333,
+        "clean_test_acc": 0.35733333333333334
+    },
+    "Clothing/v7813/mislabel/dirty/guassian_naive_bayes/3659": {
+        "best_params": {},
+        "train_acc": 0.414,
+        "val_acc": 0.33914285714285713,
+        "dirty_test_acc": 0.32133333333333336,
+        "clean_test_acc": 0.37733333333333335
+    },
+    "Clothing/v7813/mislabel/dirty/XGBoost/3659": {
+        "best_params": {
+            "max_depth": 34.0
+        },
+        "train_acc": 1.0,
+        "val_acc": 0.3708571428571429,
+        "dirty_test_acc": 0.37533333333333335,
+        "clean_test_acc": 0.41
+    },
+    "Clothing/v7813/mislabel/clean/logistic_regression/3659": {
+        "best_params": {
+            "C": 0.007100241679657011
+        },
+        "train_acc": 0.7437142857142858,
+        "val_acc": 0.5211428571428571,
+        "dirty_test_acc": 0.39666666666666667,
+        "clean_test_acc": 0.49266666666666664
+    },
+    "Clothing/v7813/mislabel/clean/knn_classification/3659": {
+        "best_params": {
+            "n_neighbors": 43.0
+        },
+        "train_acc": 0.45871428571428574,
+        "val_acc": 0.41514285714285715,
+        "dirty_test_acc": 0.29733333333333334,
+        "clean_test_acc": 0.412
+    },
+    "Clothing/v7813/mislabel/clean/decision_tree_classification/3659": {
+        "best_params": {
+            "max_depth": 7.0
+        },
+        "train_acc": 0.4385,
+        "val_acc": 0.2657142857142857,
+        "dirty_test_acc": 0.19133333333333333,
+        "clean_test_acc": 0.24533333333333332
+    },
+    "Clothing/v7813/mislabel/clean/adaboost_classification/3659": {
+        "best_params": {
+            "learning_rate": 0.13702597430209296
+        },
+        "train_acc": 0.4529285714285714,
+        "val_acc": 0.3974285714285714,
+        "dirty_test_acc": 0.31,
+        "clean_test_acc": 0.396
+    },
+    "Clothing/v7813/mislabel/clean/random_forest_classification/3659": {
+        "best_params": {
+            "max_depth": 47.0
+        },
+        "train_acc": 1.0,
+        "val_acc": 0.4445714285714287,
+        "dirty_test_acc": 0.33266666666666667,
+        "clean_test_acc": 0.42733333333333334
+    },
+    "Clothing/v7813/mislabel/clean/guassian_naive_bayes/3659": {
+        "best_params": {},
+        "train_acc": 0.5057142857142857,
+        "val_acc": 0.43342857142857144,
+        "dirty_test_acc": 0.322,
+        "clean_test_acc": 0.414
+    },
+    "Clothing/v7813/mislabel/clean/XGBoost/3659": {
+        "best_params": {
+            "max_depth": 5.0
+        },
+        "train_acc": 1.0,
+        "val_acc": 0.48085714285714287,
+        "dirty_test_acc": 0.364,
+        "clean_test_acc": 0.4806666666666667
+    },
+    "Clothing/v2895/mislabel/dirty/logistic_regression/3659": {
+        "best_params": {
+            "C": 0.0029327085198583313
+        },
+        "train_acc": 0.5800000000000001,
+        "val_acc": 0.4074285714285715,
+        "dirty_test_acc": 0.4086666666666667,
+        "clean_test_acc": 0.45
+    },
+    "Clothing/v2895/mislabel/dirty/knn_classification/3659": {
+        "best_params": {
+            "n_neighbors": 27.0
+        },
+        "train_acc": 0.39985714285714286,
+        "val_acc": 0.3151428571428571,
+        "dirty_test_acc": 0.31266666666666665,
+        "clean_test_acc": 0.3313333333333333
+    },
+    "Clothing/v2895/mislabel/dirty/decision_tree_classification/3659": {
+        "best_params": {
+            "max_depth": 4.0
+        },
+        "train_acc": 0.2640714285714286,
+        "val_acc": 0.22228571428571428,
+        "dirty_test_acc": 0.23,
+        "clean_test_acc": 0.19866666666666666
+    },
+    "Clothing/v2895/mislabel/dirty/adaboost_classification/3659": {
+        "best_params": {
+            "learning_rate": 0.11775669666586115
+        },
+        "train_acc": 0.3574285714285715,
+        "val_acc": 0.302,
+        "dirty_test_acc": 0.30333333333333334,
+        "clean_test_acc": 0.288
+    },
+    "Clothing/v2895/mislabel/dirty/random_forest_classification/3659": {
+        "best_params": {
+            "max_depth": 47.0
+        },
+        "train_acc": 1.0,
+        "val_acc": 0.34628571428571425,
+        "dirty_test_acc": 0.344,
+        "clean_test_acc": 0.342
+    },
+    "Clothing/v2895/mislabel/dirty/guassian_naive_bayes/3659": {
+        "best_params": {},
+        "train_acc": 0.4105714285714286,
+        "val_acc": 0.3354285714285714,
+        "dirty_test_acc": 0.3293333333333333,
+        "clean_test_acc": 0.38466666666666666
+    },
+    "Clothing/v2895/mislabel/dirty/XGBoost/3659": {
+        "best_params": {
+            "max_depth": 15.0
+        },
+        "train_acc": 1.0,
+        "val_acc": 0.3711428571428571,
+        "dirty_test_acc": 0.37466666666666665,
+        "clean_test_acc": 0.406
+    },
+    "Clothing/v2895/mislabel/clean/logistic_regression/3659": {
+        "best_params": {
+            "C": 0.0029327085198583313
+        },
+        "train_acc": 0.6724285714285714,
+        "val_acc": 0.5154285714285715,
+        "dirty_test_acc": 0.41133333333333333,
+        "clean_test_acc": 0.516
+    },
+    "Clothing/v2895/mislabel/clean/knn_classification/3659": {
+        "best_params": {
+            "n_neighbors": 46.0
+        },
+        "train_acc": 0.45285714285714296,
+        "val_acc": 0.40857142857142853,
+        "dirty_test_acc": 0.29733333333333334,
+        "clean_test_acc": 0.3993333333333333
+    },
+    "Clothing/v2895/mislabel/clean/decision_tree_classification/3659": {
+        "best_params": {
+            "max_depth": 6.0
+        },
+        "train_acc": 0.38114285714285717,
+        "val_acc": 0.28114285714285714,
+        "dirty_test_acc": 0.21466666666666667,
+        "clean_test_acc": 0.26666666666666666
+    },
+    "Clothing/v2895/mislabel/clean/adaboost_classification/3659": {
+        "best_params": {
+            "learning_rate": 0.2333723624832521
+        },
+        "train_acc": 0.4655714285714286,
+        "val_acc": 0.40199999999999997,
+        "dirty_test_acc": 0.3353333333333333,
+        "clean_test_acc": 0.39866666666666667
+    },
+    "Clothing/v2895/mislabel/clean/random_forest_classification/3659": {
+        "best_params": {
+            "max_depth": 49.0
+        },
+        "train_acc": 1.0,
+        "val_acc": 0.44457142857142856,
+        "dirty_test_acc": 0.32,
+        "clean_test_acc": 0.4146666666666667
+    },
+    "Clothing/v2895/mislabel/clean/guassian_naive_bayes/3659": {
+        "best_params": {},
+        "train_acc": 0.5117142857142857,
+        "val_acc": 0.43657142857142867,
+        "dirty_test_acc": 0.33,
+        "clean_test_acc": 0.4126666666666667
+    },
+    "Clothing/v2895/mislabel/clean/XGBoost/3659": {
+        "best_params": {
+            "max_depth": 5.0
+        },
+        "train_acc": 1.0,
+        "val_acc": 0.4774285714285714,
+        "dirty_test_acc": 0.38066666666666665,
+        "clean_test_acc": 0.4846666666666667
+    },
+    "Clothing/v5056/mislabel/dirty/logistic_regression/3659": {
+        "best_params": {
+            "C": 0.0029327085198583313
+        },
+        "train_acc": 0.587,
+        "val_acc": 0.4174285714285714,
+        "dirty_test_acc": 0.4033333333333333,
+        "clean_test_acc": 0.434
+    },
+    "Clothing/v5056/mislabel/dirty/knn_classification/3659": {
+        "best_params": {
+            "n_neighbors": 40.0
+        },
+        "train_acc": 0.3776428571428571,
+        "val_acc": 0.33085714285714285,
+        "dirty_test_acc": 0.286,
+        "clean_test_acc": 0.316
+    },
+    "Clothing/v5056/mislabel/dirty/decision_tree_classification/3659": {
+        "best_params": {
+            "max_depth": 4.0
+        },
+        "train_acc": 0.2653571428571429,
+        "val_acc": 0.22228571428571425,
+        "dirty_test_acc": 0.22133333333333333,
+        "clean_test_acc": 0.21333333333333335
+    },
+    "Clothing/v5056/mislabel/dirty/adaboost_classification/3659": {
+        "best_params": {
+            "learning_rate": 0.09848741902962932
+        },
+        "train_acc": 0.34864285714285714,
+        "val_acc": 0.3065714285714286,
+        "dirty_test_acc": 0.27666666666666667,
+        "clean_test_acc": 0.27666666666666667
+    },
+    "Clothing/v5056/mislabel/dirty/random_forest_classification/3659": {
+        "best_params": {
+            "max_depth": 76.0
+        },
+        "train_acc": 1.0,
+        "val_acc": 0.3545714285714286,
+        "dirty_test_acc": 0.3273333333333333,
+        "clean_test_acc": 0.3453333333333333
+    },
+    "Clothing/v5056/mislabel/dirty/guassian_naive_bayes/3659": {
+        "best_params": {},
+        "train_acc": 0.412,
+        "val_acc": 0.3368571428571429,
+        "dirty_test_acc": 0.31733333333333336,
+        "clean_test_acc": 0.3873333333333333
+    },
+    "Clothing/v5056/mislabel/dirty/XGBoost/3659": {
+        "best_params": {
+            "max_depth": 11.0
+        },
+        "train_acc": 1.0,
+        "val_acc": 0.3851428571428571,
+        "dirty_test_acc": 0.34,
+        "clean_test_acc": 0.37466666666666665
+    },
+    "Clothing/v5056/mislabel/clean/logistic_regression/3659": {
+        "best_params": {
+            "C": 0.004321886239791225
+        },
+        "train_acc": 0.7015,
+        "val_acc": 0.5171428571428571,
+        "dirty_test_acc": 0.382,
+        "clean_test_acc": 0.514
+    },
+    "Clothing/v5056/mislabel/clean/knn_classification/3659": {
+        "best_params": {
+            "n_neighbors": 38.0
+        },
+        "train_acc": 0.45964285714285713,
+        "val_acc": 0.41657142857142854,
+        "dirty_test_acc": 0.29,
+        "clean_test_acc": 0.4066666666666667
+    },
+    "Clothing/v5056/mislabel/clean/decision_tree_classification/3659": {
+        "best_params": {
+            "max_depth": 7.0
+        },
+        "train_acc": 0.4376428571428571,
+        "val_acc": 0.26485714285714285,
+        "dirty_test_acc": 0.21333333333333335,
+        "clean_test_acc": 0.2786666666666667
+    },
+    "Clothing/v5056/mislabel/clean/adaboost_classification/3659": {
+        "best_params": {
+            "learning_rate": 0.17556452957455665
+        },
+        "train_acc": 0.45392857142857146,
+        "val_acc": 0.394,
+        "dirty_test_acc": 0.30866666666666664,
+        "clean_test_acc": 0.3933333333333333
+    },
+    "Clothing/v5056/mislabel/clean/random_forest_classification/3659": {
+        "best_params": {
+            "max_depth": 34.0
+        },
+        "train_acc": 1.0,
+        "val_acc": 0.4482857142857143,
+        "dirty_test_acc": 0.318,
+        "clean_test_acc": 0.424
+    },
+    "Clothing/v5056/mislabel/clean/guassian_naive_bayes/3659": {
+        "best_params": {},
+        "train_acc": 0.4982857142857143,
+        "val_acc": 0.4234285714285715,
+        "dirty_test_acc": 0.32466666666666666,
+        "clean_test_acc": 0.414
+    },
+    "Clothing/v5056/mislabel/clean/XGBoost/3659": {
+        "best_params": {
+            "max_depth": 5.0
+        },
+        "train_acc": 1.0,
+        "val_acc": 0.4908571428571428,
+        "dirty_test_acc": 0.352,
+        "clean_test_acc": 0.47733333333333333
+    },
+    "Clothing/v144/mislabel/dirty/logistic_regression/3659": {
+        "best_params": {
+            "C": 0.008489419399589906
+        },
+        "train_acc": 0.6625714285714286,
+        "val_acc": 0.4088571428571429,
+        "dirty_test_acc": 0.4166666666666667,
+        "clean_test_acc": 0.43133333333333335
+    },
+    "Clothing/v144/mislabel/dirty/knn_classification/3659": {
+        "best_params": {
+            "n_neighbors": 45.0
+        },
+        "train_acc": 0.3750714285714286,
+        "val_acc": 0.3117142857142857,
+        "dirty_test_acc": 0.31666666666666665,
+        "clean_test_acc": 0.33666666666666667
+    },
+    "Clothing/v144/mislabel/dirty/decision_tree_classification/3659": {
+        "best_params": {
+            "max_depth": 4.0
+        },
+        "train_acc": 0.2562857142857143,
+        "val_acc": 0.21657142857142855,
+        "dirty_test_acc": 0.23866666666666667,
+        "clean_test_acc": 0.22733333333333333
+    },
+    "Clothing/v144/mislabel/dirty/adaboost_classification/3659": {
+        "best_params": {
+            "learning_rate": 0.13702597430209296
+        },
+        "train_acc": 0.3492857142857143,
+        "val_acc": 0.30514285714285716,
+        "dirty_test_acc": 0.322,
+        "clean_test_acc": 0.30933333333333335
+    },
+    "Clothing/v144/mislabel/dirty/random_forest_classification/3659": {
+        "best_params": {
+            "max_depth": 36.0
+        },
+        "train_acc": 1.0,
+        "val_acc": 0.34314285714285714,
+        "dirty_test_acc": 0.356,
+        "clean_test_acc": 0.358
+    },
+    "Clothing/v144/mislabel/dirty/guassian_naive_bayes/3659": {
+        "best_params": {},
+        "train_acc": 0.40714285714285714,
+        "val_acc": 0.3271428571428572,
+        "dirty_test_acc": 0.3606666666666667,
+        "clean_test_acc": 0.4013333333333333
+    },
+    "Clothing/v144/mislabel/dirty/XGBoost/3659": {
+        "best_params": {
+            "max_depth": 15.0
+        },
+        "train_acc": 1.0,
+        "val_acc": 0.366,
+        "dirty_test_acc": 0.36733333333333335,
+        "clean_test_acc": 0.38666666666666666
+    },
+    "Clothing/v144/mislabel/clean/logistic_regression/3659": {
+        "best_params": {
+            "C": 0.007100241679657011
+        },
+        "train_acc": 0.7382142857142857,
+        "val_acc": 0.5125714285714286,
+        "dirty_test_acc": 0.4106666666666667,
+        "clean_test_acc": 0.516
+    },
+    "Clothing/v144/mislabel/clean/knn_classification/3659": {
+        "best_params": {
+            "n_neighbors": 36.0
+        },
+        "train_acc": 0.45599999999999996,
+        "val_acc": 0.40371428571428575,
+        "dirty_test_acc": 0.30733333333333335,
+        "clean_test_acc": 0.41
+    },
+    "Clothing/v144/mislabel/clean/decision_tree_classification/3659": {
+        "best_params": {
+            "max_depth": 5.0
+        },
+        "train_acc": 0.3242857142857143,
+        "val_acc": 0.26742857142857146,
+        "dirty_test_acc": 0.20866666666666667,
+        "clean_test_acc": 0.2653333333333333
+    },
+    "Clothing/v144/mislabel/clean/adaboost_classification/3659": {
+        "best_params": {
+            "learning_rate": 0.19483380721078847
+        },
+        "train_acc": 0.46364285714285713,
+        "val_acc": 0.40028571428571424,
+        "dirty_test_acc": 0.30266666666666664,
+        "clean_test_acc": 0.4053333333333333
+    },
+    "Clothing/v144/mislabel/clean/random_forest_classification/3659": {
+        "best_params": {
+            "max_depth": 80.0
+        },
+        "train_acc": 1.0,
+        "val_acc": 0.4377142857142857,
+        "dirty_test_acc": 0.32866666666666666,
+        "clean_test_acc": 0.43866666666666665
+    },
+    "Clothing/v144/mislabel/clean/guassian_naive_bayes/3659": {
+        "best_params": {},
+        "train_acc": 0.494,
+        "val_acc": 0.42228571428571426,
+        "dirty_test_acc": 0.356,
+        "clean_test_acc": 0.43133333333333335
+    },
+    "Clothing/v144/mislabel/clean/XGBoost/3659": {
+        "best_params": {
+            "max_depth": 54.0
+        },
+        "train_acc": 1.0,
+        "val_acc": 0.4685714285714285,
+        "dirty_test_acc": 0.364,
+        "clean_test_acc": 0.4786666666666667
+    },
+    "Clothing/v4225/mislabel/dirty/logistic_regression/3659": {
+        "best_params": {
+            "C": 0.004321886239791225
+        },
+        "train_acc": 0.6137142857142857,
+        "val_acc": 0.4174285714285714,
+        "dirty_test_acc": 0.406,
+        "clean_test_acc": 0.45266666666666666
+    },
+    "Clothing/v4225/mislabel/dirty/knn_classification/3659": {
+        "best_params": {
+            "n_neighbors": 82.0
+        },
+        "train_acc": 0.3540714285714286,
+        "val_acc": 0.3202857142857143,
+        "dirty_test_acc": 0.314,
+        "clean_test_acc": 0.32266666666666666
+    },
+    "Clothing/v4225/mislabel/dirty/decision_tree_classification/3659": {
+        "best_params": {
+            "max_depth": 7.0
+        },
+        "train_acc": 0.3974285714285714,
+        "val_acc": 0.22257142857142856,
+        "dirty_test_acc": 0.23266666666666666,
+        "clean_test_acc": 0.21733333333333332
+    },
+    "Clothing/v4225/mislabel/dirty/adaboost_classification/3659": {
+        "best_params": {
+            "learning_rate": 0.12864014641512478
+        },
+        "train_acc": 0.34149999999999997,
+        "val_acc": 0.2988571428571428,
+        "dirty_test_acc": 0.31266666666666665,
+        "clean_test_acc": 0.2986666666666667
+    },
+    "Clothing/v4225/mislabel/dirty/random_forest_classification/3659": {
+        "best_params": {
+            "max_depth": 42.0
+        },
+        "train_acc": 1.0,
+        "val_acc": 0.35,
+        "dirty_test_acc": 0.326,
+        "clean_test_acc": 0.32866666666666666
+    },
+    "Clothing/v4225/mislabel/dirty/guassian_naive_bayes/3659": {
+        "best_params": {},
+        "train_acc": 0.4077142857142857,
+        "val_acc": 0.33314285714285713,
+        "dirty_test_acc": 0.32466666666666666,
+        "clean_test_acc": 0.376
+    },
+    "Clothing/v4225/mislabel/dirty/XGBoost/3659": {
+        "best_params": {
+            "max_depth": 6.0
+        },
+        "train_acc": 1.0,
+        "val_acc": 0.3822857142857143,
+        "dirty_test_acc": 0.37866666666666665,
+        "clean_test_acc": 0.398
+    },
+    "Clothing/v4225/mislabel/clean/logistic_regression/3659": {
+        "best_params": {
+            "C": 0.004321886239791225
+        },
+        "train_acc": 0.7012857142857143,
+        "val_acc": 0.5214285714285714,
+        "dirty_test_acc": 0.3933333333333333,
+        "clean_test_acc": 0.5073333333333333
+    },
+    "Clothing/v4225/mislabel/clean/knn_classification/3659": {
+        "best_params": {
+            "n_neighbors": 38.0
+        },
+        "train_acc": 0.47178571428571425,
+        "val_acc": 0.4268571428571429,
+        "dirty_test_acc": 0.30533333333333335,
+        "clean_test_acc": 0.41
+    },
+    "Clothing/v4225/mislabel/clean/decision_tree_classification/3659": {
+        "best_params": {
+            "max_depth": 6.0
+        },
+        "train_acc": 0.3814285714285714,
+        "val_acc": 0.2622857142857143,
+        "dirty_test_acc": 0.22533333333333333,
+        "clean_test_acc": 0.26666666666666666
+    },
+    "Clothing/v4225/mislabel/clean/adaboost_classification/3659": {
+        "best_params": {
+            "learning_rate": 0.13702597430209296
+        },
+        "train_acc": 0.45585714285714285,
+        "val_acc": 0.4062857142857143,
+        "dirty_test_acc": 0.3233333333333333,
+        "clean_test_acc": 0.4046666666666667
+    },
+    "Clothing/v4225/mislabel/clean/random_forest_classification/3659": {
+        "best_params": {
+            "max_depth": 54.0
+        },
+        "train_acc": 1.0,
+        "val_acc": 0.44399999999999995,
+        "dirty_test_acc": 0.32,
+        "clean_test_acc": 0.42866666666666664
+    },
+    "Clothing/v4225/mislabel/clean/guassian_naive_bayes/3659": {
+        "best_params": {},
+        "train_acc": 0.5011428571428571,
+        "val_acc": 0.42828571428571427,
+        "dirty_test_acc": 0.3313333333333333,
+        "clean_test_acc": 0.41733333333333333
+    },
+    "Clothing/v4225/mislabel/clean/XGBoost/3659": {
+        "best_params": {
+            "max_depth": 37.0
+        },
+        "train_acc": 1.0,
+        "val_acc": 0.4754285714285714,
+        "dirty_test_acc": 0.35133333333333333,
+        "clean_test_acc": 0.4673333333333333
+    },
+    "Clothing/v7751/mislabel/dirty/logistic_regression/3659": {
+        "best_params": {
+            "C": 0.004321886239791225
+        },
+        "train_acc": 0.6147142857142857,
+        "val_acc": 0.4057142857142857,
+        "dirty_test_acc": 0.4126666666666667,
+        "clean_test_acc": 0.43
+    },
+    "Clothing/v7751/mislabel/dirty/knn_classification/3659": {
+        "best_params": {
+            "n_neighbors": 52.0
+        },
+        "train_acc": 0.36499999999999994,
+        "val_acc": 0.314,
+        "dirty_test_acc": 0.32,
+        "clean_test_acc": 0.328
+    },
+    "Clothing/v7751/mislabel/dirty/decision_tree_classification/3659": {
+        "best_params": {
+            "max_depth": 4.0
+        },
+        "train_acc": 0.2587857142857143,
+        "val_acc": 0.21057142857142858,
+        "dirty_test_acc": 0.22933333333333333,
+        "clean_test_acc": 0.20666666666666667
+    },
+    "Clothing/v7751/mislabel/dirty/adaboost_classification/3659": {
+        "best_params": {
+            "learning_rate": 0.12864014641512478
+        },
+        "train_acc": 0.35642857142857143,
+        "val_acc": 0.3062857142857143,
+        "dirty_test_acc": 0.29333333333333333,
+        "clean_test_acc": 0.296
+    },
+    "Clothing/v7751/mislabel/dirty/random_forest_classification/3659": {
+        "best_params": {
+            "max_depth": 100.0
+        },
+        "train_acc": 1.0,
+        "val_acc": 0.33828571428571425,
+        "dirty_test_acc": 0.332,
+        "clean_test_acc": 0.3313333333333333
+    },
+    "Clothing/v7751/mislabel/dirty/guassian_naive_bayes/3659": {
+        "best_params": {},
+        "train_acc": 0.4102857142857143,
+        "val_acc": 0.3322857142857143,
+        "dirty_test_acc": 0.3473333333333333,
+        "clean_test_acc": 0.39466666666666667
+    },
+    "Clothing/v7751/mislabel/dirty/XGBoost/3659": {
+        "best_params": {
+            "max_depth": 4.0
+        },
+        "train_acc": 1.0,
+        "val_acc": 0.3645714285714286,
+        "dirty_test_acc": 0.36,
+        "clean_test_acc": 0.372
+    },
+    "Clothing/v7751/mislabel/clean/logistic_regression/3659": {
+        "best_params": {
+            "C": 0.0057110639597241185
+        },
+        "train_acc": 0.7300714285714285,
+        "val_acc": 0.5222857142857142,
+        "dirty_test_acc": 0.39466666666666667,
+        "clean_test_acc": 0.49733333333333335
+    },
+    "Clothing/v7751/mislabel/clean/knn_classification/3659": {
+        "best_params": {
+            "n_neighbors": 39.0
+        },
+        "train_acc": 0.45764285714285713,
+        "val_acc": 0.40857142857142853,
+        "dirty_test_acc": 0.31333333333333335,
+        "clean_test_acc": 0.412
+    },
+    "Clothing/v7751/mislabel/clean/decision_tree_classification/3659": {
+        "best_params": {
+            "max_depth": 6.0
+        },
+        "train_acc": 0.3768571428571429,
+        "val_acc": 0.2628571428571428,
+        "dirty_test_acc": 0.206,
+        "clean_test_acc": 0.25333333333333335
+    },
+    "Clothing/v7751/mislabel/clean/adaboost_classification/3659": {
+        "best_params": {
+            "learning_rate": 0.2526416401194839
+        },
+        "train_acc": 0.46378571428571436,
+        "val_acc": 0.40028571428571424,
+        "dirty_test_acc": 0.32,
+        "clean_test_acc": 0.392
+    },
+    "Clothing/v7751/mislabel/clean/random_forest_classification/3659": {
+        "best_params": {
+            "max_depth": 54.0
+        },
+        "train_acc": 1.0,
+        "val_acc": 0.44371428571428567,
+        "dirty_test_acc": 0.3433333333333333,
+        "clean_test_acc": 0.44066666666666665
+    },
+    "Clothing/v7751/mislabel/clean/guassian_naive_bayes/3659": {
+        "best_params": {},
+        "train_acc": 0.49885714285714283,
+        "val_acc": 0.4217142857142857,
+        "dirty_test_acc": 0.336,
+        "clean_test_acc": 0.4246666666666667
+    },
+    "Clothing/v7751/mislabel/clean/XGBoost/3659": {
+        "best_params": {
+            "max_depth": 5.0
+        },
+        "train_acc": 1.0,
+        "val_acc": 0.47857142857142854,
+        "dirty_test_acc": 0.37466666666666665,
+        "clean_test_acc": 0.4826666666666667
+    },
+    "Clothing/v3462/mislabel/dirty/logistic_regression/3659": {
+        "best_params": {
+            "C": 0.0029327085198583313
+        },
+        "train_acc": 0.5820000000000001,
+        "val_acc": 0.4022857142857143,
+        "dirty_test_acc": 0.42933333333333334,
+        "clean_test_acc": 0.44866666666666666
+    },
+    "Clothing/v3462/mislabel/dirty/knn_classification/3659": {
+        "best_params": {
+            "n_neighbors": 57.0
+        },
+        "train_acc": 0.35264285714285715,
+        "val_acc": 0.31028571428571433,
+        "dirty_test_acc": 0.318,
+        "clean_test_acc": 0.328
+    },
+    "Clothing/v3462/mislabel/dirty/decision_tree_classification/3659": {
+        "best_params": {
+            "max_depth": 7.0
+        },
+        "train_acc": 0.39814285714285713,
+        "val_acc": 0.21028571428571427,
+        "dirty_test_acc": 0.22266666666666668,
+        "clean_test_acc": 0.22533333333333333
+    },
+    "Clothing/v3462/mislabel/dirty/adaboost_classification/3659": {
+        "best_params": {
+            "learning_rate": 0.11775669666586115
+        },
+        "train_acc": 0.35721428571428565,
+        "val_acc": 0.2965714285714286,
+        "dirty_test_acc": 0.3413333333333333,
+        "clean_test_acc": 0.31733333333333336
+    },
+    "Clothing/v3462/mislabel/dirty/random_forest_classification/3659": {
+        "best_params": {
+            "max_depth": 57.0
+        },
+        "train_acc": 1.0,
+        "val_acc": 0.3437142857142857,
+        "dirty_test_acc": 0.342,
+        "clean_test_acc": 0.352
+    },
+    "Clothing/v3462/mislabel/dirty/guassian_naive_bayes/3659": {
+        "best_params": {},
+        "train_acc": 0.4037142857142857,
+        "val_acc": 0.33428571428571424,
+        "dirty_test_acc": 0.34,
+        "clean_test_acc": 0.38666666666666666
+    },
+    "Clothing/v3462/mislabel/dirty/XGBoost/3659": {
+        "best_params": {
+            "max_depth": 18.0
+        },
+        "train_acc": 1.0,
+        "val_acc": 0.3734285714285715,
+        "dirty_test_acc": 0.376,
+        "clean_test_acc": 0.414
+    },
+    "Clothing/v3462/mislabel/clean/logistic_regression/3659": {
+        "best_params": {
+            "C": 0.004321886239791225
+        },
+        "train_acc": 0.6963571428571428,
+        "val_acc": 0.5105714285714286,
+        "dirty_test_acc": 0.406,
+        "clean_test_acc": 0.5346666666666666
+    },
+    "Clothing/v3462/mislabel/clean/knn_classification/3659": {
+        "best_params": {
+            "n_neighbors": 48.0
+        },
+        "train_acc": 0.44400000000000006,
+        "val_acc": 0.39828571428571424,
+        "dirty_test_acc": 0.306,
+        "clean_test_acc": 0.438
+    },
+    "Clothing/v3462/mislabel/clean/decision_tree_classification/3659": {
+        "best_params": {
+            "max_depth": 7.0
+        },
+        "train_acc": 0.42857142857142855,
+        "val_acc": 0.26257142857142857,
+        "dirty_test_acc": 0.202,
+        "clean_test_acc": 0.256
+    },
+    "Clothing/v3462/mislabel/clean/adaboost_classification/3659": {
+        "best_params": {
+            "learning_rate": 0.2141030848470203
+        },
+        "train_acc": 0.45842857142857135,
+        "val_acc": 0.39085714285714285,
+        "dirty_test_acc": 0.326,
+        "clean_test_acc": 0.4066666666666667
+    },
+    "Clothing/v3462/mislabel/clean/random_forest_classification/3659": {
+        "best_params": {
+            "max_depth": 137.0
+        },
+        "train_acc": 1.0,
+        "val_acc": 0.43285714285714283,
+        "dirty_test_acc": 0.3453333333333333,
+        "clean_test_acc": 0.4653333333333333
+    },
+    "Clothing/v3462/mislabel/clean/guassian_naive_bayes/3659": {
+        "best_params": {},
+        "train_acc": 0.49714285714285716,
+        "val_acc": 0.41714285714285715,
+        "dirty_test_acc": 0.3406666666666667,
+        "clean_test_acc": 0.426
+    },
+    "Clothing/v3462/mislabel/clean/XGBoost/3659": {
+        "best_params": {
+            "max_depth": 4.0
+        },
+        "train_acc": 1.0,
+        "val_acc": 0.47628571428571426,
+        "dirty_test_acc": 0.396,
+        "clean_test_acc": 0.51
+    },
+    "Clothing/v9394/mislabel/dirty/logistic_regression/3659": {
+        "best_params": {
+            "C": 0.004321886239791225
+        },
+        "train_acc": 0.6180714285714286,
+        "val_acc": 0.4011428571428571,
+        "dirty_test_acc": 0.4126666666666667,
+        "clean_test_acc": 0.44733333333333336
+    },
+    "Clothing/v9394/mislabel/dirty/knn_classification/3659": {
+        "best_params": {
+            "n_neighbors": 31.0
+        },
+        "train_acc": 0.391,
+        "val_acc": 0.32285714285714284,
+        "dirty_test_acc": 0.3273333333333333,
+        "clean_test_acc": 0.33066666666666666
+    },
+    "Clothing/v9394/mislabel/dirty/decision_tree_classification/3659": {
+        "best_params": {
+            "max_depth": 5.0
+        },
+        "train_acc": 0.29842857142857143,
+        "val_acc": 0.22028571428571428,
+        "dirty_test_acc": 0.22533333333333333,
+        "clean_test_acc": 0.212
+    },
+    "Clothing/v9394/mislabel/dirty/adaboost_classification/3659": {
+        "best_params": {
+            "learning_rate": 0.11775669666586115
+        },
+        "train_acc": 0.34950000000000003,
+        "val_acc": 0.3077142857142857,
+        "dirty_test_acc": 0.30266666666666664,
+        "clean_test_acc": 0.2853333333333333
+    },
+    "Clothing/v9394/mislabel/dirty/random_forest_classification/3659": {
+        "best_params": {
+            "max_depth": 60.0
+        },
+        "train_acc": 1.0,
+        "val_acc": 0.3485714285714286,
+        "dirty_test_acc": 0.3466666666666667,
+        "clean_test_acc": 0.33866666666666667
+    },
+    "Clothing/v9394/mislabel/dirty/guassian_naive_bayes/3659": {
+        "best_params": {},
+        "train_acc": 0.4094285714285714,
+        "val_acc": 0.3291428571428571,
+        "dirty_test_acc": 0.3433333333333333,
+        "clean_test_acc": 0.392
+    },
+    "Clothing/v9394/mislabel/dirty/XGBoost/3659": {
+        "best_params": {
+            "max_depth": 15.0
+        },
+        "train_acc": 1.0,
+        "val_acc": 0.372,
+        "dirty_test_acc": 0.376,
+        "clean_test_acc": 0.396
+    },
+    "Clothing/v9394/mislabel/clean/logistic_regression/3659": {
+        "best_params": {
+            "C": 0.007100241679657011
+        },
+        "train_acc": 0.7407142857142857,
+        "val_acc": 0.5142857142857142,
+        "dirty_test_acc": 0.396,
+        "clean_test_acc": 0.5066666666666667
+    },
+    "Clothing/v9394/mislabel/clean/knn_classification/3659": {
+        "best_params": {
+            "n_neighbors": 31.0
+        },
+        "train_acc": 0.4605714285714286,
+        "val_acc": 0.4025714285714286,
+        "dirty_test_acc": 0.314,
+        "clean_test_acc": 0.426
+    },
+    "Clothing/v9394/mislabel/clean/decision_tree_classification/3659": {
+        "best_params": {
+            "max_depth": 7.0
+        },
+        "train_acc": 0.441,
+        "val_acc": 0.25428571428571434,
+        "dirty_test_acc": 0.23333333333333334,
+        "clean_test_acc": 0.296
+    },
+    "Clothing/v9394/mislabel/clean/adaboost_classification/3659": {
+        "best_params": {
+            "learning_rate": 0.11775669666586115
+        },
+        "train_acc": 0.44457142857142856,
+        "val_acc": 0.3868571428571429,
+        "dirty_test_acc": 0.31333333333333335,
+        "clean_test_acc": 0.394
+    },
+    "Clothing/v9394/mislabel/clean/random_forest_classification/3659": {
+        "best_params": {
+            "max_depth": 15.0
+        },
+        "train_acc": 1.0,
+        "val_acc": 0.4511428571428572,
+        "dirty_test_acc": 0.31866666666666665,
+        "clean_test_acc": 0.422
+    },
+    "Clothing/v9394/mislabel/clean/guassian_naive_bayes/3659": {
+        "best_params": {},
+        "train_acc": 0.49914285714285717,
+        "val_acc": 0.42314285714285715,
+        "dirty_test_acc": 0.326,
+        "clean_test_acc": 0.4146666666666667
+    },
+    "Clothing/v9394/mislabel/clean/XGBoost/3659": {
+        "best_params": {
+            "max_depth": 3.0
+        },
+        "train_acc": 1.0,
+        "val_acc": 0.484,
+        "dirty_test_acc": 0.348,
+        "clean_test_acc": 0.454
+    },
+    "Clothing/v5396/mislabel/dirty/logistic_regression/3659": {
+        "best_params": {
+            "C": 0.0029327085198583313
+        },
+        "train_acc": 0.5888571428571429,
+        "val_acc": 0.40114285714285713,
+        "dirty_test_acc": 0.3973333333333333,
+        "clean_test_acc": 0.43266666666666664
+    },
+    "Clothing/v5396/mislabel/dirty/knn_classification/3659": {
+        "best_params": {
+            "n_neighbors": 68.0
+        },
+        "train_acc": 0.3593571428571429,
+        "val_acc": 0.31685714285714284,
+        "dirty_test_acc": 0.286,
+        "clean_test_acc": 0.31066666666666665
+    },
+    "Clothing/v5396/mislabel/dirty/decision_tree_classification/3659": {
+        "best_params": {
+            "max_depth": 5.0
+        },
+        "train_acc": 0.2960714285714286,
+        "val_acc": 0.2234285714285714,
+        "dirty_test_acc": 0.216,
+        "clean_test_acc": 0.22066666666666668
+    },
+    "Clothing/v5396/mislabel/dirty/adaboost_classification/3659": {
+        "best_params": {
+            "learning_rate": 0.1562952519383248
+        },
+        "train_acc": 0.3613571428571428,
+        "val_acc": 0.30628571428571433,
+        "dirty_test_acc": 0.2886666666666667,
+        "clean_test_acc": 0.29
+    },
+    "Clothing/v5396/mislabel/dirty/random_forest_classification/3659": {
+        "best_params": {
+            "max_depth": 15.0
+        },
+        "train_acc": 1.0,
+        "val_acc": 0.348,
+        "dirty_test_acc": 0.3273333333333333,
+        "clean_test_acc": 0.342
+    },
+    "Clothing/v5396/mislabel/dirty/guassian_naive_bayes/3659": {
+        "best_params": {},
+        "train_acc": 0.41485714285714287,
+        "val_acc": 0.33885714285714286,
+        "dirty_test_acc": 0.32,
+        "clean_test_acc": 0.38133333333333336
+    },
+    "Clothing/v5396/mislabel/dirty/XGBoost/3659": {
+        "best_params": {
+            "max_depth": 2.0
+        },
+        "train_acc": 0.9827857142857143,
+        "val_acc": 0.37457142857142856,
+        "dirty_test_acc": 0.36466666666666664,
+        "clean_test_acc": 0.3953333333333333
+    },
+    "Clothing/v5396/mislabel/clean/logistic_regression/3659": {
+        "best_params": {
+            "C": 0.0029327085198583313
+        },
+        "train_acc": 0.6806428571428571,
+        "val_acc": 0.5168571428571429,
+        "dirty_test_acc": 0.38533333333333336,
+        "clean_test_acc": 0.504
+    },
+    "Clothing/v5396/mislabel/clean/knn_classification/3659": {
+        "best_params": {
+            "n_neighbors": 35.0
+        },
+        "train_acc": 0.4660714285714286,
+        "val_acc": 0.4137142857142857,
+        "dirty_test_acc": 0.2773333333333333,
+        "clean_test_acc": 0.398
+    },
+    "Clothing/v5396/mislabel/clean/decision_tree_classification/3659": {
+        "best_params": {
+            "max_depth": 6.0
+        },
+        "train_acc": 0.38057142857142856,
+        "val_acc": 0.27742857142857147,
+        "dirty_test_acc": 0.18733333333333332,
+        "clean_test_acc": 0.23466666666666666
+    },
+    "Clothing/v5396/mislabel/clean/adaboost_classification/3659": {
+        "best_params": {
+            "learning_rate": 0.2141030848470203
+        },
+        "train_acc": 0.46535714285714286,
+        "val_acc": 0.3914285714285714,
+        "dirty_test_acc": 0.30666666666666664,
+        "clean_test_acc": 0.4046666666666667
+    },
+    "Clothing/v5396/mislabel/clean/random_forest_classification/3659": {
+        "best_params": {
+            "max_depth": 47.0
+        },
+        "train_acc": 1.0,
+        "val_acc": 0.4451428571428571,
+        "dirty_test_acc": 0.312,
+        "clean_test_acc": 0.424
+    },
+    "Clothing/v5396/mislabel/clean/guassian_naive_bayes/3659": {
+        "best_params": {},
+        "train_acc": 0.5042857142857143,
+        "val_acc": 0.41971428571428576,
+        "dirty_test_acc": 0.31733333333333336,
+        "clean_test_acc": 0.4166666666666667
+    },
+    "Clothing/v5396/mislabel/clean/XGBoost/3659": {
+        "best_params": {
+            "max_depth": 6.0
+        },
+        "train_acc": 1.0,
+        "val_acc": 0.49342857142857144,
+        "dirty_test_acc": 0.36533333333333334,
+        "clean_test_acc": 0.4713333333333333
+    },
+    "Clothing/v5374/mislabel/dirty/logistic_regression/3659": {
+        "best_params": {
+            "C": 0.0057110639597241185
+        },
+        "train_acc": 0.6425714285714286,
+        "val_acc": 0.41085714285714287,
+        "dirty_test_acc": 0.4046666666666667,
+        "clean_test_acc": 0.42533333333333334
+    },
+    "Clothing/v5374/mislabel/dirty/knn_classification/3659": {
+        "best_params": {
+            "n_neighbors": 88.0
+        },
+        "train_acc": 0.3427857142857143,
+        "val_acc": 0.30942857142857144,
+        "dirty_test_acc": 0.29533333333333334,
+        "clean_test_acc": 0.286
+    },
+    "Clothing/v5374/mislabel/dirty/decision_tree_classification/3659": {
+        "best_params": {
+            "max_depth": 4.0
+        },
+        "train_acc": 0.26621428571428574,
+        "val_acc": 0.22285714285714286,
+        "dirty_test_acc": 0.228,
+        "clean_test_acc": 0.23266666666666666
+    },
+    "Clothing/v5374/mislabel/dirty/adaboost_classification/3659": {
+        "best_params": {
+            "learning_rate": 0.12864014641512478
+        },
+        "train_acc": 0.3524285714285714,
+        "val_acc": 0.30342857142857144,
+        "dirty_test_acc": 0.29733333333333334,
+        "clean_test_acc": 0.28
+    },
+    "Clothing/v5374/mislabel/dirty/random_forest_classification/3659": {
+        "best_params": {
+            "max_depth": 25.0
+        },
+        "train_acc": 1.0,
+        "val_acc": 0.348,
+        "dirty_test_acc": 0.3293333333333333,
+        "clean_test_acc": 0.32666666666666666
+    },
+    "Clothing/v5374/mislabel/dirty/guassian_naive_bayes/3659": {
+        "best_params": {},
+        "train_acc": 0.40685714285714286,
+        "val_acc": 0.3271428571428572,
+        "dirty_test_acc": 0.336,
+        "clean_test_acc": 0.3933333333333333
+    },
+    "Clothing/v5374/mislabel/dirty/XGBoost/3659": {
+        "best_params": {
+            "max_depth": 16.0
+        },
+        "train_acc": 1.0,
+        "val_acc": 0.3737142857142857,
+        "dirty_test_acc": 0.38066666666666665,
+        "clean_test_acc": 0.388
+    },
+    "Clothing/v5374/mislabel/clean/logistic_regression/3659": {
+        "best_params": {
+            "C": 0.0029327085198583313
+        },
+        "train_acc": 0.6790714285714285,
+        "val_acc": 0.5271428571428571,
+        "dirty_test_acc": 0.3873333333333333,
+        "clean_test_acc": 0.494
+    },
+    "Clothing/v5374/mislabel/clean/knn_classification/3659": {
+        "best_params": {
+            "n_neighbors": 35.0
+        },
+        "train_acc": 0.4565714285714286,
+        "val_acc": 0.40599999999999997,
+        "dirty_test_acc": 0.30666666666666664,
+        "clean_test_acc": 0.408
+    },
+    "Clothing/v5374/mislabel/clean/decision_tree_classification/3659": {
+        "best_params": {
+            "max_depth": 6.0
+        },
+        "train_acc": 0.37935714285714284,
+        "val_acc": 0.2677142857142857,
+        "dirty_test_acc": 0.212,
+        "clean_test_acc": 0.25533333333333336
+    },
+    "Clothing/v5374/mislabel/clean/adaboost_classification/3659": {
+        "best_params": {
+            "learning_rate": 0.17556452957455665
+        },
+        "train_acc": 0.4588571428571429,
+        "val_acc": 0.40028571428571436,
+        "dirty_test_acc": 0.318,
+        "clean_test_acc": 0.4
+    },
+    "Clothing/v5374/mislabel/clean/random_forest_classification/3659": {
+        "best_params": {
+            "max_depth": 15.0
+        },
+        "train_acc": 1.0,
+        "val_acc": 0.4465714285714286,
+        "dirty_test_acc": 0.33466666666666667,
+        "clean_test_acc": 0.43733333333333335
+    },
+    "Clothing/v5374/mislabel/clean/guassian_naive_bayes/3659": {
+        "best_params": {},
+        "train_acc": 0.498,
+        "val_acc": 0.42457142857142854,
+        "dirty_test_acc": 0.334,
+        "clean_test_acc": 0.42533333333333334
+    },
+    "Clothing/v5374/mislabel/clean/XGBoost/3659": {
+        "best_params": {
+            "max_depth": 4.0
+        },
+        "train_acc": 1.0,
+        "val_acc": 0.4845714285714286,
+        "dirty_test_acc": 0.37733333333333335,
+        "clean_test_acc": 0.4653333333333333
+    },
+    "Clothing/v2962/mislabel/dirty/logistic_regression/3659": {
+        "best_params": {
+            "C": 0.0029327085198583313
+        },
+        "train_acc": 0.5946428571428573,
+        "val_acc": 0.4057142857142857,
+        "dirty_test_acc": 0.4146666666666667,
+        "clean_test_acc": 0.43533333333333335
+    },
+    "Clothing/v2962/mislabel/dirty/knn_classification/3659": {
+        "best_params": {
+            "n_neighbors": 47.0
+        },
+        "train_acc": 0.37678571428571433,
+        "val_acc": 0.3162857142857143,
+        "dirty_test_acc": 0.336,
+        "clean_test_acc": 0.3473333333333333
+    },
+    "Clothing/v2962/mislabel/dirty/decision_tree_classification/3659": {
+        "best_params": {
+            "max_depth": 4.0
+        },
+        "train_acc": 0.25807142857142856,
+        "val_acc": 0.21828571428571428,
+        "dirty_test_acc": 0.234,
+        "clean_test_acc": 0.212
+    },
+    "Clothing/v2962/mislabel/dirty/adaboost_classification/3659": {
+        "best_params": {
+            "learning_rate": 0.11775669666586115
+        },
+        "train_acc": 0.35700000000000004,
+        "val_acc": 0.3117142857142857,
+        "dirty_test_acc": 0.322,
+        "clean_test_acc": 0.31666666666666665
+    },
+    "Clothing/v2962/mislabel/dirty/random_forest_classification/3659": {
+        "best_params": {
+            "max_depth": 193.0
+        },
+        "train_acc": 1.0,
+        "val_acc": 0.3494285714285714,
+        "dirty_test_acc": 0.364,
+        "clean_test_acc": 0.35133333333333333
+    },
+    "Clothing/v2962/mislabel/dirty/guassian_naive_bayes/3659": {
+        "best_params": {},
+        "train_acc": 0.4077142857142857,
+        "val_acc": 0.3362857142857143,
+        "dirty_test_acc": 0.3353333333333333,
+        "clean_test_acc": 0.3873333333333333
+    },
+    "Clothing/v2962/mislabel/dirty/XGBoost/3659": {
+        "best_params": {
+            "max_depth": 6.0
+        },
+        "train_acc": 1.0,
+        "val_acc": 0.36742857142857144,
+        "dirty_test_acc": 0.3953333333333333,
+        "clean_test_acc": 0.402
+    },
+    "Clothing/v2962/mislabel/clean/logistic_regression/3659": {
+        "best_params": {
+            "C": 0.0057110639597241185
+        },
+        "train_acc": 0.7187857142857143,
+        "val_acc": 0.508,
+        "dirty_test_acc": 0.3953333333333333,
+        "clean_test_acc": 0.5086666666666667
+    },
+    "Clothing/v2962/mislabel/clean/knn_classification/3659": {
+        "best_params": {
+            "n_neighbors": 43.0
+        },
+        "train_acc": 0.45478571428571424,
+        "val_acc": 0.40857142857142853,
+        "dirty_test_acc": 0.30266666666666664,
+        "clean_test_acc": 0.4073333333333333
+    },
+    "Clothing/v2962/mislabel/clean/decision_tree_classification/3659": {
+        "best_params": {
+            "max_depth": 6.0
+        },
+        "train_acc": 0.3590714285714286,
+        "val_acc": 0.2651428571428572,
+        "dirty_test_acc": 0.22266666666666668,
+        "clean_test_acc": 0.266
+    },
+    "Clothing/v2962/mislabel/clean/adaboost_classification/3659": {
+        "best_params": {
+            "learning_rate": 0.19483380721078847
+        },
+        "train_acc": 0.4634285714285714,
+        "val_acc": 0.402,
+        "dirty_test_acc": 0.31666666666666665,
+        "clean_test_acc": 0.4026666666666667
+    },
+    "Clothing/v2962/mislabel/clean/random_forest_classification/3659": {
+        "best_params": {
+            "max_depth": 97.0
+        },
+        "train_acc": 1.0,
+        "val_acc": 0.44314285714285717,
+        "dirty_test_acc": 0.324,
+        "clean_test_acc": 0.436
+    },
+    "Clothing/v2962/mislabel/clean/guassian_naive_bayes/3659": {
+        "best_params": {},
+        "train_acc": 0.49885714285714283,
+        "val_acc": 0.41914285714285715,
+        "dirty_test_acc": 0.3413333333333333,
+        "clean_test_acc": 0.42933333333333334
+    },
+    "Clothing/v2962/mislabel/clean/XGBoost/3659": {
+        "best_params": {
+            "max_depth": 4.0
+        },
+        "train_acc": 1.0,
+        "val_acc": 0.4854285714285715,
+        "dirty_test_acc": 0.36666666666666664,
+        "clean_test_acc": 0.47533333333333333
+    },
+    "Clothing/v2516/mislabel/dirty/logistic_regression/3659": {
+        "best_params": {
+            "C": 0.004321886239791225
+        },
+        "train_acc": 0.6162142857142857,
+        "val_acc": 0.404,
+        "dirty_test_acc": 0.4146666666666667,
+        "clean_test_acc": 0.43533333333333335
+    },
+    "Clothing/v2516/mislabel/dirty/knn_classification/3659": {
+        "best_params": {
+            "n_neighbors": 34.0
+        },
+        "train_acc": 0.3835,
+        "val_acc": 0.31742857142857145,
+        "dirty_test_acc": 0.31466666666666665,
+        "clean_test_acc": 0.3333333333333333
+    },
+    "Clothing/v2516/mislabel/dirty/decision_tree_classification/3659": {
+        "best_params": {
+            "max_depth": 5.0
+        },
+        "train_acc": 0.2968571428571429,
+        "val_acc": 0.22457142857142856,
+        "dirty_test_acc": 0.212,
+        "clean_test_acc": 0.228
+    },
+    "Clothing/v2516/mislabel/dirty/adaboost_classification/3659": {
+        "best_params": {
+            "learning_rate": 0.11775669666586115
+        },
+        "train_acc": 0.3475714285714286,
+        "val_acc": 0.2985714285714286,
+        "dirty_test_acc": 0.3006666666666667,
+        "clean_test_acc": 0.29133333333333333
+    },
+    "Clothing/v2516/mislabel/dirty/random_forest_classification/3659": {
+        "best_params": {
+            "max_depth": 15.0
+        },
+        "train_acc": 1.0,
+        "val_acc": 0.34600000000000003,
+        "dirty_test_acc": 0.342,
+        "clean_test_acc": 0.334
+    },
+    "Clothing/v2516/mislabel/dirty/guassian_naive_bayes/3659": {
+        "best_params": {},
+        "train_acc": 0.40714285714285714,
+        "val_acc": 0.33171428571428574,
+        "dirty_test_acc": 0.334,
+        "clean_test_acc": 0.392
+    },
+    "Clothing/v2516/mislabel/dirty/XGBoost/3659": {
+        "best_params": {
+            "max_depth": 20.0
+        },
+        "train_acc": 1.0,
+        "val_acc": 0.366,
+        "dirty_test_acc": 0.36866666666666664,
+        "clean_test_acc": 0.3873333333333333
+    },
+    "Clothing/v2516/mislabel/clean/logistic_regression/3659": {
+        "best_params": {
+            "C": 0.0029327085198583313
+        },
+        "train_acc": 0.6658571428571428,
+        "val_acc": 0.5122857142857142,
+        "dirty_test_acc": 0.398,
+        "clean_test_acc": 0.514
+    },
+    "Clothing/v2516/mislabel/clean/knn_classification/3659": {
+        "best_params": {
+            "n_neighbors": 50.0
+        },
+        "train_acc": 0.4525,
+        "val_acc": 0.41171428571428575,
+        "dirty_test_acc": 0.2926666666666667,
+        "clean_test_acc": 0.41533333333333333
+    },
+    "Clothing/v2516/mislabel/clean/decision_tree_classification/3659": {
+        "best_params": {
+            "max_depth": 5.0
+        },
+        "train_acc": 0.32371428571428573,
+        "val_acc": 0.2622857142857143,
+        "dirty_test_acc": 0.19266666666666668,
+        "clean_test_acc": 0.24266666666666667
+    },
+    "Clothing/v2516/mislabel/clean/adaboost_classification/3659": {
+        "best_params": {
+            "learning_rate": 0.13702597430209296
+        },
+        "train_acc": 0.45257142857142857,
+        "val_acc": 0.39714285714285713,
+        "dirty_test_acc": 0.31533333333333335,
+        "clean_test_acc": 0.398
+    },
+    "Clothing/v2516/mislabel/clean/random_forest_classification/3659": {
+        "best_params": {
+            "max_depth": 47.0
+        },
+        "train_acc": 1.0,
+        "val_acc": 0.4402857142857143,
+        "dirty_test_acc": 0.326,
+        "clean_test_acc": 0.44533333333333336
+    },
+    "Clothing/v2516/mislabel/clean/guassian_naive_bayes/3659": {
+        "best_params": {},
+        "train_acc": 0.49228571428571427,
+        "val_acc": 0.41514285714285715,
+        "dirty_test_acc": 0.334,
+        "clean_test_acc": 0.43133333333333335
+    },
+    "Clothing/v2516/mislabel/clean/XGBoost/3659": {
+        "best_params": {
+            "max_depth": 4.0
+        },
+        "train_acc": 1.0,
+        "val_acc": 0.4837142857142857,
+        "dirty_test_acc": 0.382,
+        "clean_test_acc": 0.4786666666666667
+    },
+    "Clothing/v8444/mislabel/dirty/logistic_regression/3659": {
+        "best_params": {
+            "C": 0.0029327085198583313
+        },
+        "train_acc": 0.5915,
+        "val_acc": 0.4102857142857143,
+        "dirty_test_acc": 0.42866666666666664,
+        "clean_test_acc": 0.4633333333333333
+    },
+    "Clothing/v8444/mislabel/dirty/knn_classification/3659": {
+        "best_params": {
+            "n_neighbors": 34.0
+        },
+        "train_acc": 0.37992857142857145,
+        "val_acc": 0.30942857142857144,
+        "dirty_test_acc": 0.326,
+        "clean_test_acc": 0.3586666666666667
+    },
+    "Clothing/v8444/mislabel/dirty/decision_tree_classification/3659": {
+        "best_params": {
+            "max_depth": 6.0
+        },
+        "train_acc": 0.35628571428571426,
+        "val_acc": 0.23085714285714282,
+        "dirty_test_acc": 0.224,
+        "clean_test_acc": 0.234
+    },
+    "Clothing/v8444/mislabel/dirty/adaboost_classification/3659": {
+        "best_params": {
+            "learning_rate": 0.10682637515824431
+        },
+        "train_acc": 0.35200000000000004,
+        "val_acc": 0.30114285714285716,
+        "dirty_test_acc": 0.302,
+        "clean_test_acc": 0.2926666666666667
+    },
+    "Clothing/v8444/mislabel/dirty/random_forest_classification/3659": {
+        "best_params": {
+            "max_depth": 88.0
+        },
+        "train_acc": 1.0,
+        "val_acc": 0.3465714285714286,
+        "dirty_test_acc": 0.3373333333333333,
+        "clean_test_acc": 0.37933333333333336
+    },
+    "Clothing/v8444/mislabel/dirty/guassian_naive_bayes/3659": {
+        "best_params": {},
+        "train_acc": 0.40885714285714286,
+        "val_acc": 0.3311428571428571,
+        "dirty_test_acc": 0.316,
+        "clean_test_acc": 0.38266666666666665
+    },
+    "Clothing/v8444/mislabel/dirty/XGBoost/3659": {
+        "best_params": {
+            "max_depth": 4.0
+        },
+        "train_acc": 1.0,
+        "val_acc": 0.3737142857142857,
+        "dirty_test_acc": 0.3913333333333333,
+        "clean_test_acc": 0.4093333333333333
+    },
+    "Clothing/v8444/mislabel/clean/logistic_regression/3659": {
+        "best_params": {
+            "C": 0.0057110639597241185
+        },
+        "train_acc": 0.7152142857142857,
+        "val_acc": 0.5111428571428572,
+        "dirty_test_acc": 0.396,
+        "clean_test_acc": 0.5313333333333333
+    },
+    "Clothing/v8444/mislabel/clean/knn_classification/3659": {
+        "best_params": {
+            "n_neighbors": 31.0
+        },
+        "train_acc": 0.45857142857142863,
+        "val_acc": 0.3982857142857143,
+        "dirty_test_acc": 0.28733333333333333,
+        "clean_test_acc": 0.42
+    },
+    "Clothing/v8444/mislabel/clean/decision_tree_classification/3659": {
+        "best_params": {
+            "max_depth": 6.0
+        },
+        "train_acc": 0.36557142857142855,
+        "val_acc": 0.25828571428571434,
+        "dirty_test_acc": 0.20266666666666666,
+        "clean_test_acc": 0.2693333333333333
+    },
+    "Clothing/v8444/mislabel/clean/adaboost_classification/3659": {
+        "best_params": {
+            "learning_rate": 0.2141030848470203
+        },
+        "train_acc": 0.45607142857142857,
+        "val_acc": 0.394,
+        "dirty_test_acc": 0.32066666666666666,
+        "clean_test_acc": 0.432
+    },
+    "Clothing/v8444/mislabel/clean/random_forest_classification/3659": {
+        "best_params": {
+            "max_depth": 84.0
+        },
+        "train_acc": 1.0,
+        "val_acc": 0.4348571428571428,
+        "dirty_test_acc": 0.31866666666666665,
+        "clean_test_acc": 0.44533333333333336
+    },
+    "Clothing/v8444/mislabel/clean/guassian_naive_bayes/3659": {
+        "best_params": {},
+        "train_acc": 0.4868571428571429,
+        "val_acc": 0.41914285714285715,
+        "dirty_test_acc": 0.32133333333333336,
+        "clean_test_acc": 0.426
+    },
+    "Clothing/v8444/mislabel/clean/XGBoost/3659": {
+        "best_params": {
+            "max_depth": 5.0
+        },
+        "train_acc": 1.0,
+        "val_acc": 0.46571428571428575,
+        "dirty_test_acc": 0.37666666666666665,
+        "clean_test_acc": 0.49933333333333335
+    },
+    "Clothing/v3562/mislabel/dirty/logistic_regression/3659": {
+        "best_params": {
+            "C": 0.0029327085198583313
+        },
+        "train_acc": 0.5857857142857142,
+        "val_acc": 0.41600000000000004,
+        "dirty_test_acc": 0.4126666666666667,
+        "clean_test_acc": 0.44533333333333336
+    },
+    "Clothing/v3562/mislabel/dirty/knn_classification/3659": {
+        "best_params": {
+            "n_neighbors": 41.0
+        },
+        "train_acc": 0.37485714285714283,
+        "val_acc": 0.312,
+        "dirty_test_acc": 0.3273333333333333,
+        "clean_test_acc": 0.334
+    },
+    "Clothing/v3562/mislabel/dirty/decision_tree_classification/3659": {
+        "best_params": {
+            "max_depth": 4.0
+        },
+        "train_acc": 0.25871428571428573,
+        "val_acc": 0.21628571428571428,
+        "dirty_test_acc": 0.22666666666666666,
+        "clean_test_acc": 0.22333333333333333
+    },
+    "Clothing/v3562/mislabel/dirty/adaboost_classification/3659": {
+        "best_params": {
+            "learning_rate": 0.12864014641512478
+        },
+        "train_acc": 0.3479285714285714,
+        "val_acc": 0.30228571428571427,
+        "dirty_test_acc": 0.304,
+        "clean_test_acc": 0.2826666666666667
+    },
+    "Clothing/v3562/mislabel/dirty/random_forest_classification/3659": {
+        "best_params": {
+            "max_depth": 94.0
+        },
+        "train_acc": 1.0,
+        "val_acc": 0.34371428571428575,
+        "dirty_test_acc": 0.3466666666666667,
+        "clean_test_acc": 0.346
+    },
+    "Clothing/v3562/mislabel/dirty/guassian_naive_bayes/3659": {
+        "best_params": {},
+        "train_acc": 0.4134285714285714,
+        "val_acc": 0.3382857142857143,
+        "dirty_test_acc": 0.33466666666666667,
+        "clean_test_acc": 0.396
+    },
+    "Clothing/v3562/mislabel/dirty/XGBoost/3659": {
+        "best_params": {
+            "max_depth": 20.0
+        },
+        "train_acc": 1.0,
+        "val_acc": 0.372,
+        "dirty_test_acc": 0.376,
+        "clean_test_acc": 0.4033333333333333
+    },
+    "Clothing/v3562/mislabel/clean/logistic_regression/3659": {
+        "best_params": {
+            "C": 0.0029327085198583313
+        },
+        "train_acc": 0.6733571428571429,
+        "val_acc": 0.5162857142857142,
+        "dirty_test_acc": 0.3933333333333333,
+        "clean_test_acc": 0.5106666666666667
+    },
+    "Clothing/v3562/mislabel/clean/knn_classification/3659": {
+        "best_params": {
+            "n_neighbors": 27.0
+        },
+        "train_acc": 0.47821428571428565,
+        "val_acc": 0.40685714285714286,
+        "dirty_test_acc": 0.294,
+        "clean_test_acc": 0.402
+    },
+    "Clothing/v3562/mislabel/clean/decision_tree_classification/3659": {
+        "best_params": {
+            "max_depth": 6.0
+        },
+        "train_acc": 0.3868571428571429,
+        "val_acc": 0.26085714285714284,
+        "dirty_test_acc": 0.202,
+        "clean_test_acc": 0.2673333333333333
+    },
+    "Clothing/v3562/mislabel/clean/adaboost_classification/3659": {
+        "best_params": {
+            "learning_rate": 0.12864014641512478
+        },
+        "train_acc": 0.4556428571428571,
+        "val_acc": 0.39571428571428574,
+        "dirty_test_acc": 0.30533333333333335,
+        "clean_test_acc": 0.4046666666666667
+    },
+    "Clothing/v3562/mislabel/clean/random_forest_classification/3659": {
+        "best_params": {
+            "max_depth": 54.0
+        },
+        "train_acc": 1.0,
+        "val_acc": 0.4471428571428572,
+        "dirty_test_acc": 0.324,
+        "clean_test_acc": 0.42733333333333334
+    },
+    "Clothing/v3562/mislabel/clean/guassian_naive_bayes/3659": {
+        "best_params": {},
+        "train_acc": 0.5005714285714286,
+        "val_acc": 0.42485714285714293,
+        "dirty_test_acc": 0.31333333333333335,
+        "clean_test_acc": 0.4106666666666667
+    },
+    "Clothing/v3562/mislabel/clean/XGBoost/3659": {
+        "best_params": {
+            "max_depth": 6.0
+        },
+        "train_acc": 1.0,
+        "val_acc": 0.48600000000000004,
+        "dirty_test_acc": 0.362,
+        "clean_test_acc": 0.4746666666666667
+    },
+    "Clothing/v4764/mislabel/dirty/logistic_regression/3659": {
+        "best_params": {
+            "C": 0.0029327085198583313
+        },
+        "train_acc": 0.5850714285714286,
+        "val_acc": 0.4094285714285714,
+        "dirty_test_acc": 0.4093333333333333,
+        "clean_test_acc": 0.438
+    },
+    "Clothing/v4764/mislabel/dirty/knn_classification/3659": {
+        "best_params": {
+            "n_neighbors": 38.0
+        },
+        "train_acc": 0.38478571428571434,
+        "val_acc": 0.324,
+        "dirty_test_acc": 0.322,
+        "clean_test_acc": 0.32266666666666666
+    },
+    "Clothing/v4764/mislabel/dirty/decision_tree_classification/3659": {
+        "best_params": {
+            "max_depth": 6.0
+        },
+        "train_acc": 0.34035714285714286,
+        "val_acc": 0.22114285714285714,
+        "dirty_test_acc": 0.23066666666666666,
+        "clean_test_acc": 0.21933333333333332
+    },
+    "Clothing/v4764/mislabel/dirty/adaboost_classification/3659": {
+        "best_params": {
+            "learning_rate": 0.09848741902962932
+        },
+        "train_acc": 0.34435714285714286,
+        "val_acc": 0.3031428571428571,
+        "dirty_test_acc": 0.306,
+        "clean_test_acc": 0.29
+    },
+    "Clothing/v4764/mislabel/dirty/random_forest_classification/3659": {
+        "best_params": {
+            "max_depth": 55.0
+        },
+        "train_acc": 1.0,
+        "val_acc": 0.34571428571428575,
+        "dirty_test_acc": 0.3293333333333333,
+        "clean_test_acc": 0.33866666666666667
+    },
+    "Clothing/v4764/mislabel/dirty/guassian_naive_bayes/3659": {
+        "best_params": {},
+        "train_acc": 0.4134285714285714,
+        "val_acc": 0.3405714285714286,
+        "dirty_test_acc": 0.3313333333333333,
+        "clean_test_acc": 0.38266666666666665
+    },
+    "Clothing/v4764/mislabel/dirty/XGBoost/3659": {
+        "best_params": {
+            "max_depth": 5.0
+        },
+        "train_acc": 1.0,
+        "val_acc": 0.3737142857142857,
+        "dirty_test_acc": 0.368,
+        "clean_test_acc": 0.38066666666666665
+    },
+    "Clothing/v4764/mislabel/clean/logistic_regression/3659": {
+        "best_params": {
+            "C": 0.004321886239791225
+        },
+        "train_acc": 0.7020714285714286,
+        "val_acc": 0.5182857142857143,
+        "dirty_test_acc": 0.408,
+        "clean_test_acc": 0.5293333333333333
+    },
+    "Clothing/v4764/mislabel/clean/knn_classification/3659": {
+        "best_params": {
+            "n_neighbors": 31.0
+        },
+        "train_acc": 0.4610714285714286,
+        "val_acc": 0.4057142857142857,
+        "dirty_test_acc": 0.298,
+        "clean_test_acc": 0.406
+    },
+    "Clothing/v4764/mislabel/clean/decision_tree_classification/3659": {
+        "best_params": {
+            "max_depth": 5.0
+        },
+        "train_acc": 0.3305,
+        "val_acc": 0.27142857142857146,
+        "dirty_test_acc": 0.21066666666666667,
+        "clean_test_acc": 0.26466666666666666
+    },
+    "Clothing/v4764/mislabel/clean/adaboost_classification/3659": {
+        "best_params": {
+            "learning_rate": 0.19483380721078847
+        },
+        "train_acc": 0.46521428571428575,
+        "val_acc": 0.39685714285714285,
+        "dirty_test_acc": 0.3253333333333333,
+        "clean_test_acc": 0.42133333333333334
+    },
+    "Clothing/v4764/mislabel/clean/random_forest_classification/3659": {
+        "best_params": {
+            "max_depth": 41.0
+        },
+        "train_acc": 1.0,
+        "val_acc": 0.4402857142857143,
+        "dirty_test_acc": 0.3406666666666667,
+        "clean_test_acc": 0.45066666666666666
+    },
+    "Clothing/v4764/mislabel/clean/guassian_naive_bayes/3659": {
+        "best_params": {},
+        "train_acc": 0.4957142857142857,
+        "val_acc": 0.42799999999999994,
+        "dirty_test_acc": 0.3293333333333333,
+        "clean_test_acc": 0.4126666666666667
+    },
+    "Clothing/v4764/mislabel/clean/XGBoost/3659": {
+        "best_params": {
+            "max_depth": 4.0
+        },
+        "train_acc": 1.0,
+        "val_acc": 0.4911428571428571,
+        "dirty_test_acc": 0.37933333333333336,
+        "clean_test_acc": 0.47733333333333333
+    },
+    "Clothing/v8093/mislabel/dirty/logistic_regression/3659": {
+        "best_params": {
+            "C": 0.0057110639597241185
+        },
+        "train_acc": 0.6377142857142857,
+        "val_acc": 0.4094285714285714,
+        "dirty_test_acc": 0.414,
+        "clean_test_acc": 0.44866666666666666
+    },
+    "Clothing/v8093/mislabel/dirty/knn_classification/3659": {
+        "best_params": {
+            "n_neighbors": 90.0
+        },
+        "train_acc": 0.34735714285714286,
+        "val_acc": 0.3122857142857143,
+        "dirty_test_acc": 0.29933333333333334,
+        "clean_test_acc": 0.31333333333333335
+    },
+    "Clothing/v8093/mislabel/dirty/decision_tree_classification/3659": {
+        "best_params": {
+            "max_depth": 5.0
+        },
+        "train_acc": 0.29742857142857143,
+        "val_acc": 0.22485714285714287,
+        "dirty_test_acc": 0.21133333333333335,
+        "clean_test_acc": 0.25733333333333336
+    },
+    "Clothing/v8093/mislabel/dirty/adaboost_classification/3659": {
+        "best_params": {
+            "learning_rate": 0.12864014641512478
+        },
+        "train_acc": 0.34764285714285714,
+        "val_acc": 0.3,
+        "dirty_test_acc": 0.30933333333333335,
+        "clean_test_acc": 0.2966666666666667
+    },
+    "Clothing/v8093/mislabel/dirty/random_forest_classification/3659": {
+        "best_params": {
+            "max_depth": 184.0
+        },
+        "train_acc": 1.0,
+        "val_acc": 0.3445714285714286,
+        "dirty_test_acc": 0.3566666666666667,
+        "clean_test_acc": 0.36
+    },
+    "Clothing/v8093/mislabel/dirty/guassian_naive_bayes/3659": {
+        "best_params": {},
+        "train_acc": 0.41085714285714287,
+        "val_acc": 0.33599999999999997,
+        "dirty_test_acc": 0.32133333333333336,
+        "clean_test_acc": 0.38333333333333336
+    },
+    "Clothing/v8093/mislabel/dirty/XGBoost/3659": {
+        "best_params": {
+            "max_depth": 4.0
+        },
+        "train_acc": 1.0,
+        "val_acc": 0.3768571428571429,
+        "dirty_test_acc": 0.36,
+        "clean_test_acc": 0.402
+    },
+    "Clothing/v8093/mislabel/clean/logistic_regression/3659": {
+        "best_params": {
+            "C": 0.004321886239791225
+        },
+        "train_acc": 0.694,
+        "val_acc": 0.5111428571428571,
+        "dirty_test_acc": 0.386,
+        "clean_test_acc": 0.5093333333333333
+    },
+    "Clothing/v8093/mislabel/clean/knn_classification/3659": {
+        "best_params": {
+            "n_neighbors": 40.0
+        },
+        "train_acc": 0.454,
+        "val_acc": 0.4057142857142857,
+        "dirty_test_acc": 0.3,
+        "clean_test_acc": 0.41933333333333334
+    },
+    "Clothing/v8093/mislabel/clean/decision_tree_classification/3659": {
+        "best_params": {
+            "max_depth": 6.0
+        },
+        "train_acc": 0.37057142857142855,
+        "val_acc": 0.25542857142857145,
+        "dirty_test_acc": 0.22533333333333333,
+        "clean_test_acc": 0.2806666666666667
+    },
+    "Clothing/v8093/mislabel/clean/adaboost_classification/3659": {
+        "best_params": {
+            "learning_rate": 0.2141030848470203
+        },
+        "train_acc": 0.45471428571428574,
+        "val_acc": 0.3882857142857143,
+        "dirty_test_acc": 0.3233333333333333,
+        "clean_test_acc": 0.414
+    },
+    "Clothing/v8093/mislabel/clean/random_forest_classification/3659": {
+        "best_params": {
+            "max_depth": 46.0
+        },
+        "train_acc": 1.0,
+        "val_acc": 0.4371428571428571,
+        "dirty_test_acc": 0.3233333333333333,
+        "clean_test_acc": 0.452
+    },
+    "Clothing/v8093/mislabel/clean/guassian_naive_bayes/3659": {
+        "best_params": {},
+        "train_acc": 0.48857142857142855,
+        "val_acc": 0.41171428571428575,
+        "dirty_test_acc": 0.32266666666666666,
+        "clean_test_acc": 0.42333333333333334
+    },
+    "Clothing/v8093/mislabel/clean/XGBoost/3659": {
+        "best_params": {
+            "max_depth": 4.0
+        },
+        "train_acc": 1.0,
+        "val_acc": 0.48171428571428565,
+        "dirty_test_acc": 0.36,
+        "clean_test_acc": 0.49266666666666664
+    },
+    "Clothing/v6542/mislabel/dirty/logistic_regression/3659": {
+        "best_params": {
+            "C": 0.004321886239791225
+        },
+        "train_acc": 0.6188571428571429,
+        "val_acc": 0.4174285714285714,
+        "dirty_test_acc": 0.42,
+        "clean_test_acc": 0.42733333333333334
+    },
+    "Clothing/v6542/mislabel/dirty/knn_classification/3659": {
+        "best_params": {
+            "n_neighbors": 28.0
+        },
+        "train_acc": 0.3920714285714286,
+        "val_acc": 0.30942857142857144,
+        "dirty_test_acc": 0.30933333333333335,
+        "clean_test_acc": 0.308
+    },
+    "Clothing/v6542/mislabel/dirty/decision_tree_classification/3659": {
+        "best_params": {
+            "max_depth": 4.0
+        },
+        "train_acc": 0.2692857142857143,
+        "val_acc": 0.2274285714285714,
+        "dirty_test_acc": 0.21333333333333335,
+        "clean_test_acc": 0.25333333333333335
+    },
+    "Clothing/v6542/mislabel/dirty/adaboost_classification/3659": {
+        "best_params": {
+            "learning_rate": 0.11775669666586115
+        },
+        "train_acc": 0.35564285714285715,
+        "val_acc": 0.2997142857142857,
+        "dirty_test_acc": 0.30933333333333335,
+        "clean_test_acc": 0.29533333333333334
+    },
+    "Clothing/v6542/mislabel/dirty/random_forest_classification/3659": {
+        "best_params": {
+            "max_depth": 37.0
+        },
+        "train_acc": 1.0,
+        "val_acc": 0.35028571428571426,
+        "dirty_test_acc": 0.31533333333333335,
+        "clean_test_acc": 0.322
+    },
+    "Clothing/v6542/mislabel/dirty/guassian_naive_bayes/3659": {
+        "best_params": {},
+        "train_acc": 0.416,
+        "val_acc": 0.3411428571428572,
+        "dirty_test_acc": 0.3453333333333333,
+        "clean_test_acc": 0.38533333333333336
+    },
+    "Clothing/v6542/mislabel/dirty/XGBoost/3659": {
+        "best_params": {
+            "max_depth": 2.0
+        },
+        "train_acc": 0.9835714285714288,
+        "val_acc": 0.3688571428571429,
+        "dirty_test_acc": 0.36466666666666664,
+        "clean_test_acc": 0.36933333333333335
+    },
+    "Clothing/v6542/mislabel/clean/logistic_regression/3659": {
+        "best_params": {
+            "C": 0.0029327085198583313
+        },
+        "train_acc": 0.6765,
+        "val_acc": 0.5311428571428571,
+        "dirty_test_acc": 0.378,
+        "clean_test_acc": 0.49933333333333335
+    },
+    "Clothing/v6542/mislabel/clean/knn_classification/3659": {
+        "best_params": {
+            "n_neighbors": 27.0
+        },
+        "train_acc": 0.47285714285714275,
+        "val_acc": 0.4105714285714286,
+        "dirty_test_acc": 0.30266666666666664,
+        "clean_test_acc": 0.426
+    },
+    "Clothing/v6542/mislabel/clean/decision_tree_classification/3659": {
+        "best_params": {
+            "max_depth": 6.0
+        },
+        "train_acc": 0.38785714285714284,
+        "val_acc": 0.27685714285714286,
+        "dirty_test_acc": 0.204,
+        "clean_test_acc": 0.262
+    },
+    "Clothing/v6542/mislabel/clean/adaboost_classification/3659": {
+        "best_params": {
+            "learning_rate": 0.11775669666586115
+        },
+        "train_acc": 0.4586428571428572,
+        "val_acc": 0.41,
+        "dirty_test_acc": 0.30533333333333335,
+        "clean_test_acc": 0.4
+    },
+    "Clothing/v6542/mislabel/clean/random_forest_classification/3659": {
+        "best_params": {
+            "max_depth": 37.0
+        },
+        "train_acc": 1.0,
+        "val_acc": 0.45228571428571424,
+        "dirty_test_acc": 0.30733333333333335,
+        "clean_test_acc": 0.43533333333333335
+    },
+    "Clothing/v6542/mislabel/clean/guassian_naive_bayes/3659": {
+        "best_params": {},
+        "train_acc": 0.502,
+        "val_acc": 0.42942857142857144,
+        "dirty_test_acc": 0.33666666666666667,
+        "clean_test_acc": 0.42866666666666664
+    },
+    "Clothing/v6542/mislabel/clean/XGBoost/3659": {
+        "best_params": {
+            "max_depth": 5.0
+        },
+        "train_acc": 1.0,
+        "val_acc": 0.49257142857142855,
+        "dirty_test_acc": 0.35333333333333333,
+        "clean_test_acc": 0.48
+    },
+    "Clothing/v7813/mislabel/dirty/MLP/3659": {
+        "dirty_test_f1": 0.108,
+        "dirty_test_acc": 0.108,
+        "best_params": {
+            "lr": 0.0012160140857467095,
+            "momentum": 0.5588852433347842,
+            "optimizer": "SGD",
+            "hidden": 102
+        }
+    },
+    "Clothing/v2516/mislabel/dirty/MLP/3659": {
+        "dirty_test_f1": 0.116,
+        "dirty_test_acc": 0.116,
+        "best_params": {
+            "lr": 0.0033760232568118887,
+            "momentum": 0.6256539537033284,
+            "optimizer": "RMSprop",
+            "hidden": 90
+        }
+    },
+    "Clothing/v3462/mislabel/dirty/MLP/3659": {
+        "dirty_test_f1": 0.094,
+        "dirty_test_acc": 0.094,
+        "best_params": {
+            "lr": 0.00290525170908094,
+            "momentum": 0.922903816281189,
+            "optimizer": "SGD",
+            "hidden": 124
+        }
+    },
+    "Clothing/v3562/mislabel/dirty/MLP/3659": {
+        "dirty_test_f1": 0.11,
+        "dirty_test_acc": 0.11,
+        "best_params": {
+            "lr": 0.0028795855122959336,
+            "momentum": 0.4920734449706652,
+            "optimizer": "RMSprop",
+            "hidden": 126
+        }
+    },
+    "Clothing/v235/mislabel/dirty/MLP/3659": {
+        "dirty_test_f1": 0.088,
+        "dirty_test_acc": 0.088,
+        "best_params": {
+            "lr": 0.0002788336691712574,
+            "momentum": 0.9444069038740078,
+            "optimizer": "SGD",
+            "hidden": 83
+        }
+    },
+    "Clothing/v5056/mislabel/dirty/MLP/3659": {
+        "dirty_test_f1": 0.086,
+        "dirty_test_acc": 0.086,
+        "best_params": {
+            "lr": 0.0017166193682360087,
+            "momentum": 0.41593775118538495,
+            "optimizer": "SGD",
+            "hidden": 103
+        }
+    },
+    "Clothing/v4225/mislabel/dirty/MLP/3659": {
+        "dirty_test_f1": 0.122,
+        "dirty_test_acc": 0.122,
+        "best_params": {
+            "lr": 0.00022387459395713138,
+            "momentum": 0.8715759893483306,
+            "optimizer": "SGD",
+            "hidden": 87
+        }
+    },
+    "Clothing/v5374/mislabel/dirty/MLP/3659": {
+        "dirty_test_f1": 0.1,
+        "dirty_test_acc": 0.1,
+        "best_params": {
+            "lr": 1.3342936820896191e-05,
+            "momentum": 0.519847631865642,
+            "optimizer": "SGD",
+            "hidden": 78
+        }
+    },
+    "Clothing/v9394/mislabel/dirty/MLP/3659": {
+        "dirty_test_f1": 0.09,
+        "dirty_test_acc": 0.09,
+        "best_params": {
+            "lr": 5.663911807935478e-05,
+            "momentum": 0.9599190929166167,
+            "optimizer": "SGD",
+            "hidden": 65
+        }
+    },
+    "Clothing/v6542/mislabel/dirty/MLP/3659": {
+        "dirty_test_f1": 0.124,
+        "dirty_test_acc": 0.124,
+        "best_params": {
+            "lr": 0.00022297994762257334,
+            "momentum": 0.6925824682832552,
+            "optimizer": "SGD",
+            "hidden": 81
+        }
+    },
+    "Clothing/v144/mislabel/dirty/MLP/3659": {
+        "dirty_test_f1": 0.128,
+        "dirty_test_acc": 0.128,
+        "best_params": {
+            "lr": 0.0029983105786228225,
+            "momentum": 0.5094991392293962,
+            "optimizer": "SGD",
+            "hidden": 64
+        }
+    },
+    "Clothing/v905/mislabel/dirty/MLP/3659": {
+        "dirty_test_f1": 0.116,
+        "dirty_test_acc": 0.116,
+        "best_params": {
+            "lr": 0.0003492766368248558,
+            "momentum": 0.6584743084303066,
+            "optimizer": "RMSprop",
+            "hidden": 103
+        }
+    },
+    "Clothing/v8444/mislabel/dirty/MLP/3659": {
+        "dirty_test_f1": 0.094,
+        "dirty_test_acc": 0.094,
+        "best_params": {
+            "lr": 0.00014385357520871054,
+            "momentum": 0.47353963156864626,
+            "optimizer": "SGD",
+            "hidden": 117
+        }
+    },
+    "Clothing/v4764/mislabel/dirty/MLP/3659": {
+        "dirty_test_f1": 0.094,
+        "dirty_test_acc": 0.094,
+        "best_params": {
+            "lr": 0.002871507651525555,
+            "momentum": 0.9484997286224623,
+            "optimizer": "RMSprop",
+            "hidden": 75
+        }
+    },
+    "Clothing/v2895/mislabel/dirty/MLP/3659": {
+        "dirty_test_f1": 0.114,
+        "dirty_test_acc": 0.114,
+        "best_params": {
+            "lr": 1.9037101076654422e-05,
+            "momentum": 0.6728505236094076,
+            "optimizer": "SGD",
+            "hidden": 95
+        }
+    },
+    "Clothing/v7751/mislabel/dirty/MLP/3659": {
+        "dirty_test_f1": 0.088,
+        "dirty_test_acc": 0.088,
+        "best_params": {
+            "lr": 2.4176284598387625e-05,
+            "momentum": 0.4599817859960395,
+            "optimizer": "RMSprop",
+            "hidden": 88
+        }
+    },
+    "Clothing/v2962/mislabel/dirty/MLP/3659": {
+        "dirty_test_f1": 0.102,
+        "dirty_test_acc": 0.102,
+        "best_params": {
+            "lr": 0.0031449254566194387,
+            "momentum": 0.8827819382913553,
+            "optimizer": "RMSprop",
+            "hidden": 128
+        }
+    },
+    "Clothing/v8093/mislabel/dirty/MLP/3659": {
+        "dirty_test_f1": 0.104,
+        "dirty_test_acc": 0.104,
+        "best_params": {
+            "lr": 1.5560752089021974e-05,
+            "momentum": 0.7780668144674805,
+            "optimizer": "RMSprop",
+            "hidden": 108
+        }
+    },
+    "Clothing/v5396/mislabel/dirty/MLP/3659": {
+        "dirty_test_f1": 0.112,
+        "dirty_test_acc": 0.112,
+        "best_params": {
+            "lr": 0.00011691037874946947,
+            "momentum": 0.5469673326726939,
+            "optimizer": "RMSprop",
+            "hidden": 96
+        }
+    },
+    "Clothing/v5192/mislabel/dirty/MLP/3659": {
+        "dirty_test_f1": 0.098,
+        "dirty_test_acc": 0.098,
+        "best_params": {
+            "lr": 0.0030132019841220357,
+            "momentum": 0.6877458222008836,
+            "optimizer": "RMSprop",
+            "hidden": 71
+        }
+    }
+}
