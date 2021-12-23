@@ -10,6 +10,7 @@ from sklearn.naive_bayes import GaussianNB
 from sklearn.naive_bayes import MultinomialNB
 from sklearn.linear_model import RANSACRegressor
 from xgboost import XGBClassifier
+from schema.autosklearn_model.AutoSklearnModel import AutoSklearnModel
 
 # details of each model
 logistic_reg = {
@@ -92,5 +93,13 @@ xgb_clf = {
     "hyperparams_range": [1, 100]
 }
 
+autosklearn_clf = {
+    "name": "auto_sklearn",
+    "fn": AutoSklearnModel,
+    "fixed_params": {},
+    "type": "classification"
+}
+
 # model domain
-models = [logistic_reg, knn_clf, dt_clf, adaboost_clf, random_forest_clf, gaussian_nb, xgb_clf]
+#models = [logistic_reg, knn_clf, dt_clf, adaboost_clf, random_forest_clf, gaussian_nb, xgb_clf]
+models = [autosklearn_clf]

@@ -23,11 +23,13 @@ parser.add_argument('--alpha', default=0.05, type=float)
 
 args = parser.parse_args()
 
-# run experiments on datasets
-if args.run_experiments:
-    datasets = [utils.get_dataset(args.dataset)] if args.dataset is not None else config.datasets
-    experiment(datasets, args.log, args.cpu, args.nosave, args.error_type, args.seeds)
+if __name__ == "__main__":
 
-# run analysis on results
-if args.run_analysis:
-    populate([args.alpha])  
+    # run experiments on datasets
+    if args.run_experiments:
+        datasets = [utils.get_dataset(args.dataset)] if args.dataset is not None else config.datasets
+        experiment(datasets, args.log, args.cpu, args.nosave, args.error_type, args.seeds)
+
+    # run analysis on results
+    if args.run_analysis:
+        populate([args.alpha])

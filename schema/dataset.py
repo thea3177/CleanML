@@ -2,6 +2,7 @@
 from .error_type import *
 
 # details of each dataset
+
 KDD = {
     "data_dir": "KDD",
     "error_types": ["missing_values", "outliers"],
@@ -257,10 +258,13 @@ Credit_minor = {
     "class_imbalance":True
 }
 
-# domain of dataset 
+# domain of dataset
+'''
 datasets = [KDD, Credit, Airbnb, USCensus, EEG, Titanic, 
             Marketing, Sensor, Movie, Restaurant, Citation, 
             Company, University, KDD_uniform, KDD_minor, KDD_major,
             USCensus_uniform, USCensus_major, USCensus_minor,
             EEG_uniform, EEG_minor, EEG_major, Titanic_uniform, Titanic_minor, Titanic_major,
             Marketing_uniform, Marketing_major, Marketing_minor, Credit_uniform, Credit_major, Credit_minor]
+'''
+datasets = [Citation]
