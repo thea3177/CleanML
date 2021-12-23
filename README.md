@@ -8,6 +8,20 @@ The details of the benchmark methodology and design are described in the paper:
 > CleanML: A Benchmark for
 Joint Data Cleaning and Machine Learning [Experiments and Analysis]
 
+## Setup
+
+```
+git clone git@github.com:FelixNeutatz/CleanML.git
+cd CleanML
+conda create -n CleanML python=3.8
+conda activate CleanML
+python -m pip install . 
+
+# download https://www.dropbox.com/s/nerfrhbrseev928/CleanML-datasets-2020.zip?dl=0
+
+python main.py --run_experiments
+```
+
 
 
 ## Basic Usage
