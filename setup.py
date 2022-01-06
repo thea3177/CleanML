@@ -14,7 +14,6 @@ setup(
     license='test',
     include_package_data=True,
     install_requires=["attrs==21.4.0",
-"auto-sklearn==0.14.2",
 "autocfg==0.0.8",
 "autogluon==0.3.1",
 "autogluon-contrib-nlp==0.0.1b20210201",
@@ -119,7 +118,6 @@ setup(
 "sacrebleu==2.0.0",
 "sacremoses==0.0.46",
 "scikit-learn==0.24.2",
-"scipy==1.7.0",
 "sentencepiece==0.1.95",
 "setuptools-scm==6.3.2",
 "six==1.16.0",
@@ -157,4 +155,5 @@ setup(
 "zict==2.0.0"],
     packages=find_packages(exclude=('tests', 'docs'))
 )
+
 
