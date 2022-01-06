@@ -11,6 +11,7 @@ from sklearn.naive_bayes import MultinomialNB
 from sklearn.linear_model import RANSACRegressor
 from xgboost import XGBClassifier
 from schema.autosklearn_model.AutoSklearnModel import AutoSklearnModel
+from schema.autogluon.AutoGluonModel import AutoGluonModel
 
 # details of each model
 logistic_reg = {
@@ -93,9 +94,18 @@ xgb_clf = {
     "hyperparams_range": [1, 100]
 }
 
+
 autosklearn_clf = {
     "name": "auto_sklearn",
     "fn": AutoSklearnModel,
+    "fixed_params": {},
+    "type": "classification"
+}
+
+
+autogluon_clf = {
+    "name": "auto_gluon",
+    "fn": AutoGluonModel,
     "fixed_params": {},
     "type": "classification"
 }
