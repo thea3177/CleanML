@@ -24,6 +24,8 @@ parser.add_argument('--alpha', default=0.05, type=float)
 args = parser.parse_args()
 
 if __name__ == "__main__":
+    import multiprocessing
+    multiprocessing.set_start_method("spawn")
 
     # run experiments on datasets
     if args.run_experiments:
