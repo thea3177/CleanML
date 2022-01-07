@@ -33,7 +33,7 @@ def eval(data, target_label, fold_ids, drop_labels=[], feat_type=None):
 def get_fold_ids(data, target_label, drop_labels=[]):
     data_y, data_X = get_X_y(data, target_label, drop_labels)
 
-    skf = StratifiedKFold(n_splits=2)
+    skf = StratifiedKFold(n_splits=5)
     fold_ids = list(skf.split(data_X, data_y))
     return fold_ids
 
