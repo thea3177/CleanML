@@ -8,7 +8,7 @@ class AutoSklearnModel(ClassifierMixin, BaseEstimator, metaclass=ABCMeta):
     def __init__(self):
         self.autosklearn_model = autosklearn.classification.AutoSklearnClassifier(time_left_for_this_task=10*60,
                                                                              metric=balanced_accuracy,
-                                                                             n_jobs=20)
+                                                                             n_jobs=1)
 
     def fit(self, X, y, feat_type=None):
         self.autosklearn_model.fit(X.copy(), y.copy())
